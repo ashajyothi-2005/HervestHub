@@ -1,0 +1,10 @@
+Flask
+flask-cors
+joblib
+pandas
+numpy
+tensorflow
+scikit-learn
+python-dotenv
+mysql-connector-python
+openai

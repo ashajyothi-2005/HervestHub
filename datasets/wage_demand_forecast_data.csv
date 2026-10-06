@@ -1,0 +1,2001 @@
+Date / Mandi_Season,Region_ID / District,Crop_Type,Weather_Condition,Historical_Labour_Demanded,Historical_Labour_Supplied,Market_Wage_Paid,Total_Jobs_Next_Week
+2025-01-01 / Rabi,Guntur District,Paddy,Heavy Rain Alert,58,93,409,39
+2025-01-02 / Rabi,Kurnool District,Sugarcane,Moderate Rainfall,58,83,350,41
+2025-01-03 / Rabi,Guntur District,Chilli,Sunny / Dry,30,75,310,27
+2025-01-04 / Rabi,Chittoor Region,Cotton,Sunny / Dry,22,86,300,20
+2025-01-05 / Rabi,Guntur District,Paddy,Moderate Rainfall,21,88,300,19
+2025-01-06 / Rabi,Kurnool District,Chilli,Sunny / Dry,52,76,366,37
+2025-01-07 / Rabi,Chittoor Region,Sugarcane,Extreme Heatwave,63,89,364,31
+2025-01-08 / Rabi,Kurnool District,Cotton,Heavy Rain Alert,47,80,389,27
+2025-01-09 / Rabi,Guntur District,Sugarcane,Extreme Heatwave,66,108,345,26
+2025-01-10 / Rabi,Anantapur District,Wheat,Moderate Rainfall,121,51,599,74
+2025-01-11 / Rabi,Kurnool District,Wheat,Sunny / Dry,93,83,420,59
+2025-01-12 / Rabi,Guntur District,Cotton,Sunny / Dry,21,84,300,13
+2025-01-13 / Rabi,Anantapur District,Wheat,Heavy Rain Alert,91,88,491,51
+2025-01-14 / Rabi,Guntur District,Cotton,Sunny / Dry,36,100,300,24
+2025-01-15 / Rabi,East Godavari,Paddy,Heavy Rain Alert,59,68,470,29
+2025-01-16 / Rabi,Chittoor Region,Wheat,Moderate Rainfall,88,73,433,53
+2025-01-17 / Rabi,Guntur District,Paddy,Moderate Rainfall,45,108,300,19
+2025-01-18 / Rabi,Anantapur District,Paddy,Moderate Rainfall,33,87,300,13
+2025-01-19 / Rabi,Guntur District,Cotton,Heavy Rain Alert,40,80,393,33
+2025-01-20 / Rabi,East Godavari,Wheat,Moderate Rainfall,110,69,542,60
+2025-01-21 / Rabi,Anantapur District,Wheat,Moderate Rainfall,125,73,556,58
+2025-01-22 / Rabi,Anantapur District,Paddy,Moderate Rainfall,54,97,323,21
+2025-01-23 / Rabi,Chittoor Region,Sugarcane,Moderate Rainfall,61,103,322,29
+2025-01-24 / Rabi,East Godavari,Cotton,Heavy Rain Alert,27,76,370,3
+2025-01-25 / Rabi,Chittoor Region,Sugarcane,Heavy Rain Alert,52,112,357,20
+2025-01-26 / Rabi,Guntur District,Sugarcane,Sunny / Dry,54,108,300,24
+2025-01-27 / Rabi,Anantapur District,Cotton,Heavy Rain Alert,41,91,340,24
+2025-01-28 / Rabi,Guntur District,Sugarcane,Heavy Rain Alert,33,67,417,6
+2025-01-29 / Rabi,Kurnool District,Cotton,Extreme Heatwave,24,90,300,9
+2025-01-30 / Rabi,East Godavari,Sugarcane,Heavy Rain Alert,34,79,367,15
+2025-01-31 / Rabi,Kurnool District,Sugarcane,Heavy Rain Alert,32,96,312,8
+2025-02-01 / Rabi,Chittoor Region,Cotton,Extreme Heatwave,49,101,302,36
+2025-02-02 / Rabi,Anantapur District,Sugarcane,Moderate Rainfall,58,109,300,31
+2025-02-03 / Rabi,Chittoor Region,Cotton,Sunny / Dry,51,71,372,34
+2025-02-04 / Rabi,Guntur District,Paddy,Moderate Rainfall,41,92,303,21
+2025-02-05 / Rabi,Kurnool District,Cotton,Sunny / Dry,63,84,371,32
+2025-02-06 / Rabi,East Godavari,Cotton,Extreme Heatwave,47,89,306,32
+2025-02-07 / Rabi,Chittoor Region,Wheat,Sunny / Dry,97,85,446,43
+2025-02-08 / Rabi,Guntur District,Chilli,Heavy Rain Alert,58,70,428,23
+2025-02-09 / Rabi,Anantapur District,Paddy,Heavy Rain Alert,52,106,359,27
+2025-02-10 / Rabi,East Godavari,Sugarcane,Extreme Heatwave,43,79,324,34
+2025-02-11 / Rabi,Guntur District,Wheat,Moderate Rainfall,125,56,585,62
+2025-02-12 / Rabi,Chittoor Region,Paddy,Heavy Rain Alert,21,67,362,15
+2025-02-13 / Rabi,Chittoor Region,Chilli,Moderate Rainfall,68,66,413,26
+2025-02-14 / Rabi,Kurnool District,Wheat,Moderate Rainfall,112,67,538,67
+2025-02-15 / Rabi,Chittoor Region,Chilli,Sunny / Dry,21,108,300,4
+2025-02-16 / Rabi,Chittoor Region,Wheat,Extreme Heatwave,116,48,587,67
+2025-02-17 / Rabi,Guntur District,Paddy,Heavy Rain Alert,57,88,404,23
+2025-02-18 / Rabi,Anantapur District,Sugarcane,Sunny / Dry,53,70,392,32
+2025-02-19 / Rabi,Kurnool District,Chilli,Sunny / Dry,52,73,362,21
+2025-02-20 / Rabi,Guntur District,Cotton,Sunny / Dry,35,93,300,10
+2025-02-21 / Rabi,Chittoor Region,Sugarcane,Moderate Rainfall,38,90,300,10
+2025-02-22 / Rabi,East Godavari,Chilli,Moderate Rainfall,38,84,300,8
+2025-02-23 / Rabi,Anantapur District,Chilli,Extreme Heatwave,59,103,315,37
+2025-02-24 / Rabi,Kurnool District,Chilli,Moderate Rainfall,59,65,419,37
+2025-02-25 / Rabi,Anantapur District,Cotton,Heavy Rain Alert,42,95,367,20
+2025-02-26 / Rabi,East Godavari,Chilli,Extreme Heatwave,54,71,390,36
+2025-02-27 / Rabi,Guntur District,Sugarcane,Moderate Rainfall,68,66,431,25
+2025-02-28 / Rabi,Guntur District,Wheat,Sunny / Dry,132,56,622,82
+2025-03-01 / Rabi,Chittoor Region,Chilli,Moderate Rainfall,28,105,300,5
+2025-03-02 / Rabi,Chittoor Region,Sugarcane,Sunny / Dry,38,112,300,29
+2025-03-03 / Rabi,Guntur District,Paddy,Moderate Rainfall,52,88,331,35
+2025-03-04 / Rabi,Guntur District,Paddy,Heavy Rain Alert,30,113,300,21
+2025-03-05 / Rabi,Guntur District,Chilli,Moderate Rainfall,65,82,368,24
+2025-03-06 / Rabi,Anantapur District,Cotton,Moderate Rainfall,54,80,354,32
+2025-03-07 / Rabi,Chittoor Region,Sugarcane,Extreme Heatwave,39,72,332,15
+2025-03-08 / Rabi,Kurnool District,Cotton,Extreme Heatwave,22,81,300,18
+2025-03-09 / Rabi,Kurnool District,Paddy,Sunny / Dry,41,86,300,23
+2025-03-10 / Rabi,East Godavari,Wheat,Extreme Heatwave,114,82,499,57
+2025-03-11 / Rabi,East Godavari,Cotton,Sunny / Dry,46,91,312,14
+2025-03-12 / Rabi,Guntur District,Paddy,Extreme Heatwave,40,94,301,10
+2025-03-13 / Rabi,Anantapur District,Paddy,Moderate Rainfall,24,112,300,19
+2025-03-14 / Rabi,Kurnool District,Sugarcane,Extreme Heatwave,23,99,300,13
+2025-03-15 / Rabi,Kurnool District,Cotton,Moderate Rainfall,25,99,300,9
+2025-03-16 / Rabi,Anantapur District,Cotton,Moderate Rainfall,56,88,347,20
+2025-03-17 / Rabi,Guntur District,Cotton,Sunny / Dry,52,85,314,38
+2025-03-18 / Rabi,Guntur District,Chilli,Sunny / Dry,52,67,385,37
+2025-03-19 / Rabi,Guntur District,Sugarcane,Moderate Rainfall,22,104,300,13
+2025-03-20 / Rabi,East Godavari,Cotton,Extreme Heatwave,43,114,300,12
+2025-03-21 / Rabi,Kurnool District,Cotton,Sunny / Dry,45,81,316,19
+2025-03-22 / Rabi,Kurnool District,Cotton,Sunny / Dry,52,73,355,25
+2025-03-23 / Rabi,East Godavari,Wheat,Extreme Heatwave,139,70,609,66
+2025-03-24 / Rabi,Anantapur District,Cotton,Extreme Heatwave,69,89,361,31
+2025-03-25 / Rabi,Kurnool District,Sugarcane,Heavy Rain Alert,55,109,357,37
+2025-03-26 / Rabi,Kurnool District,Paddy,Sunny / Dry,20,72,301,10
+2025-03-27 / Rabi,Anantapur District,Paddy,Sunny / Dry,42,79,335,12
+2025-03-28 / Rabi,Chittoor Region,Cotton,Moderate Rainfall,21,96,300,20
+2025-03-29 / Rabi,Guntur District,Chilli,Sunny / Dry,41,113,300,29
+2025-03-30 / Rabi,Kurnool District,Paddy,Sunny / Dry,61,70,401,25
+2025-03-31 / Rabi,Kurnool District,Cotton,Sunny / Dry,52,72,347,36
+2025-04-01 / Zaid,Chittoor Region,Sugarcane,Sunny / Dry,63,108,300,34
+2025-04-02 / Zaid,Chittoor Region,Paddy,Extreme Heatwave,51,94,315,30
+2025-04-03 / Zaid,Chittoor Region,Chilli,Heavy Rain Alert,54,104,340,33
+2025-04-04 / Zaid,Anantapur District,Sugarcane,Heavy Rain Alert,38,92,357,30
+2025-04-05 / Zaid,Kurnool District,Wheat,Extreme Heatwave,45,101,301,12
+2025-04-06 / Zaid,Kurnool District,Wheat,Extreme Heatwave,20,111,300,2
+2025-04-07 / Zaid,Anantapur District,Paddy,Sunny / Dry,51,112,300,20
+2025-04-08 / Zaid,East Godavari,Chilli,Sunny / Dry,41,93,316,32
+2025-04-09 / Zaid,Guntur District,Chilli,Moderate Rainfall,22,76,300,21
+2025-04-10 / Zaid,Chittoor Region,Wheat,Moderate Rainfall,48,78,347,18
+2025-04-11 / Zaid,Anantapur District,Paddy,Moderate Rainfall,66,113,310,27
+2025-04-12 / Zaid,Anantapur District,Wheat,Moderate Rainfall,52,94,322,20
+2025-04-13 / Zaid,East Godavari,Chilli,Heavy Rain Alert,42,74,410,34
+2025-04-14 / Zaid,Chittoor Region,Chilli,Sunny / Dry,24,109,300,4
+2025-04-15 / Zaid,Chittoor Region,Wheat,Sunny / Dry,35,88,300,26
+2025-04-16 / Zaid,Kurnool District,Wheat,Sunny / Dry,43,76,348,28
+2025-04-17 / Zaid,Guntur District,Chilli,Moderate Rainfall,54,97,338,21
+2025-04-18 / Zaid,Anantapur District,Wheat,Moderate Rainfall,31,67,306,5
+2025-04-19 / Zaid,Anantapur District,Sugarcane,Heavy Rain Alert,52,104,354,23
+2025-04-20 / Zaid,Chittoor Region,Cotton,Heavy Rain Alert,48,90,387,23
+2025-04-21 / Zaid,Guntur District,Paddy,Extreme Heatwave,45,98,300,32
+2025-04-22 / Zaid,Anantapur District,Paddy,Sunny / Dry,69,109,300,35
+2025-04-23 / Zaid,Anantapur District,Sugarcane,Heavy Rain Alert,48,100,365,17
+2025-04-24 / Zaid,Kurnool District,Cotton,Extreme Heatwave,29,101,300,11
+2025-04-25 / Zaid,Chittoor Region,Paddy,Sunny / Dry,43,99,300,28
+2025-04-26 / Zaid,Guntur District,Sugarcane,Sunny / Dry,68,103,333,48
+2025-04-27 / Zaid,Anantapur District,Chilli,Moderate Rainfall,42,96,300,23
+2025-04-28 / Zaid,East Godavari,Sugarcane,Sunny / Dry,42,89,315,13
+2025-04-29 / Zaid,Anantapur District,Wheat,Sunny / Dry,60,94,335,36
+2025-04-30 / Zaid,Anantapur District,Sugarcane,Moderate Rainfall,44,86,326,24
+2025-05-01 / Zaid,Guntur District,Wheat,Extreme Heatwave,38,113,300,21
+2025-05-02 / Zaid,Chittoor Region,Sugarcane,Moderate Rainfall,50,83,349,29
+2025-05-03 / Zaid,Kurnool District,Sugarcane,Extreme Heatwave,35,69,322,27
+2025-05-04 / Zaid,Guntur District,Sugarcane,Heavy Rain Alert,55,87,395,33
+2025-05-05 / Zaid,East Godavari,Sugarcane,Heavy Rain Alert,58,109,366,29
+2025-05-06 / Zaid,Kurnool District,Paddy,Extreme Heatwave,37,111,300,19
+2025-05-07 / Zaid,Guntur District,Cotton,Moderate Rainfall,28,74,306,8
+2025-05-08 / Zaid,Kurnool District,Cotton,Heavy Rain Alert,26,110,300,14
+2025-05-09 / Zaid,Anantapur District,Sugarcane,Moderate Rainfall,59,106,313,21
+2025-05-10 / Zaid,Guntur District,Sugarcane,Extreme Heatwave,24,93,300,5
+2025-05-11 / Zaid,Anantapur District,Wheat,Sunny / Dry,57,83,367,40
+2025-05-12 / Zaid,Anantapur District,Wheat,Extreme Heatwave,36,71,335,19
+2025-05-13 / Zaid,Chittoor Region,Wheat,Sunny / Dry,23,100,300,11
+2025-05-14 / Zaid,Guntur District,Wheat,Moderate Rainfall,58,91,334,28
+2025-05-15 / Zaid,Chittoor Region,Wheat,Sunny / Dry,45,83,324,24
+2025-05-16 / Zaid,Guntur District,Chilli,Extreme Heatwave,69,92,350,44
+2025-05-17 / Zaid,Anantapur District,Wheat,Extreme Heatwave,47,72,361,13
+2025-05-18 / Zaid,Chittoor Region,Chilli,Sunny / Dry,22,77,300,16
+2025-05-19 / Zaid,East Godavari,Chilli,Moderate Rainfall,44,97,300,16
+2025-05-20 / Zaid,Anantapur District,Paddy,Extreme Heatwave,55,99,310,36
+2025-05-21 / Zaid,Guntur District,Chilli,Moderate Rainfall,39,82,306,23
+2025-05-22 / Zaid,Anantapur District,Cotton,Sunny / Dry,50,65,375,35
+2025-05-23 / Zaid,Anantapur District,Chilli,Heavy Rain Alert,22,80,349,9
+2025-05-24 / Zaid,Guntur District,Wheat,Heavy Rain Alert,51,80,420,23
+2025-05-25 / Zaid,East Godavari,Wheat,Extreme Heatwave,57,76,368,22
+2025-05-26 / Zaid,Anantapur District,Chilli,Moderate Rainfall,45,72,343,29
+2025-05-27 / Zaid,Kurnool District,Cotton,Extreme Heatwave,47,92,300,34
+2025-05-28 / Zaid,Kurnool District,Chilli,Heavy Rain Alert,36,73,388,7
+2025-05-29 / Zaid,East Godavari,Chilli,Sunny / Dry,39,77,314,22
+2025-05-30 / Zaid,Anantapur District,Wheat,Moderate Rainfall,54,70,385,34
+2025-05-31 / Zaid,East Godavari,Chilli,Heavy Rain Alert,24,111,300,5
+2025-06-01 / Kharif,East Godavari,Cotton,Extreme Heatwave,127,40,649,74
+2025-06-02 / Kharif,Kurnool District,Chilli,Extreme Heatwave,51,111,300,37
+2025-06-03 / Kharif,Kurnool District,Paddy,Heavy Rain Alert,153,66,694,88
+2025-06-04 / Kharif,Chittoor Region,Chilli,Heavy Rain Alert,32,97,300,5
+2025-06-05 / Kharif,Guntur District,Sugarcane,Heavy Rain Alert,40,112,300,32
+2025-06-06 / Kharif,Kurnool District,Sugarcane,Moderate Rainfall,25,92,300,5
+2025-06-07 / Kharif,Guntur District,Paddy,Moderate Rainfall,147,76,598,77
+2025-06-08 / Kharif,East Godavari,Chilli,Sunny / Dry,29,83,300,16
+2025-06-09 / Kharif,East Godavari,Cotton,Moderate Rainfall,95,52,508,43
+2025-06-10 / Kharif,East Godavari,Cotton,Extreme Heatwave,156,40,722,80
+2025-06-11 / Kharif,Kurnool District,Sugarcane,Sunny / Dry,58,90,358,20
+2025-06-12 / Kharif,Guntur District,Cotton,Moderate Rainfall,148,42,699,90
+2025-06-13 / Kharif,Kurnool District,Chilli,Extreme Heatwave,63,69,405,38
+2025-06-14 / Kharif,Guntur District,Chilli,Moderate Rainfall,67,111,326,37
+2025-06-15 / Kharif,Guntur District,Cotton,Moderate Rainfall,145,78,582,72
+2025-06-16 / Kharif,East Godavari,Chilli,Heavy Rain Alert,53,102,386,31
+2025-06-17 / Kharif,East Godavari,Chilli,Extreme Heatwave,46,98,305,32
+2025-06-18 / Kharif,Chittoor Region,Cotton,Moderate Rainfall,132,72,564,82
+2025-06-19 / Kharif,East Godavari,Cotton,Heavy Rain Alert,145,56,728,71
+2025-06-20 / Kharif,Kurnool District,Wheat,Extreme Heatwave,48,68,384,30
+2025-06-21 / Kharif,Kurnool District,Wheat,Extreme Heatwave,39,88,300,13
+2025-06-22 / Kharif,Guntur District,Wheat,Moderate Rainfall,53,70,352,27
+2025-06-23 / Kharif,Anantapur District,Wheat,Heavy Rain Alert,62,112,363,32
+2025-06-24 / Kharif,Chittoor Region,Paddy,Moderate Rainfall,117,55,561,75
+2025-06-25 / Kharif,Kurnool District,Sugarcane,Extreme Heatwave,44,67,368,14
+2025-06-26 / Kharif,Kurnool District,Sugarcane,Sunny / Dry,46,93,303,31
+2025-06-27 / Kharif,East Godavari,Cotton,Heavy Rain Alert,113,60,626,54
+2025-06-28 / Kharif,Chittoor Region,Cotton,Extreme Heatwave,136,61,590,63
+2025-06-29 / Kharif,Guntur District,Sugarcane,Extreme Heatwave,68,78,392,37
+2025-06-30 / Kharif,East Godavari,Chilli,Sunny / Dry,46,73,352,34
+2025-07-01 / Kharif,Chittoor Region,Cotton,Extreme Heatwave,150,69,611,80
+2025-07-02 / Kharif,Guntur District,Wheat,Heavy Rain Alert,67,81,465,40
+2025-07-03 / Kharif,East Godavari,Cotton,Moderate Rainfall,146,54,642,82
+2025-07-04 / Kharif,East Godavari,Sugarcane,Heavy Rain Alert,41,78,379,33
+2025-07-05 / Kharif,East Godavari,Cotton,Sunny / Dry,96,65,513,53
+2025-07-06 / Kharif,East Godavari,Wheat,Extreme Heatwave,26,67,317,16
+2025-07-07 / Kharif,Kurnool District,Cotton,Moderate Rainfall,112,77,519,51
+2025-07-08 / Kharif,Chittoor Region,Chilli,Sunny / Dry,34,89,300,12
+2025-07-09 / Kharif,East Godavari,Chilli,Sunny / Dry,36,103,300,28
+2025-07-10 / Kharif,Guntur District,Cotton,Moderate Rainfall,138,64,607,66
+2025-07-11 / Kharif,East Godavari,Sugarcane,Sunny / Dry,29,67,335,11
+2025-07-12 / Kharif,Anantapur District,Cotton,Heavy Rain Alert,112,75,610,56
+2025-07-13 / Kharif,Kurnool District,Cotton,Heavy Rain Alert,134,58,692,70
+2025-07-14 / Kharif,Anantapur District,Cotton,Heavy Rain Alert,135,76,654,63
+2025-07-15 / Kharif,East Godavari,Wheat,Sunny / Dry,64,70,389,27
+2025-07-16 / Kharif,East Godavari,Paddy,Sunny / Dry,127,61,577,72
+2025-07-17 / Kharif,Anantapur District,Sugarcane,Sunny / Dry,23,94,300,10
+2025-07-18 / Kharif,Guntur District,Paddy,Moderate Rainfall,156,69,638,80
+2025-07-19 / Kharif,Kurnool District,Paddy,Moderate Rainfall,130,63,577,64
+2025-07-20 / Kharif,Kurnool District,Sugarcane,Extreme Heatwave,21,84,300,22
+2025-07-21 / Kharif,Guntur District,Chilli,Moderate Rainfall,57,66,406,33
+2025-07-22 / Kharif,East Godavari,Wheat,Heavy Rain Alert,30,72,399,8
+2025-07-23 / Kharif,Kurnool District,Chilli,Sunny / Dry,25,90,300,22
+2025-07-24 / Kharif,Kurnool District,Wheat,Sunny / Dry,23,83,300,11
+2025-07-25 / Kharif,Chittoor Region,Paddy,Heavy Rain Alert,141,40,732,78
+2025-07-26 / Kharif,Chittoor Region,Cotton,Extreme Heatwave,158,77,608,77
+2025-07-27 / Kharif,Kurnool District,Paddy,Moderate Rainfall,97,72,485,46
+2025-07-28 / Kharif,Guntur District,Wheat,Sunny / Dry,69,74,431,26
+2025-07-29 / Kharif,Chittoor Region,Paddy,Heavy Rain Alert,107,79,583,47
+2025-07-30 / Kharif,Chittoor Region,Cotton,Heavy Rain Alert,159,76,726,77
+2025-07-31 / Kharif,Guntur District,Chilli,Heavy Rain Alert,49,95,367,30
+2025-08-01 / Kharif,Guntur District,Cotton,Extreme Heatwave,156,53,671,73
+2025-08-02 / Kharif,Guntur District,Cotton,Heavy Rain Alert,134,61,657,68
+2025-08-03 / Kharif,East Godavari,Sugarcane,Extreme Heatwave,30,105,300,6
+2025-08-04 / Kharif,Kurnool District,Chilli,Heavy Rain Alert,40,101,345,14
+2025-08-05 / Kharif,Chittoor Region,Chilli,Extreme Heatwave,38,78,300,20
+2025-08-06 / Kharif,East Godavari,Cotton,Heavy Rain Alert,136,64,674,79
+2025-08-07 / Kharif,Anantapur District,Sugarcane,Sunny / Dry,59,72,363,38
+2025-08-08 / Kharif,Anantapur District,Cotton,Moderate Rainfall,132,72,557,82
+2025-08-09 / Kharif,East Godavari,Chilli,Extreme Heatwave,34,97,300,28
+2025-08-10 / Kharif,Anantapur District,Paddy,Extreme Heatwave,147,79,587,75
+2025-08-11 / Kharif,Anantapur District,Sugarcane,Extreme Heatwave,58,70,391,26
+2025-08-12 / Kharif,Kurnool District,Wheat,Heavy Rain Alert,61,79,451,35
+2025-08-13 / Kharif,Anantapur District,Wheat,Heavy Rain Alert,48,97,379,17
+2025-08-14 / Kharif,Chittoor Region,Paddy,Moderate Rainfall,123,77,535,55
+2025-08-15 / Kharif,Guntur District,Sugarcane,Extreme Heatwave,56,91,350,27
+2025-08-16 / Kharif,East Godavari,Chilli,Moderate Rainfall,52,102,300,28
+2025-08-17 / Kharif,East Godavari,Cotton,Extreme Heatwave,125,75,572,70
+2025-08-18 / Kharif,Guntur District,Paddy,Heavy Rain Alert,123,47,668,59
+2025-08-19 / Kharif,Kurnool District,Cotton,Moderate Rainfall,123,43,631,73
+2025-08-20 / Kharif,Anantapur District,Chilli,Heavy Rain Alert,55,100,389,28
+2025-08-21 / Kharif,East Godavari,Chilli,Heavy Rain Alert,46,69,418,35
+2025-08-22 / Kharif,East Godavari,Chilli,Heavy Rain Alert,66,90,421,37
+2025-08-23 / Kharif,Anantapur District,Cotton,Heavy Rain Alert,106,65,594,46
+2025-08-24 / Kharif,Anantapur District,Wheat,Moderate Rainfall,66,104,356,34
+2025-08-25 / Kharif,Guntur District,Sugarcane,Heavy Rain Alert,31,108,318,28
+2025-08-26 / Kharif,Guntur District,Chilli,Moderate Rainfall,56,72,387,27
+2025-08-27 / Kharif,Kurnool District,Sugarcane,Extreme Heatwave,68,92,352,43
+2025-08-28 / Kharif,Anantapur District,Chilli,Heavy Rain Alert,48,78,412,21
+2025-08-29 / Kharif,Guntur District,Sugarcane,Heavy Rain Alert,60,86,417,24
+2025-08-30 / Kharif,Kurnool District,Wheat,Moderate Rainfall,42,65,356,32
+2025-08-31 / Kharif,Anantapur District,Paddy,Moderate Rainfall,149,79,575,89
+2025-09-01 / Kharif,Anantapur District,Paddy,Sunny / Dry,103,49,571,63
+2025-09-02 / Kharif,Chittoor Region,Wheat,Moderate Rainfall,45,105,300,22
+2025-09-03 / Kharif,East Godavari,Paddy,Sunny / Dry,132,41,636,66
+2025-09-04 / Kharif,Chittoor Region,Wheat,Extreme Heatwave,37,91,300,18
+2025-09-05 / Kharif,East Godavari,Cotton,Heavy Rain Alert,153,63,735,78
+2025-09-06 / Kharif,Kurnool District,Paddy,Heavy Rain Alert,146,45,733,85
+2025-09-07 / Kharif,East Godavari,Paddy,Sunny / Dry,143,46,673,82
+2025-09-08 / Kharif,East Godavari,Cotton,Sunny / Dry,143,59,620,73
+2025-09-09 / Kharif,Chittoor Region,Paddy,Moderate Rainfall,143,46,660,66
+2025-09-10 / Kharif,Kurnool District,Chilli,Heavy Rain Alert,51,77,408,39
+2025-09-11 / Kharif,Guntur District,Sugarcane,Sunny / Dry,38,96,300,24
+2025-09-12 / Kharif,Chittoor Region,Cotton,Moderate Rainfall,139,68,628,81
+2025-09-13 / Kharif,Chittoor Region,Cotton,Extreme Heatwave,95,53,511,58
+2025-09-14 / Kharif,East Godavari,Wheat,Extreme Heatwave,66,114,300,41
+2025-09-15 / Kharif,Anantapur District,Chilli,Sunny / Dry,49,102,300,32
+2025-09-16 / Kharif,Chittoor Region,Paddy,Moderate Rainfall,157,43,708,80
+2025-09-17 / Kharif,Kurnool District,Wheat,Sunny / Dry,22,96,300,9
+2025-09-18 / Kharif,Kurnool District,Sugarcane,Moderate Rainfall,29,83,300,25
+2025-09-19 / Kharif,Chittoor Region,Paddy,Moderate Rainfall,149,67,646,86
+2025-09-20 / Kharif,Guntur District,Cotton,Extreme Heatwave,101,68,517,45
+2025-09-21 / Kharif,Chittoor Region,Cotton,Heavy Rain Alert,153,47,728,93
+2025-09-22 / Kharif,Guntur District,Sugarcane,Heavy Rain Alert,66,101,408,38
+2025-09-23 / Kharif,Anantapur District,Cotton,Sunny / Dry,102,73,479,46
+2025-09-24 / Kharif,Kurnool District,Wheat,Moderate Rainfall,51,88,336,26
+2025-09-25 / Kharif,East Godavari,Paddy,Moderate Rainfall,110,43,592,67
+2025-09-26 / Kharif,Kurnool District,Wheat,Moderate Rainfall,56,85,327,35
+2025-09-27 / Kharif,Guntur District,Paddy,Moderate Rainfall,101,49,539,49
+2025-09-28 / Kharif,Anantapur District,Chilli,Heavy Rain Alert,52,87,406,33
+2025-09-29 / Kharif,East Godavari,Paddy,Extreme Heatwave,96,40,570,54
+2025-09-30 / Kharif,Anantapur District,Cotton,Heavy Rain Alert,114,50,641,72
+2025-10-01 / Kharif,Chittoor Region,Chilli,Extreme Heatwave,31,84,300,9
+2025-10-02 / Kharif,East Godavari,Paddy,Sunny / Dry,131,77,547,80
+2025-10-03 / Kharif,East Godavari,Wheat,Heavy Rain Alert,63,99,415,41
+2025-10-04 / Kharif,Guntur District,Paddy,Moderate Rainfall,118,56,574,65
+2025-10-05 / Kharif,Chittoor Region,Chilli,Sunny / Dry,42,96,300,27
+2025-10-06 / Kharif,Anantapur District,Chilli,Sunny / Dry,69,81,393,37
+2025-10-07 / Kharif,Kurnool District,Cotton,Extreme Heatwave,119,78,501,61
+2025-10-08 / Kharif,Anantapur District,Sugarcane,Extreme Heatwave,41,107,300,22
+2025-10-09 / Kharif,East Godavari,Paddy,Extreme Heatwave,131,50,619,65
+2025-10-10 / Kharif,Anantapur District,Cotton,Heavy Rain Alert,112,60,619,50
+2025-10-11 / Kharif,Anantapur District,Paddy,Moderate Rainfall,111,76,523,54
+2025-10-12 / Kharif,Anantapur District,Cotton,Extreme Heatwave,121,70,550,65
+2025-10-13 / Kharif,Anantapur District,Cotton,Sunny / Dry,147,46,684,77
+2025-10-14 / Kharif,East Godavari,Paddy,Heavy Rain Alert,139,56,675,77
+2025-10-15 / Kharif,Anantapur District,Wheat,Sunny / Dry,21,107,300,2
+2025-10-16 / Kharif,East Godavari,Chilli,Sunny / Dry,55,90,342,24
+2025-10-17 / Kharif,Chittoor Region,Cotton,Extreme Heatwave,148,73,606,91
+2025-10-18 / Kharif,Guntur District,Sugarcane,Heavy Rain Alert,66,88,436,24
+2025-10-19 / Kharif,Chittoor Region,Cotton,Extreme Heatwave,130,59,599,77
+2025-10-20 / Kharif,Guntur District,Sugarcane,Heavy Rain Alert,54,107,361,18
+2025-10-21 / Kharif,Chittoor Region,Sugarcane,Heavy Rain Alert,28,73,364,10
+2025-10-22 / Kharif,East Godavari,Cotton,Sunny / Dry,111,40,621,58
+2025-10-23 / Kharif,Guntur District,Chilli,Moderate Rainfall,44,103,300,14
+2025-10-24 / Kharif,Kurnool District,Wheat,Sunny / Dry,22,114,300,5
+2025-10-25 / Kharif,Chittoor Region,Cotton,Sunny / Dry,106,58,551,50
+2025-10-26 / Kharif,Kurnool District,Paddy,Extreme Heatwave,138,56,624,77
+2025-10-27 / Kharif,Guntur District,Sugarcane,Extreme Heatwave,31,80,304,28
+2025-10-28 / Kharif,Anantapur District,Chilli,Heavy Rain Alert,38,72,420,12
+2025-10-29 / Kharif,East Godavari,Cotton,Extreme Heatwave,119,57,583,64
+2025-10-30 / Kharif,Kurnool District,Cotton,Moderate Rainfall,109,65,531,56
+2025-10-31 / Kharif,East Godavari,Sugarcane,Moderate Rainfall,35,71,325,23
+2025-11-01 / Rabi,Guntur District,Wheat,Extreme Heatwave,107,70,522,59
+2025-11-02 / Rabi,Anantapur District,Chilli,Heavy Rain Alert,34,71,399,14
+2025-11-03 / Rabi,Guntur District,Wheat,Heavy Rain Alert,135,52,711,68
+2025-11-04 / Rabi,Chittoor Region,Chilli,Extreme Heatwave,54,82,349,26
+2025-11-05 / Rabi,Kurnool District,Cotton,Extreme Heatwave,58,81,347,30
+2025-11-06 / Rabi,Anantapur District,Wheat,Extreme Heatwave,129,78,564,60
+2025-11-07 / Rabi,East Godavari,Wheat,Moderate Rainfall,121,87,520,65
+2025-11-08 / Rabi,Kurnool District,Chilli,Extreme Heatwave,58,79,356,42
+2025-11-09 / Rabi,Kurnool District,Cotton,Sunny / Dry,68,68,412,42
+2025-11-10 / Rabi,Anantapur District,Cotton,Extreme Heatwave,52,80,362,28
+2025-11-11 / Rabi,East Godavari,Sugarcane,Extreme Heatwave,61,108,303,23
+2025-11-12 / Rabi,Guntur District,Sugarcane,Heavy Rain Alert,58,110,372,38
+2025-11-13 / Rabi,Guntur District,Cotton,Sunny / Dry,48,113,300,29
+2025-11-14 / Rabi,Chittoor Region,Cotton,Sunny / Dry,63,111,300,31
+2025-11-15 / Rabi,Kurnool District,Cotton,Moderate Rainfall,49,89,323,14
+2025-11-16 / Rabi,Guntur District,Cotton,Heavy Rain Alert,49,113,304,16
+2025-11-17 / Rabi,Anantapur District,Chilli,Extreme Heatwave,64,78,394,40
+2025-11-18 / Rabi,Guntur District,Wheat,Extreme Heatwave,121,69,544,69
+2025-11-19 / Rabi,Anantapur District,Cotton,Sunny / Dry,20,110,300,3
+2025-11-20 / Rabi,Chittoor Region,Paddy,Moderate Rainfall,56,107,300,23
+2025-11-21 / Rabi,Anantapur District,Sugarcane,Sunny / Dry,58,110,300,20
+2025-11-22 / Rabi,East Godavari,Paddy,Sunny / Dry,44,71,354,31
+2025-11-23 / Rabi,East Godavari,Sugarcane,Heavy Rain Alert,23,72,369,20
+2025-11-24 / Rabi,Guntur District,Paddy,Heavy Rain Alert,64,110,380,32
+2025-11-25 / Rabi,Guntur District,Wheat,Heavy Rain Alert,127,78,607,59
+2025-11-26 / Rabi,Anantapur District,Cotton,Moderate Rainfall,25,69,308,5
+2025-11-27 / Rabi,Kurnool District,Chilli,Extreme Heatwave,66,87,384,40
+2025-11-28 / Rabi,Chittoor Region,Sugarcane,Moderate Rainfall,43,67,353,13
+2025-11-29 / Rabi,Kurnool District,Paddy,Extreme Heatwave,57,77,372,27
+2025-11-30 / Rabi,Chittoor Region,Sugarcane,Extreme Heatwave,23,78,300,4
+2025-12-01 / Rabi,Chittoor Region,Sugarcane,Moderate Rainfall,53,75,360,25
+2025-12-02 / Rabi,East Godavari,Wheat,Extreme Heatwave,87,69,472,36
+2025-12-03 / Rabi,Anantapur District,Paddy,Extreme Heatwave,31,106,300,9
+2025-12-04 / Rabi,Anantapur District,Chilli,Moderate Rainfall,30,98,300,27
+2025-12-05 / Rabi,Guntur District,Cotton,Heavy Rain Alert,34,102,330,23
+2025-12-06 / Rabi,Chittoor Region,Wheat,Extreme Heatwave,90,81,431,52
+2025-12-07 / Rabi,Anantapur District,Cotton,Heavy Rain Alert,32,92,300,23
+2025-12-08 / Rabi,Kurnool District,Cotton,Extreme Heatwave,22,104,300,2
+2025-12-09 / Rabi,Guntur District,Sugarcane,Extreme Heatwave,59,91,344,43
+2025-12-10 / Rabi,Chittoor Region,Wheat,Heavy Rain Alert,103,60,605,51
+2025-12-11 / Rabi,Anantapur District,Paddy,Extreme Heatwave,47,97,300,25
+2025-12-12 / Rabi,Anantapur District,Paddy,Sunny / Dry,62,109,300,42
+2025-12-13 / Rabi,Chittoor Region,Cotton,Heavy Rain Alert,61,100,409,27
+2025-12-14 / Rabi,Kurnool District,Chilli,Heavy Rain Alert,24,107,300,13
+2025-12-15 / Rabi,Kurnool District,Sugarcane,Heavy Rain Alert,50,87,400,32
+2025-12-16 / Rabi,Kurnool District,Paddy,Sunny / Dry,55,66,390,31
+2025-12-17 / Rabi,Anantapur District,Cotton,Sunny / Dry,32,93,300,17
+2025-12-18 / Rabi,Chittoor Region,Wheat,Moderate Rainfall,130,71,560,75
+2025-12-19 / Rabi,Guntur District,Wheat,Heavy Rain Alert,125,61,646,79
+2025-12-20 / Rabi,East Godavari,Sugarcane,Moderate Rainfall,64,99,321,38
+2025-12-21 / Rabi,Kurnool District,Chilli,Heavy Rain Alert,25,83,347,2
+2025-12-22 / Rabi,Chittoor Region,Chilli,Heavy Rain Alert,47,79,428,17
+2025-12-23 / Rabi,Kurnool District,Wheat,Extreme Heatwave,113,66,539,67
+2025-12-24 / Rabi,Anantapur District,Wheat,Sunny / Dry,88,71,467,52
+2025-12-25 / Rabi,East Godavari,Paddy,Moderate Rainfall,31,86,300,26
+2025-12-26 / Rabi,Kurnool District,Cotton,Heavy Rain Alert,45,82,419,29
+2025-12-27 / Rabi,Guntur District,Cotton,Sunny / Dry,33,111,300,12
+2025-12-28 / Rabi,Anantapur District,Chilli,Sunny / Dry,48,75,346,14
+2025-12-29 / Rabi,East Godavari,Wheat,Heavy Rain Alert,90,59,560,59
+2025-12-30 / Rabi,Chittoor Region,Cotton,Heavy Rain Alert,45,98,366,25
+2025-12-31 / Rabi,Guntur District,Sugarcane,Extreme Heatwave,53,93,321,27
+2026-01-01 / Rabi,Guntur District,Chilli,Heavy Rain Alert,51,66,466,30
+2026-01-02 / Rabi,Chittoor Region,Sugarcane,Sunny / Dry,33,84,300,22
+2026-01-03 / Rabi,East Godavari,Wheat,Extreme Heatwave,128,72,570,78
+2026-01-04 / Rabi,Guntur District,Sugarcane,Sunny / Dry,66,80,380,24
+2026-01-05 / Rabi,Guntur District,Wheat,Extreme Heatwave,122,59,596,56
+2026-01-06 / Rabi,Guntur District,Paddy,Moderate Rainfall,54,113,300,31
+2026-01-07 / Rabi,Chittoor Region,Sugarcane,Extreme Heatwave,63,80,394,29
+2026-01-08 / Rabi,East Godavari,Wheat,Extreme Heatwave,130,69,576,73
+2026-01-09 / Rabi,Chittoor Region,Sugarcane,Extreme Heatwave,46,110,300,30
+2026-01-10 / Rabi,Guntur District,Cotton,Extreme Heatwave,26,67,309,25
+2026-01-11 / Rabi,Anantapur District,Paddy,Heavy Rain Alert,22,84,346,13
+2026-01-12 / Rabi,Kurnool District,Cotton,Extreme Heatwave,34,89,300,14
+2026-01-13 / Rabi,Kurnool District,Wheat,Sunny / Dry,122,66,567,76
+2026-01-14 / Rabi,Anantapur District,Chilli,Heavy Rain Alert,21,88,326,15
+2026-01-15 / Rabi,Guntur District,Cotton,Heavy Rain Alert,27,85,344,19
+2026-01-16 / Rabi,Kurnool District,Paddy,Extreme Heatwave,49,82,367,24
+2026-01-17 / Rabi,Guntur District,Sugarcane,Sunny / Dry,64,89,351,23
+2026-01-18 / Rabi,Guntur District,Wheat,Moderate Rainfall,122,85,512,78
+2026-01-19 / Rabi,Kurnool District,Chilli,Moderate Rainfall,60,81,360,32
+2026-01-20 / Rabi,Guntur District,Chilli,Moderate Rainfall,65,96,342,42
+2026-01-21 / Rabi,Chittoor Region,Sugarcane,Moderate Rainfall,52,74,360,23
+2026-01-22 / Rabi,Anantapur District,Sugarcane,Sunny / Dry,51,114,300,16
+2026-01-23 / Rabi,Anantapur District,Sugarcane,Moderate Rainfall,60,77,352,21
+2026-01-24 / Rabi,Chittoor Region,Wheat,Moderate Rainfall,97,70,475,47
+2026-01-25 / Rabi,Guntur District,Paddy,Moderate Rainfall,45,110,300,29
+2026-01-26 / Rabi,Guntur District,Wheat,Moderate Rainfall,99,78,473,49
+2026-01-27 / Rabi,Chittoor Region,Wheat,Sunny / Dry,95,47,536,45
+2026-01-28 / Rabi,Kurnool District,Wheat,Sunny / Dry,93,50,545,47
+2026-01-29 / Rabi,Kurnool District,Cotton,Sunny / Dry,69,76,420,32
+2026-01-30 / Rabi,Guntur District,Cotton,Extreme Heatwave,27,114,300,16
+2026-01-31 / Rabi,Anantapur District,Chilli,Sunny / Dry,26,75,304,21
+2026-02-01 / Rabi,East Godavari,Chilli,Moderate Rainfall,35,68,353,9
+2026-02-02 / Rabi,Chittoor Region,Paddy,Heavy Rain Alert,60,106,380,34
+2026-02-03 / Rabi,East Godavari,Paddy,Sunny / Dry,30,82,300,26
+2026-02-04 / Rabi,East Godavari,Cotton,Extreme Heatwave,51,108,300,33
+2026-02-05 / Rabi,Guntur District,Cotton,Extreme Heatwave,25,82,300,24
+2026-02-06 / Rabi,Guntur District,Paddy,Heavy Rain Alert,60,67,486,30
+2026-02-07 / Rabi,Chittoor Region,Sugarcane,Sunny / Dry,54,93,306,23
+2026-02-08 / Rabi,Kurnool District,Wheat,Heavy Rain Alert,96,74,540,60
+2026-02-09 / Rabi,East Godavari,Chilli,Heavy Rain Alert,50,88,372,26
+2026-02-10 / Rabi,East Godavari,Chilli,Extreme Heatwave,39,88,300,26
+2026-02-11 / Rabi,Guntur District,Paddy,Moderate Rainfall,68,96,345,26
+2026-02-12 / Rabi,East Godavari,Cotton,Moderate Rainfall,55,66,393,32
+2026-02-13 / Rabi,East Godavari,Wheat,Extreme Heatwave,118,80,495,70
+2026-02-14 / Rabi,East Godavari,Cotton,Sunny / Dry,31,67,323,17
+2026-02-15 / Rabi,Anantapur District,Cotton,Heavy Rain Alert,37,104,316,15
+2026-02-16 / Rabi,Anantapur District,Wheat,Moderate Rainfall,120,74,542,76
+2026-02-17 / Rabi,East Godavari,Paddy,Sunny / Dry,61,108,305,25
+2026-02-18 / Rabi,Guntur District,Paddy,Extreme Heatwave,24,102,300,13
+2026-02-19 / Rabi,Guntur District,Wheat,Moderate Rainfall,125,58,560,57
+2026-02-20 / Rabi,Chittoor Region,Paddy,Heavy Rain Alert,58,70,462,35
+2026-02-21 / Rabi,Guntur District,Cotton,Heavy Rain Alert,44,92,379,12
+2026-02-22 / Rabi,East Godavari,Paddy,Heavy Rain Alert,59,76,432,43
+2026-02-23 / Rabi,Chittoor Region,Wheat,Heavy Rain Alert,120,89,558,63
+2026-02-24 / Rabi,Guntur District,Chilli,Moderate Rainfall,22,78,300,15
+2026-02-25 / Rabi,Kurnool District,Cotton,Moderate Rainfall,29,93,300,3
+2026-02-26 / Rabi,Guntur District,Wheat,Heavy Rain Alert,89,64,546,43
+2026-02-27 / Rabi,Guntur District,Wheat,Moderate Rainfall,127,56,587,76
+2026-02-28 / Rabi,East Godavari,Chilli,Sunny / Dry,47,107,300,17
+2026-03-01 / Rabi,Chittoor Region,Wheat,Sunny / Dry,131,81,562,83
+2026-03-02 / Rabi,Kurnool District,Wheat,Heavy Rain Alert,128,72,632,72
+2026-03-03 / Rabi,Anantapur District,Wheat,Sunny / Dry,99,50,539,59
+2026-03-04 / Rabi,Kurnool District,Sugarcane,Extreme Heatwave,33,66,335,14
+2026-03-05 / Rabi,Guntur District,Sugarcane,Sunny / Dry,56,84,351,20
+2026-03-06 / Rabi,Guntur District,Chilli,Moderate Rainfall,25,101,300,21
+2026-03-07 / Rabi,East Godavari,Cotton,Extreme Heatwave,24,97,300,10
+2026-03-08 / Rabi,Anantapur District,Sugarcane,Heavy Rain Alert,39,114,302,32
+2026-03-09 / Rabi,Anantapur District,Wheat,Sunny / Dry,127,78,523,67
+2026-03-10 / Rabi,Guntur District,Sugarcane,Moderate Rainfall,69,87,381,36
+2026-03-11 / Rabi,Chittoor Region,Paddy,Sunny / Dry,57,84,343,39
+2026-03-12 / Rabi,Anantapur District,Cotton,Extreme Heatwave,20,72,300,4
+2026-03-13 / Rabi,East Godavari,Chilli,Extreme Heatwave,24,111,300,23
+2026-03-14 / Rabi,East Godavari,Wheat,Moderate Rainfall,139,70,581,74
+2026-03-15 / Rabi,Chittoor Region,Paddy,Heavy Rain Alert,29,94,356,10
+2026-03-16 / Rabi,East Godavari,Paddy,Heavy Rain Alert,66,104,394,40
+2026-03-17 / Rabi,Chittoor Region,Cotton,Heavy Rain Alert,31,91,342,5
+2026-03-18 / Rabi,Guntur District,Sugarcane,Extreme Heatwave,20,83,300,14
+2026-03-19 / Rabi,Chittoor Region,Paddy,Sunny / Dry,33,112,300,7
+2026-03-20 / Rabi,Kurnool District,Wheat,Moderate Rainfall,134,50,633,69
+2026-03-21 / Rabi,Kurnool District,Wheat,Heavy Rain Alert,117,85,566,62
+2026-03-22 / Rabi,Anantapur District,Paddy,Sunny / Dry,23,98,300,5
+2026-03-23 / Rabi,East Godavari,Cotton,Moderate Rainfall,65,68,425,40
+2026-03-24 / Rabi,Kurnool District,Cotton,Moderate Rainfall,32,105,300,27
+2026-03-25 / Rabi,Chittoor Region,Chilli,Heavy Rain Alert,38,109,310,29
+2026-03-26 / Rabi,Guntur District,Cotton,Sunny / Dry,26,89,300,22
+2026-03-27 / Rabi,East Godavari,Paddy,Extreme Heatwave,34,65,327,26
+2026-03-28 / Rabi,Guntur District,Wheat,Extreme Heatwave,103,73,475,44
+2026-03-29 / Rabi,Chittoor Region,Cotton,Extreme Heatwave,68,96,334,35
+2026-03-30 / Rabi,Anantapur District,Paddy,Extreme Heatwave,54,72,367,30
+2026-03-31 / Rabi,Guntur District,Wheat,Moderate Rainfall,98,54,530,61
+2026-04-01 / Zaid,Chittoor Region,Cotton,Heavy Rain Alert,45,72,441,27
+2026-04-02 / Zaid,Guntur District,Cotton,Sunny / Dry,21,70,300,2
+2026-04-03 / Zaid,Kurnool District,Cotton,Extreme Heatwave,34,107,300,21
+2026-04-04 / Zaid,Chittoor Region,Paddy,Extreme Heatwave,42,70,360,21
+2026-04-05 / Zaid,Anantapur District,Wheat,Moderate Rainfall,64,85,379,45
+2026-04-06 / Zaid,Anantapur District,Sugarcane,Sunny / Dry,62,80,384,25
+2026-04-07 / Zaid,Chittoor Region,Paddy,Moderate Rainfall,30,79,300,7
+2026-04-08 / Zaid,Anantapur District,Wheat,Moderate Rainfall,40,77,318,13
+2026-04-09 / Zaid,Kurnool District,Paddy,Moderate Rainfall,67,110,309,38
+2026-04-10 / Zaid,Anantapur District,Sugarcane,Moderate Rainfall,47,99,300,30
+2026-04-11 / Zaid,Chittoor Region,Sugarcane,Sunny / Dry,21,113,300,11
+2026-04-12 / Zaid,Kurnool District,Cotton,Extreme Heatwave,23,90,300,11
+2026-04-13 / Zaid,Chittoor Region,Chilli,Extreme Heatwave,29,103,300,15
+2026-04-14 / Zaid,Chittoor Region,Chilli,Heavy Rain Alert,50,71,448,24
+2026-04-15 / Zaid,Anantapur District,Sugarcane,Extreme Heatwave,55,84,339,21
+2026-04-16 / Zaid,Guntur District,Cotton,Extreme Heatwave,26,65,328,16
+2026-04-17 / Zaid,Anantapur District,Wheat,Sunny / Dry,32,86,300,26
+2026-04-18 / Zaid,Anantapur District,Chilli,Sunny / Dry,40,86,320,24
+2026-04-19 / Zaid,Anantapur District,Cotton,Extreme Heatwave,29,88,300,12
+2026-04-20 / Zaid,Guntur District,Paddy,Heavy Rain Alert,27,88,322,6
+2026-04-21 / Zaid,Anantapur District,Paddy,Sunny / Dry,23,114,300,23
+2026-04-22 / Zaid,Chittoor Region,Chilli,Extreme Heatwave,38,100,300,25
+2026-04-23 / Zaid,East Godavari,Chilli,Sunny / Dry,38,100,300,17
+2026-04-24 / Zaid,East Godavari,Chilli,Moderate Rainfall,52,114,300,27
+2026-04-25 / Zaid,Anantapur District,Chilli,Extreme Heatwave,53,97,302,39
+2026-04-26 / Zaid,Chittoor Region,Sugarcane,Sunny / Dry,40,81,310,12
+2026-04-27 / Zaid,East Godavari,Paddy,Heavy Rain Alert,47,71,418,23
+2026-04-28 / Zaid,Guntur District,Chilli,Moderate Rainfall,29,73,327,4
+2026-04-29 / Zaid,Guntur District,Sugarcane,Extreme Heatwave,54,71,357,37
+2026-04-30 / Zaid,East Godavari,Chilli,Moderate Rainfall,37,67,322,16
+2026-05-01 / Zaid,Anantapur District,Wheat,Heavy Rain Alert,68,75,448,31
+2026-05-02 / Zaid,East Godavari,Cotton,Heavy Rain Alert,43,110,326,20
+2026-05-03 / Zaid,Chittoor Region,Paddy,Heavy Rain Alert,51,103,353,28
+2026-05-04 / Zaid,Guntur District,Wheat,Sunny / Dry,65,100,325,28
+2026-05-05 / Zaid,Chittoor Region,Cotton,Heavy Rain Alert,60,103,370,24
+2026-05-06 / Zaid,Anantapur District,Chilli,Moderate Rainfall,32,113,300,16
+2026-05-07 / Zaid,Anantapur District,Paddy,Moderate Rainfall,46,96,306,33
+2026-05-08 / Zaid,Anantapur District,Wheat,Extreme Heatwave,27,102,300,13
+2026-05-09 / Zaid,Kurnool District,Chilli,Sunny / Dry,22,86,300,5
+2026-05-10 / Zaid,Anantapur District,Chilli,Extreme Heatwave,21,87,300,2
+2026-05-11 / Zaid,Anantapur District,Sugarcane,Sunny / Dry,53,87,319,36
+2026-05-12 / Zaid,East Godavari,Chilli,Heavy Rain Alert,27,86,349,14
+2026-05-13 / Zaid,Guntur District,Wheat,Heavy Rain Alert,48,95,373,28
+2026-05-14 / Zaid,Kurnool District,Sugarcane,Heavy Rain Alert,35,106,311,22
+2026-05-15 / Zaid,East Godavari,Sugarcane,Moderate Rainfall,31,81,300,20
+2026-05-16 / Zaid,Kurnool District,Sugarcane,Sunny / Dry,31,72,311,12
+2026-05-17 / Zaid,Anantapur District,Paddy,Sunny / Dry,24,84,300,8
+2026-05-18 / Zaid,Anantapur District,Chilli,Moderate Rainfall,63,65,415,27
+2026-05-19 / Zaid,Chittoor Region,Cotton,Moderate Rainfall,41,82,332,17
+2026-05-20 / Zaid,Kurnool District,Sugarcane,Moderate Rainfall,58,96,326,24
+2026-05-21 / Zaid,East Godavari,Paddy,Extreme Heatwave,53,78,355,20
+2026-05-22 / Zaid,Anantapur District,Sugarcane,Extreme Heatwave,52,87,323,36
+2026-05-23 / Zaid,Chittoor Region,Wheat,Extreme Heatwave,21,91,300,7
+2026-05-24 / Zaid,Kurnool District,Chilli,Moderate Rainfall,20,75,300,2
+2026-05-25 / Zaid,Anantapur District,Cotton,Moderate Rainfall,37,70,347,10
+2026-05-26 / Zaid,Anantapur District,Chilli,Extreme Heatwave,41,107,300,29
+2026-05-27 / Zaid,East Godavari,Wheat,Extreme Heatwave,61,76,405,35
+2026-05-28 / Zaid,Chittoor Region,Chilli,Extreme Heatwave,68,106,351,48
+2026-05-29 / Zaid,Kurnool District,Sugarcane,Moderate Rainfall,61,94,345,34
+2026-05-30 / Zaid,Anantapur District,Paddy,Extreme Heatwave,25,67,306,9
+2026-05-31 / Zaid,Anantapur District,Chilli,Sunny / Dry,34,85,304,8
+2026-06-01 / Kharif,Chittoor Region,Paddy,Heavy Rain Alert,96,74,545,49
+2026-06-02 / Kharif,Guntur District,Sugarcane,Heavy Rain Alert,44,66,434,33
+2026-06-03 / Kharif,East Godavari,Chilli,Moderate Rainfall,52,100,300,31
+2026-06-04 / Kharif,East Godavari,Paddy,Moderate Rainfall,148,42,688,71
+2026-06-05 / Kharif,East Godavari,Wheat,Sunny / Dry,60,70,390,28
+2026-06-06 / Kharif,East Godavari,Paddy,Extreme Heatwave,115,73,513,54
+2026-06-07 / Kharif,Chittoor Region,Wheat,Moderate Rainfall,44,79,333,24
+2026-06-08 / Kharif,East Godavari,Paddy,Heavy Rain Alert,125,53,676,75
+2026-06-09 / Kharif,Kurnool District,Paddy,Heavy Rain Alert,112,68,603,59
+2026-06-10 / Kharif,Guntur District,Wheat,Moderate Rainfall,21,87,300,17
+2026-06-11 / Kharif,Kurnool District,Paddy,Heavy Rain Alert,125,44,689,57
+2026-06-12 / Kharif,East Godavari,Sugarcane,Extreme Heatwave,30,114,300,27
+2026-06-13 / Kharif,East Godavari,Chilli,Sunny / Dry,34,73,307,26
+2026-06-14 / Kharif,Guntur District,Paddy,Heavy Rain Alert,122,46,676,70
+2026-06-15 / Kharif,Kurnool District,Sugarcane,Extreme Heatwave,35,97,300,23
+2026-06-16 / Kharif,Guntur District,Wheat,Moderate Rainfall,56,103,302,37
+2026-06-17 / Kharif,Anantapur District,Paddy,Sunny / Dry,146,75,566,72
+2026-06-18 / Kharif,Kurnool District,Cotton,Extreme Heatwave,157,74,638,80
+2026-06-19 / Kharif,Guntur District,Paddy,Extreme Heatwave,121,67,539,75
+2026-06-20 / Kharif,Chittoor Region,Chilli,Sunny / Dry,24,66,314,21
+2026-06-21 / Kharif,Chittoor Region,Chilli,Moderate Rainfall,57,79,385,42
+2026-06-22 / Kharif,Kurnool District,Wheat,Extreme Heatwave,58,69,402,19
+2026-06-23 / Kharif,Guntur District,Chilli,Heavy Rain Alert,32,85,362,25
+2026-06-24 / Kharif,Kurnool District,Chilli,Extreme Heatwave,37,101,300,20
+2026-06-25 / Kharif,Kurnool District,Paddy,Heavy Rain Alert,126,75,600,67
+2026-06-26 / Kharif,Guntur District,Chilli,Sunny / Dry,40,90,300,13
+2026-06-27 / Kharif,East Godavari,Cotton,Sunny / Dry,128,57,569,77
+2026-06-28 / Kharif,East Godavari,Wheat,Heavy Rain Alert,48,102,349,23
+2026-06-29 / Kharif,Guntur District,Wheat,Sunny / Dry,40,106,300,10
+2026-06-30 / Kharif,Anantapur District,Sugarcane,Sunny / Dry,21,112,300,2
+2026-07-01 / Kharif,Chittoor Region,Wheat,Moderate Rainfall,29,114,300,4
+2026-07-02 / Kharif,Guntur District,Wheat,Heavy Rain Alert,27,86,335,9
+2026-07-03 / Kharif,Kurnool District,Cotton,Extreme Heatwave,143,54,641,78
+2026-07-04 / Kharif,Kurnool District,Sugarcane,Sunny / Dry,38,69,354,19
+2026-07-05 / Kharif,East Godavari,Paddy,Heavy Rain Alert,159,62,729,97
+2026-07-06 / Kharif,Kurnool District,Paddy,Moderate Rainfall,137,40,663,75
+2026-07-07 / Kharif,Guntur District,Wheat,Heavy Rain Alert,43,99,340,24
+2026-07-08 / Kharif,Chittoor Region,Cotton,Extreme Heatwave,105,54,563,63
+2026-07-09 / Kharif,Anantapur District,Paddy,Moderate Rainfall,101,67,492,47
+2026-07-10 / Kharif,Anantapur District,Wheat,Sunny / Dry,49,96,300,21
+2026-07-11 / Kharif,Anantapur District,Wheat,Sunny / Dry,29,102,300,19
+2026-07-12 / Kharif,Anantapur District,Cotton,Extreme Heatwave,102,79,467,52
+2026-07-13 / Kharif,East Godavari,Cotton,Heavy Rain Alert,144,42,748,80
+2026-07-14 / Kharif,Kurnool District,Cotton,Extreme Heatwave,135,64,586,84
+2026-07-15 / Kharif,Anantapur District,Chilli,Heavy Rain Alert,69,74,469,32
+2026-07-16 / Kharif,Guntur District,Cotton,Sunny / Dry,96,52,541,60
+2026-07-17 / Kharif,East Godavari,Chilli,Moderate Rainfall,51,95,338,17
+2026-07-18 / Kharif,Chittoor Region,Wheat,Heavy Rain Alert,30,74,385,18
+2026-07-19 / Kharif,Guntur District,Paddy,Heavy Rain Alert,111,79,560,56
+2026-07-20 / Kharif,Anantapur District,Wheat,Extreme Heatwave,33,89,300,23
+2026-07-21 / Kharif,Chittoor Region,Cotton,Moderate Rainfall,116,69,540,69
+2026-07-22 / Kharif,East Godavari,Wheat,Extreme Heatwave,65,113,306,46
+2026-07-23 / Kharif,Guntur District,Wheat,Extreme Heatwave,40,99,300,16
+2026-07-24 / Kharif,Anantapur District,Paddy,Sunny / Dry,106,57,556,66
+2026-07-25 / Kharif,East Godavari,Wheat,Moderate Rainfall,32,85,300,15
+2026-07-26 / Kharif,Guntur District,Sugarcane,Extreme Heatwave,41,86,310,20
+2026-07-27 / Kharif,Guntur District,Sugarcane,Sunny / Dry,44,86,335,13
+2026-07-28 / Kharif,Kurnool District,Wheat,Heavy Rain Alert,48,85,401,28
+2026-07-29 / Kharif,East Godavari,Chilli,Sunny / Dry,46,114,300,36
+2026-07-30 / Kharif,Chittoor Region,Sugarcane,Extreme Heatwave,63,77,367,43
+2026-07-31 / Kharif,Anantapur District,Wheat,Extreme Heatwave,62,101,325,43
+2026-08-01 / Kharif,Guntur District,Chilli,Moderate Rainfall,38,87,328,14
+2026-08-02 / Kharif,Chittoor Region,Wheat,Extreme Heatwave,63,111,300,29
+2026-08-03 / Kharif,Anantapur District,Wheat,Moderate Rainfall,61,80,384,28
+2026-08-04 / Kharif,Guntur District,Paddy,Moderate Rainfall,95,44,543,42
+2026-08-05 / Kharif,East Godavari,Chilli,Extreme Heatwave,51,106,300,17
+2026-08-06 / Kharif,Chittoor Region,Paddy,Heavy Rain Alert,104,60,608,46
+2026-08-07 / Kharif,Anantapur District,Cotton,Moderate Rainfall,135,52,644,70
+2026-08-08 / Kharif,Chittoor Region,Wheat,Extreme Heatwave,55,86,345,29
+2026-08-09 / Kharif,Kurnool District,Paddy,Moderate Rainfall,108,73,510,67
+2026-08-10 / Kharif,Guntur District,Cotton,Moderate Rainfall,114,50,587,55
+2026-08-11 / Kharif,East Godavari,Paddy,Heavy Rain Alert,150,58,725,74
+2026-08-12 / Kharif,Anantapur District,Paddy,Heavy Rain Alert,152,43,781,80
+2026-08-13 / Kharif,Anantapur District,Sugarcane,Moderate Rainfall,43,99,300,15
+2026-08-14 / Kharif,Anantapur District,Chilli,Moderate Rainfall,57,85,345,35
+2026-08-15 / Kharif,Guntur District,Sugarcane,Moderate Rainfall,26,68,300,15
+2026-08-16 / Kharif,Kurnool District,Cotton,Sunny / Dry,97,63,502,60
+2026-08-17 / Kharif,Anantapur District,Chilli,Heavy Rain Alert,23,88,323,2
+2026-08-18 / Kharif,East Godavari,Chilli,Moderate Rainfall,49,82,333,32
+2026-08-19 / Kharif,Chittoor Region,Paddy,Sunny / Dry,143,58,633,87
+2026-08-20 / Kharif,Anantapur District,Cotton,Extreme Heatwave,118,51,595,55
+2026-08-21 / Kharif,Chittoor Region,Cotton,Extreme Heatwave,158,58,681,89
+2026-08-22 / Kharif,Chittoor Region,Paddy,Moderate Rainfall,139,75,584,64
+2026-08-23 / Kharif,Anantapur District,Paddy,Extreme Heatwave,112,67,525,63
+2026-08-24 / Kharif,East Godavari,Chilli,Heavy Rain Alert,30,109,300,23
+2026-08-25 / Kharif,Kurnool District,Chilli,Moderate Rainfall,67,111,300,38
+2026-08-26 / Kharif,Kurnool District,Cotton,Sunny / Dry,141,53,650,80
+2026-08-27 / Kharif,Guntur District,Chilli,Moderate Rainfall,24,74,305,18
+2026-08-28 / Kharif,Anantapur District,Sugarcane,Moderate Rainfall,22,77,300,21
+2026-08-29 / Kharif,Anantapur District,Sugarcane,Heavy Rain Alert,64,70,495,39
+2026-08-30 / Kharif,Chittoor Region,Wheat,Sunny / Dry,64,83,366,41
+2026-08-31 / Kharif,Anantapur District,Sugarcane,Heavy Rain Alert,24,93,300,5
+2026-09-01 / Kharif,Kurnool District,Wheat,Sunny / Dry,39,113,300,12
+2026-09-02 / Kharif,Chittoor Region,Sugarcane,Moderate Rainfall,25,90,300,4
+2026-09-03 / Kharif,Kurnool District,Chilli,Heavy Rain Alert,58,103,343,22
+2026-09-04 / Kharif,Chittoor Region,Paddy,Sunny / Dry,135,70,580,81
+2026-09-05 / Kharif,Guntur District,Paddy,Heavy Rain Alert,118,64,623,58
+2026-09-06 / Kharif,Kurnool District,Chilli,Extreme Heatwave,54,92,322,30
+2026-09-07 / Kharif,Chittoor Region,Paddy,Extreme Heatwave,104,55,529,57
+2026-09-08 / Kharif,Chittoor Region,Wheat,Heavy Rain Alert,25,108,300,9
+2026-09-09 / Kharif,East Godavari,Sugarcane,Extreme Heatwave,64,100,300,29
+2026-09-10 / Kharif,Anantapur District,Cotton,Sunny / Dry,109,57,560,70
+2026-09-11 / Kharif,Guntur District,Sugarcane,Extreme Heatwave,30,84,300,27
+2026-09-12 / Kharif,East Godavari,Cotton,Extreme Heatwave,108,76,495,67
+2026-09-13 / Kharif,Kurnool District,Wheat,Moderate Rainfall,37,69,326,31
+2026-09-14 / Kharif,Anantapur District,Wheat,Heavy Rain Alert,68,83,459,43
+2026-09-15 / Kharif,East Godavari,Sugarcane,Heavy Rain Alert,44,85,368,20
+2026-09-16 / Kharif,Chittoor Region,Chilli,Sunny / Dry,52,114,300,36
+2026-09-17 / Kharif,Anantapur District,Sugarcane,Extreme Heatwave,23,106,300,2
+2026-09-18 / Kharif,Guntur District,Wheat,Extreme Heatwave,36,88,300,8
+2026-09-19 / Kharif,Kurnool District,Sugarcane,Sunny / Dry,47,107,300,29
+2026-09-20 / Kharif,Guntur District,Wheat,Extreme Heatwave,53,70,373,30
+2026-09-21 / Kharif,Chittoor Region,Cotton,Moderate Rainfall,159,49,700,76
+2026-09-22 / Kharif,Kurnool District,Wheat,Heavy Rain Alert,35,112,308,25
+2026-09-23 / Kharif,Kurnool District,Sugarcane,Extreme Heatwave,58,86,361,24
+2026-09-24 / Kharif,Chittoor Region,Cotton,Extreme Heatwave,154,49,674,74
+2026-09-25 / Kharif,Anantapur District,Cotton,Sunny / Dry,158,71,628,77
+2026-09-26 / Kharif,Guntur District,Cotton,Extreme Heatwave,109,79,488,67
+2026-09-27 / Kharif,Kurnool District,Sugarcane,Heavy Rain Alert,34,86,354,14
+2026-09-28 / Kharif,Guntur District,Paddy,Heavy Rain Alert,134,67,649,77
+2026-09-29 / Kharif,East Godavari,Chilli,Extreme Heatwave,21,89,300,10
+2026-09-30 / Kharif,Anantapur District,Chilli,Sunny / Dry,52,106,300,35
+2026-10-01 / Kharif,Guntur District,Cotton,Moderate Rainfall,100,78,487,60
+2026-10-02 / Kharif,Anantapur District,Wheat,Extreme Heatwave,62,83,373,26
+2026-10-03 / Kharif,Anantapur District,Paddy,Extreme Heatwave,145,50,658,90
+2026-10-04 / Kharif,Guntur District,Chilli,Moderate Rainfall,47,105,300,16
+2026-10-05 / Kharif,Anantapur District,Chilli,Heavy Rain Alert,56,85,430,32
+2026-10-06 / Kharif,Guntur District,Cotton,Extreme Heatwave,142,79,560,83
+2026-10-07 / Kharif,Chittoor Region,Wheat,Sunny / Dry,61,84,347,36
+2026-10-08 / Kharif,Kurnool District,Paddy,Extreme Heatwave,97,42,560,58
+2026-10-09 / Kharif,Anantapur District,Wheat,Heavy Rain Alert,62,104,415,44
+2026-10-10 / Kharif,Kurnool District,Sugarcane,Extreme Heatwave,27,101,300,17
+2026-10-11 / Kharif,Chittoor Region,Paddy,Sunny / Dry,98,69,483,49
+2026-10-12 / Kharif,Guntur District,Sugarcane,Heavy Rain Alert,31,75,382,18
+2026-10-13 / Kharif,East Godavari,Chilli,Extreme Heatwave,35,65,348,27
+2026-10-14 / Kharif,Kurnool District,Chilli,Moderate Rainfall,49,77,349,15
+2026-10-15 / Kharif,Anantapur District,Chilli,Heavy Rain Alert,23,92,315,22
+2026-10-16 / Kharif,Kurnool District,Cotton,Heavy Rain Alert,121,44,694,56
+2026-10-17 / Kharif,Chittoor Region,Wheat,Extreme Heatwave,52,68,386,20
+2026-10-18 / Kharif,Chittoor Region,Wheat,Extreme Heatwave,54,92,328,25
+2026-10-19 / Kharif,Guntur District,Wheat,Heavy Rain Alert,57,114,350,29
+2026-10-20 / Kharif,Guntur District,Cotton,Heavy Rain Alert,141,48,717,85
+2026-10-21 / Kharif,Guntur District,Chilli,Extreme Heatwave,43,98,300,26
+2026-10-22 / Kharif,Anantapur District,Chilli,Moderate Rainfall,40,92,300,33
+2026-10-23 / Kharif,Guntur District,Chilli,Extreme Heatwave,45,97,300,20
+2026-10-24 / Kharif,Kurnool District,Chilli,Extreme Heatwave,66,82,375,34
+2026-10-25 / Kharif,Kurnool District,Sugarcane,Sunny / Dry,42,112,300,22
+2026-10-26 / Kharif,Chittoor Region,Paddy,Moderate Rainfall,105,69,516,59
+2026-10-27 / Kharif,Guntur District,Cotton,Heavy Rain Alert,129,72,636,59
+2026-10-28 / Kharif,East Godavari,Sugarcane,Extreme Heatwave,54,104,300,40
+2026-10-29 / Kharif,Kurnool District,Cotton,Extreme Heatwave,122,78,535,55
+2026-10-30 / Kharif,Guntur District,Sugarcane,Moderate Rainfall,27,87,300,4
+2026-10-31 / Kharif,Chittoor Region,Wheat,Extreme Heatwave,23,89,300,20
+2026-11-01 / Rabi,Chittoor Region,Cotton,Heavy Rain Alert,54,110,335,36
+2026-11-02 / Rabi,Kurnool District,Cotton,Heavy Rain Alert,33,100,326,8
+2026-11-03 / Rabi,Chittoor Region,Wheat,Heavy Rain Alert,97,59,590,58
+2026-11-04 / Rabi,Chittoor Region,Cotton,Moderate Rainfall,52,70,383,17
+2026-11-05 / Rabi,Kurnool District,Wheat,Heavy Rain Alert,130,82,632,72
+2026-11-06 / Rabi,Kurnool District,Wheat,Heavy Rain Alert,120,52,657,67
+2026-11-07 / Rabi,Kurnool District,Cotton,Heavy Rain Alert,39,113,300,16
+2026-11-08 / Rabi,East Godavari,Wheat,Heavy Rain Alert,108,58,612,62
+2026-11-09 / Rabi,Anantapur District,Paddy,Extreme Heatwave,38,110,300,26
+2026-11-10 / Rabi,East Godavari,Wheat,Moderate Rainfall,87,86,432,47
+2026-11-11 / Rabi,Anantapur District,Paddy,Heavy Rain Alert,26,78,365,10
+2026-11-12 / Rabi,Guntur District,Wheat,Extreme Heatwave,139,63,614,71
+2026-11-13 / Rabi,Anantapur District,Cotton,Moderate Rainfall,36,94,300,15
+2026-11-14 / Rabi,Kurnool District,Chilli,Heavy Rain Alert,52,89,406,24
+2026-11-15 / Rabi,Chittoor Region,Wheat,Moderate Rainfall,88,48,509,43
+2026-11-16 / Rabi,Guntur District,Chilli,Moderate Rainfall,21,105,300,22
+2026-11-17 / Rabi,Kurnool District,Paddy,Moderate Rainfall,35,93,300,23
+2026-11-18 / Rabi,Kurnool District,Paddy,Sunny / Dry,67,94,332,37
+2026-11-19 / Rabi,East Godavari,Wheat,Extreme Heatwave,134,65,586,81
+2026-11-20 / Rabi,Guntur District,Sugarcane,Sunny / Dry,24,112,300,2
+2026-11-21 / Rabi,Chittoor Region,Sugarcane,Extreme Heatwave,28,73,321,6
+2026-11-22 / Rabi,East Godavari,Cotton,Moderate Rainfall,54,81,339,35
+2026-11-23 / Rabi,Anantapur District,Wheat,Heavy Rain Alert,110,73,581,69
+2026-11-24 / Rabi,Guntur District,Paddy,Moderate Rainfall,59,85,369,38
+2026-11-25 / Rabi,Chittoor Region,Paddy,Moderate Rainfall,23,71,320,3
+2026-11-26 / Rabi,East Godavari,Sugarcane,Sunny / Dry,41,76,358,11
+2026-11-27 / Rabi,East Godavari,Cotton,Moderate Rainfall,43,98,300,33
+2026-11-28 / Rabi,Anantapur District,Paddy,Sunny / Dry,60,65,400,42
+2026-11-29 / Rabi,Anantapur District,Chilli,Sunny / Dry,44,82,306,28
+2026-11-30 / Rabi,Anantapur District,Wheat,Extreme Heatwave,96,50,532,47
+2026-12-01 / Rabi,Chittoor Region,Chilli,Extreme Heatwave,33,99,300,21
+2026-12-02 / Rabi,Kurnool District,Chilli,Extreme Heatwave,64,84,370,28
+2026-12-03 / Rabi,Anantapur District,Sugarcane,Sunny / Dry,68,110,300,41
+2026-12-04 / Rabi,Anantapur District,Sugarcane,Extreme Heatwave,27,107,300,8
+2026-12-05 / Rabi,Anantapur District,Sugarcane,Sunny / Dry,40,113,300,19
+2026-12-06 / Rabi,Anantapur District,Wheat,Moderate Rainfall,127,85,515,65
+2026-12-07 / Rabi,Kurnool District,Chilli,Extreme Heatwave,36,88,300,27
+2026-12-08 / Rabi,East Godavari,Chilli,Heavy Rain Alert,58,105,371,32
+2026-12-09 / Rabi,Guntur District,Cotton,Sunny / Dry,64,65,410,30
+2026-12-10 / Rabi,Kurnool District,Sugarcane,Extreme Heatwave,63,83,379,42
+2026-12-11 / Rabi,Anantapur District,Sugarcane,Sunny / Dry,64,76,387,38
+2026-12-12 / Rabi,Anantapur District,Cotton,Moderate Rainfall,52,109,300,29
+2026-12-13 / Rabi,East Godavari,Wheat,Heavy Rain Alert,107,74,577,58
+2026-12-14 / Rabi,Anantapur District,Chilli,Sunny / Dry,66,87,377,24
+2026-12-15 / Rabi,Anantapur District,Wheat,Moderate Rainfall,120,62,550,58
+2026-12-16 / Rabi,Guntur District,Paddy,Extreme Heatwave,38,111,300,8
+2026-12-17 / Rabi,Anantapur District,Sugarcane,Extreme Heatwave,31,79,300,13
+2026-12-18 / Rabi,Chittoor Region,Wheat,Sunny / Dry,123,46,627,56
+2026-12-19 / Rabi,Anantapur District,Wheat,Moderate Rainfall,135,55,633,74
+2026-12-20 / Rabi,Kurnool District,Sugarcane,Extreme Heatwave,29,78,305,9
+2026-12-21 / Rabi,Kurnool District,Cotton,Heavy Rain Alert,47,67,442,32
+2026-12-22 / Rabi,East Godavari,Chilli,Extreme Heatwave,25,91,300,3
+2026-12-23 / Rabi,Chittoor Region,Sugarcane,Moderate Rainfall,35,94,300,14
+2026-12-24 / Rabi,Chittoor Region,Paddy,Extreme Heatwave,21,81,300,9
+2026-12-25 / Rabi,Chittoor Region,Wheat,Sunny / Dry,85,89,432,48
+2026-12-26 / Rabi,Chittoor Region,Paddy,Sunny / Dry,45,101,300,34
+2026-12-27 / Rabi,Chittoor Region,Chilli,Moderate Rainfall,43,102,300,31
+2026-12-28 / Rabi,Chittoor Region,Chilli,Moderate Rainfall,62,82,361,30
+2026-12-29 / Rabi,Kurnool District,Wheat,Extreme Heatwave,137,82,555,74
+2026-12-30 / Rabi,Guntur District,Sugarcane,Extreme Heatwave,53,96,315,31
+2026-12-31 / Rabi,Guntur District,Chilli,Extreme Heatwave,60,87,355,28
+2025-01-01 / Rabi,Guntur District,Cotton,Moderate Rainfall,30,112,300,27
+2025-01-02 / Rabi,Chittoor Region,Cotton,Extreme Heatwave,58,98,315,42
+2025-01-03 / Rabi,Chittoor Region,Paddy,Extreme Heatwave,47,101,300,13
+2025-01-04 / Rabi,Anantapur District,Paddy,Extreme Heatwave,20,111,300,18
+2025-01-05 / Rabi,Anantapur District,Paddy,Moderate Rainfall,38,93,300,10
+2025-01-06 / Rabi,Chittoor Region,Paddy,Sunny / Dry,62,111,301,32
+2025-01-07 / Rabi,East Godavari,Wheat,Sunny / Dry,133,82,548,76
+2025-01-08 / Rabi,Chittoor Region,Paddy,Sunny / Dry,31,102,300,5
+2025-01-09 / Rabi,East Godavari,Paddy,Heavy Rain Alert,50,68,431,28
+2025-01-10 / Rabi,East Godavari,Sugarcane,Moderate Rainfall,62,91,348,31
+2025-01-11 / Rabi,East Godavari,Wheat,Extreme Heatwave,135,50,629,71
+2025-01-12 / Rabi,East Godavari,Cotton,Extreme Heatwave,56,101,326,27
+2025-01-13 / Rabi,Guntur District,Chilli,Moderate Rainfall,56,99,315,26
+2025-01-14 / Rabi,Anantapur District,Paddy,Moderate Rainfall,68,93,368,37
+2025-01-15 / Rabi,Chittoor Region,Cotton,Moderate Rainfall,66,81,363,27
+2025-01-16 / Rabi,Kurnool District,Paddy,Sunny / Dry,24,101,300,9
+2025-01-17 / Rabi,Anantapur District,Cotton,Extreme Heatwave,68,77,416,47
+2025-01-18 / Rabi,Chittoor Region,Cotton,Moderate Rainfall,22,106,300,2
+2025-01-19 / Rabi,Kurnool District,Cotton,Heavy Rain Alert,51,109,329,27
+2025-01-20 / Rabi,Kurnool District,Wheat,Moderate Rainfall,95,83,439,43
+2025-01-21 / Rabi,Guntur District,Paddy,Extreme Heatwave,20,92,300,2
+2025-01-22 / Rabi,Chittoor Region,Paddy,Moderate Rainfall,36,99,300,24
+2025-01-23 / Rabi,Kurnool District,Paddy,Sunny / Dry,59,86,376,24
+2025-01-24 / Rabi,Chittoor Region,Paddy,Extreme Heatwave,58,85,366,26
+2025-01-25 / Rabi,Chittoor Region,Paddy,Moderate Rainfall,47,69,396,31
+2025-01-26 / Rabi,Guntur District,Cotton,Extreme Heatwave,46,98,300,23
+2025-01-27 / Rabi,Kurnool District,Chilli,Moderate Rainfall,64,111,300,39
+2025-01-28 / Rabi,Guntur District,Sugarcane,Heavy Rain Alert,39,105,328,22
+2025-01-29 / Rabi,Kurnool District,Chilli,Heavy Rain Alert,31,70,391,20
+2025-01-30 / Rabi,Chittoor Region,Chilli,Heavy Rain Alert,63,108,363,41
+2025-01-31 / Rabi,Kurnool District,Wheat,Moderate Rainfall,116,50,563,56
+2025-02-01 / Rabi,Chittoor Region,Sugarcane,Extreme Heatwave,30,97,300,27
+2025-02-02 / Rabi,Anantapur District,Wheat,Sunny / Dry,107,59,548,64
+2025-02-03 / Rabi,Chittoor Region,Chilli,Moderate Rainfall,69,81,392,43
+2025-02-04 / Rabi,East Godavari,Chilli,Extreme Heatwave,33,91,300,20
+2025-02-05 / Rabi,Guntur District,Wheat,Extreme Heatwave,88,51,508,48
+2025-02-06 / Rabi,Chittoor Region,Wheat,Extreme Heatwave,119,53,568,60
+2025-02-07 / Rabi,East Godavari,Sugarcane,Heavy Rain Alert,38,102,341,10
+2025-02-08 / Rabi,East Godavari,Sugarcane,Extreme Heatwave,24,77,300,22
+2025-02-09 / Rabi,Kurnool District,Sugarcane,Heavy Rain Alert,48,86,404,24
+2025-02-10 / Rabi,Kurnool District,Cotton,Sunny / Dry,22,74,300,15
+2025-02-11 / Rabi,Chittoor Region,Cotton,Extreme Heatwave,31,66,323,13
+2025-02-12 / Rabi,Chittoor Region,Chilli,Moderate Rainfall,43,99,300,17
+2025-02-13 / Rabi,East Godavari,Sugarcane,Heavy Rain Alert,49,71,441,16
+2025-02-14 / Rabi,Kurnool District,Wheat,Sunny / Dry,85,80,438,38
+2025-02-15 / Rabi,East Godavari,Wheat,Sunny / Dry,97,84,461,48
+2025-02-16 / Rabi,Chittoor Region,Sugarcane,Sunny / Dry,24,73,304,2
+2025-02-17 / Rabi,Anantapur District,Cotton,Sunny / Dry,59,87,355,28
+2025-02-18 / Rabi,Guntur District,Sugarcane,Moderate Rainfall,53,110,300,22
+2025-02-19 / Rabi,East Godavari,Sugarcane,Heavy Rain Alert,30,99,303,11
+2025-02-20 / Rabi,Anantapur District,Paddy,Moderate Rainfall,22,78,300,7
+2025-02-21 / Rabi,Kurnool District,Paddy,Extreme Heatwave,36,98,300,16
+2025-02-22 / Rabi,Kurnool District,Chilli,Moderate Rainfall,35,102,300,8
+2025-02-23 / Rabi,East Godavari,Sugarcane,Heavy Rain Alert,58,67,458,26
+2025-02-24 / Rabi,Anantapur District,Cotton,Extreme Heatwave,42,78,324,32
+2025-02-25 / Rabi,Chittoor Region,Wheat,Heavy Rain Alert,113,83,556,70
+2025-02-26 / Rabi,Anantapur District,Wheat,Extreme Heatwave,123,45,597,67
+2025-02-27 / Rabi,East Godavari,Paddy,Extreme Heatwave,40,83,315,30
+2025-02-28 / Rabi,Anantapur District,Sugarcane,Heavy Rain Alert,38,89,326,17
+2025-03-01 / Rabi,Anantapur District,Cotton,Sunny / Dry,55,72,379,39
+2025-03-02 / Rabi,Chittoor Region,Sugarcane,Moderate Rainfall,39,96,300,22
+2025-03-03 / Rabi,Guntur District,Wheat,Extreme Heatwave,136,68,611,76
+2025-03-04 / Rabi,Anantapur District,Sugarcane,Moderate Rainfall,41,94,300,32
+2025-03-05 / Rabi,Anantapur District,Sugarcane,Extreme Heatwave,27,82,300,13
+2025-03-06 / Rabi,Chittoor Region,Sugarcane,Extreme Heatwave,50,78,338,31
+2025-03-07 / Rabi,Chittoor Region,Wheat,Heavy Rain Alert,99,75,561,58
+2025-03-08 / Rabi,East Godavari,Cotton,Extreme Heatwave,48,90,323,30
+2025-03-09 / Rabi,Kurnool District,Wheat,Moderate Rainfall,107,68,536,63
+2025-03-10 / Rabi,Kurnool District,Chilli,Extreme Heatwave,27,105,300,12
+2025-03-11 / Rabi,Kurnool District,Chilli,Sunny / Dry,20,107,300,17
+2025-03-12 / Rabi,Chittoor Region,Paddy,Sunny / Dry,28,91,300,20
+2025-03-13 / Rabi,Guntur District,Paddy,Extreme Heatwave,34,77,325,24
+2025-03-14 / Rabi,Kurnool District,Sugarcane,Sunny / Dry,68,70,419,29
+2025-03-15 / Rabi,Kurnool District,Paddy,Moderate Rainfall,36,87,300,7
+2025-03-16 / Rabi,Chittoor Region,Cotton,Heavy Rain Alert,46,89,388,25
+2025-03-17 / Rabi,Guntur District,Chilli,Extreme Heatwave,56,97,307,41
+2025-03-18 / Rabi,East Godavari,Paddy,Sunny / Dry,63,75,391,30
+2025-03-19 / Rabi,Chittoor Region,Chilli,Extreme Heatwave,40,84,312,28
+2025-03-20 / Rabi,Guntur District,Paddy,Heavy Rain Alert,38,76,365,16
+2025-03-21 / Rabi,Chittoor Region,Wheat,Sunny / Dry,119,62,562,66
+2025-03-22 / Rabi,Chittoor Region,Cotton,Moderate Rainfall,54,108,300,20
+2025-03-23 / Rabi,Guntur District,Paddy,Moderate Rainfall,50,66,364,30
+2025-03-24 / Rabi,Kurnool District,Sugarcane,Heavy Rain Alert,28,73,382,24
+2025-03-25 / Rabi,Anantapur District,Wheat,Extreme Heatwave,117,80,520,64
+2025-03-26 / Rabi,Guntur District,Wheat,Extreme Heatwave,107,89,463,53
+2025-03-27 / Rabi,East Godavari,Chilli,Moderate Rainfall,26,100,300,19
+2025-03-28 / Rabi,Kurnool District,Wheat,Sunny / Dry,87,72,453,35
+2025-03-29 / Rabi,Guntur District,Paddy,Extreme Heatwave,55,85,368,28
+2025-03-30 / Rabi,East Godavari,Cotton,Extreme Heatwave,54,77,341,37
+2025-03-31 / Rabi,Guntur District,Paddy,Moderate Rainfall,29,110,300,15
+2025-04-01 / Zaid,Guntur District,Cotton,Extreme Heatwave,56,102,302,20
+2025-04-02 / Zaid,Anantapur District,Chilli,Sunny / Dry,66,102,318,40
+2025-04-03 / Zaid,Chittoor Region,Paddy,Moderate Rainfall,31,88,300,10
+2025-04-04 / Zaid,Kurnool District,Chilli,Extreme Heatwave,20,84,300,21
+2025-04-05 / Zaid,Anantapur District,Paddy,Sunny / Dry,47,80,338,24
+2025-04-06 / Zaid,Anantapur District,Chilli,Sunny / Dry,46,106,300,27
+2025-04-07 / Zaid,Kurnool District,Wheat,Sunny / Dry,49,105,300,34
+2025-04-08 / Zaid,Kurnool District,Chilli,Moderate Rainfall,44,97,300,34
+2025-04-09 / Zaid,East Godavari,Paddy,Heavy Rain Alert,26,76,366,16
+2025-04-10 / Zaid,Kurnool District,Chilli,Moderate Rainfall,28,96,300,13
+2025-04-11 / Zaid,Chittoor Region,Cotton,Heavy Rain Alert,27,97,300,14
+2025-04-12 / Zaid,East Godavari,Sugarcane,Sunny / Dry,41,68,361,17
+2025-04-13 / Zaid,Chittoor Region,Wheat,Sunny / Dry,22,93,300,12
+2025-04-14 / Zaid,Guntur District,Cotton,Moderate Rainfall,34,87,300,17
+2025-04-15 / Zaid,Guntur District,Wheat,Extreme Heatwave,45,68,368,33
+2025-04-16 / Zaid,Anantapur District,Paddy,Heavy Rain Alert,60,81,438,32
+2025-04-17 / Zaid,East Godavari,Cotton,Moderate Rainfall,26,106,300,14
+2025-04-18 / Zaid,Anantapur District,Chilli,Extreme Heatwave,27,104,300,5
+2025-04-19 / Zaid,East Godavari,Sugarcane,Extreme Heatwave,66,95,333,40
+2025-04-20 / Zaid,Guntur District,Chilli,Heavy Rain Alert,66,102,410,47
+2025-04-21 / Zaid,Kurnool District,Paddy,Sunny / Dry,66,95,343,40
+2025-04-22 / Zaid,Anantapur District,Sugarcane,Extreme Heatwave,69,69,421,44
+2025-04-23 / Zaid,Kurnool District,Cotton,Heavy Rain Alert,60,75,451,26
+2025-04-24 / Zaid,Anantapur District,Paddy,Sunny / Dry,46,98,300,27
+2025-04-25 / Zaid,Guntur District,Wheat,Extreme Heatwave,51,85,336,37
+2025-04-26 / Zaid,Anantapur District,Wheat,Sunny / Dry,37,78,322,17
+2025-04-27 / Zaid,Kurnool District,Paddy,Moderate Rainfall,65,77,417,28
+2025-04-28 / Zaid,East Godavari,Cotton,Extreme Heatwave,48,72,341,25
+2025-04-29 / Zaid,Guntur District,Paddy,Sunny / Dry,64,107,302,33
+2025-04-30 / Zaid,Anantapur District,Chilli,Sunny / Dry,32,114,300,15
+2025-05-01 / Zaid,Chittoor Region,Chilli,Heavy Rain Alert,50,92,375,18
+2025-05-02 / Zaid,East Godavari,Paddy,Heavy Rain Alert,54,112,348,40
+2025-05-03 / Zaid,East Godavari,Cotton,Sunny / Dry,45,76,337,30
+2025-05-04 / Zaid,Chittoor Region,Sugarcane,Moderate Rainfall,42,102,300,32
+2025-05-05 / Zaid,East Godavari,Sugarcane,Moderate Rainfall,37,90,300,24
+2025-05-06 / Zaid,Anantapur District,Wheat,Heavy Rain Alert,62,107,393,42
+2025-05-07 / Zaid,East Godavari,Sugarcane,Sunny / Dry,35,66,341,16
+2025-05-08 / Zaid,Kurnool District,Cotton,Heavy Rain Alert,27,94,327,5
+2025-05-09 / Zaid,East Godavari,Wheat,Extreme Heatwave,66,94,366,43
+2025-05-10 / Zaid,Guntur District,Wheat,Heavy Rain Alert,43,114,326,32
+2025-05-11 / Zaid,Kurnool District,Cotton,Moderate Rainfall,48,86,338,17
+2025-05-12 / Zaid,East Godavari,Paddy,Moderate Rainfall,56,92,334,27
+2025-05-13 / Zaid,Anantapur District,Paddy,Extreme Heatwave,62,85,354,23
+2025-05-14 / Zaid,Anantapur District,Chilli,Extreme Heatwave,27,112,300,23
+2025-05-15 / Zaid,Anantapur District,Cotton,Heavy Rain Alert,56,91,402,30
+2025-05-16 / Zaid,East Godavari,Chilli,Moderate Rainfall,64,74,389,26
+2025-05-17 / Zaid,Anantapur District,Wheat,Moderate Rainfall,28,91,300,9
+2025-05-18 / Zaid,East Godavari,Wheat,Moderate Rainfall,68,67,429,44
+2025-05-19 / Zaid,East Godavari,Wheat,Heavy Rain Alert,39,94,330,26
+2025-05-20 / Zaid,East Godavari,Chilli,Moderate Rainfall,64,93,359,42
+2025-05-21 / Zaid,Anantapur District,Cotton,Heavy Rain Alert,46,82,385,25
+2025-05-22 / Zaid,East Godavari,Wheat,Sunny / Dry,39,87,308,18
+2025-05-23 / Zaid,Chittoor Region,Sugarcane,Moderate Rainfall,30,105,300,16
+2025-05-24 / Zaid,Chittoor Region,Paddy,Extreme Heatwave,60,93,335,24
+2025-05-25 / Zaid,Kurnool District,Cotton,Heavy Rain Alert,24,75,339,12
+2025-05-26 / Zaid,Guntur District,Cotton,Extreme Heatwave,45,83,345,24
+2025-05-27 / Zaid,Kurnool District,Wheat,Moderate Rainfall,26,111,300,24
+2025-05-28 / Zaid,Anantapur District,Sugarcane,Extreme Heatwave,61,84,356,35
+2025-05-29 / Zaid,East Godavari,Paddy,Extreme Heatwave,69,109,304,43
+2025-05-30 / Zaid,Chittoor Region,Cotton,Extreme Heatwave,67,103,334,37
+2025-05-31 / Zaid,Chittoor Region,Chilli,Extreme Heatwave,47,110,300,15
+2025-06-01 / Kharif,Chittoor Region,Paddy,Heavy Rain Alert,118,66,628,59
+2025-06-02 / Kharif,Chittoor Region,Chilli,Sunny / Dry,55,98,304,21
+2025-06-03 / Kharif,Guntur District,Sugarcane,Heavy Rain Alert,22,98,314,16
+2025-06-04 / Kharif,Kurnool District,Chilli,Sunny / Dry,42,87,305,31
+2025-06-05 / Kharif,Chittoor Region,Cotton,Heavy Rain Alert,156,45,775,77
+2025-06-06 / Kharif,East Godavari,Paddy,Sunny / Dry,151,49,668,91
+2025-06-07 / Kharif,Guntur District,Wheat,Moderate Rainfall,39,67,342,27
+2025-06-08 / Kharif,Chittoor Region,Chilli,Moderate Rainfall,41,111,300,28
+2025-06-09 / Kharif,East Godavari,Wheat,Extreme Heatwave,55,111,300,26
+2025-06-10 / Kharif,East Godavari,Chilli,Moderate Rainfall,24,77,300,5
+2025-06-11 / Kharif,Anantapur District,Paddy,Extreme Heatwave,119,66,544,71
+2025-06-12 / Kharif,Guntur District,Wheat,Extreme Heatwave,33,112,300,22
+2025-06-13 / Kharif,Guntur District,Paddy,Moderate Rainfall,110,70,499,57
+2025-06-14 / Kharif,Anantapur District,Wheat,Heavy Rain Alert,29,96,328,11
+2025-06-15 / Kharif,East Godavari,Sugarcane,Extreme Heatwave,36,75,315,16
+2025-06-16 / Kharif,Anantapur District,Cotton,Sunny / Dry,111,43,591,69
+2025-06-17 / Kharif,East Godavari,Cotton,Heavy Rain Alert,159,64,733,93
+2025-06-18 / Kharif,Guntur District,Wheat,Sunny / Dry,55,81,367,23
+2025-06-19 / Kharif,Guntur District,Paddy,Heavy Rain Alert,95,62,584,46
+2025-06-20 / Kharif,Guntur District,Sugarcane,Moderate Rainfall,36,98,300,19
+2025-06-21 / Kharif,Chittoor Region,Sugarcane,Moderate Rainfall,25,70,313,20
+2025-06-22 / Kharif,Anantapur District,Chilli,Extreme Heatwave,22,81,300,14
+2025-06-23 / Kharif,East Godavari,Sugarcane,Extreme Heatwave,64,65,428,39
+2025-06-24 / Kharif,Kurnool District,Sugarcane,Extreme Heatwave,22,90,300,3
+2025-06-25 / Kharif,East Godavari,Paddy,Moderate Rainfall,112,58,548,59
+2025-06-26 / Kharif,East Godavari,Chilli,Extreme Heatwave,54,104,300,18
+2025-06-27 / Kharif,East Godavari,Paddy,Moderate Rainfall,155,43,714,96
+2025-06-28 / Kharif,Kurnool District,Wheat,Sunny / Dry,48,83,336,21
+2025-06-29 / Kharif,Chittoor Region,Paddy,Moderate Rainfall,159,44,729,90
+2025-06-30 / Kharif,Anantapur District,Wheat,Moderate Rainfall,25,104,300,3
+2025-07-01 / Kharif,East Godavari,Paddy,Heavy Rain Alert,113,51,638,65
+2025-07-02 / Kharif,East Godavari,Chilli,Heavy Rain Alert,62,74,466,33
+2025-07-03 / Kharif,Chittoor Region,Cotton,Extreme Heatwave,117,41,622,75
+2025-07-04 / Kharif,Chittoor Region,Paddy,Heavy Rain Alert,116,76,587,73
+2025-07-05 / Kharif,Anantapur District,Cotton,Moderate Rainfall,110,58,544,66
+2025-07-06 / Kharif,Anantapur District,Chilli,Sunny / Dry,37,80,307,19
+2025-07-07 / Kharif,Kurnool District,Wheat,Sunny / Dry,30,69,317,15
+2025-07-08 / Kharif,Kurnool District,Wheat,Sunny / Dry,36,70,349,20
+2025-07-09 / Kharif,Kurnool District,Wheat,Moderate Rainfall,24,97,300,18
+2025-07-10 / Kharif,Chittoor Region,Cotton,Extreme Heatwave,113,61,544,64
+2025-07-11 / Kharif,Chittoor Region,Sugarcane,Extreme Heatwave,58,68,393,19
+2025-07-12 / Kharif,East Godavari,Sugarcane,Extreme Heatwave,32,84,303,18
+2025-07-13 / Kharif,Chittoor Region,Sugarcane,Moderate Rainfall,42,83,334,32
+2025-07-14 / Kharif,East Godavari,Wheat,Moderate Rainfall,48,84,318,23
+2025-07-15 / Kharif,Kurnool District,Wheat,Extreme Heatwave,60,72,378,30
+2025-07-16 / Kharif,Chittoor Region,Paddy,Heavy Rain Alert,111,41,683,68
+2025-07-17 / Kharif,Guntur District,Cotton,Moderate Rainfall,135,66,585,78
+2025-07-18 / Kharif,Kurnool District,Cotton,Extreme Heatwave,97,49,560,42
+2025-07-19 / Kharif,East Godavari,Cotton,Extreme Heatwave,118,49,593,57
+2025-07-20 / Kharif,East Godavari,Cotton,Moderate Rainfall,116,65,538,65
+2025-07-21 / Kharif,Guntur District,Chilli,Sunny / Dry,57,84,354,27
+2025-07-22 / Kharif,Kurnool District,Wheat,Sunny / Dry,39,108,300,10
+2025-07-23 / Kharif,Anantapur District,Sugarcane,Heavy Rain Alert,49,98,366,35
+2025-07-24 / Kharif,Kurnool District,Cotton,Extreme Heatwave,100,54,515,58
+2025-07-25 / Kharif,Chittoor Region,Chilli,Sunny / Dry,25,105,300,4
+2025-07-26 / Kharif,Chittoor Region,Paddy,Heavy Rain Alert,153,41,767,93
+2025-07-27 / Kharif,Chittoor Region,Wheat,Sunny / Dry,55,98,315,30
+2025-07-28 / Kharif,East Godavari,Chilli,Moderate Rainfall,47,65,375,29
+2025-07-29 / Kharif,East Godavari,Paddy,Moderate Rainfall,103,75,486,62
+2025-07-30 / Kharif,Anantapur District,Paddy,Extreme Heatwave,95,49,548,49
+2025-07-31 / Kharif,Anantapur District,Wheat,Sunny / Dry,51,96,303,21
+2025-08-01 / Kharif,East Godavari,Paddy,Moderate Rainfall,142,77,572,86
+2025-08-02 / Kharif,Kurnool District,Chilli,Heavy Rain Alert,44,92,368,26
+2025-08-03 / Kharif,Chittoor Region,Cotton,Moderate Rainfall,109,43,605,65
+2025-08-04 / Kharif,Chittoor Region,Sugarcane,Moderate Rainfall,47,81,329,23
+2025-08-05 / Kharif,Kurnool District,Paddy,Heavy Rain Alert,135,59,687,82
+2025-08-06 / Kharif,Chittoor Region,Wheat,Moderate Rainfall,42,111,300,30
+2025-08-07 / Kharif,Anantapur District,Wheat,Heavy Rain Alert,66,97,404,39
+2025-08-08 / Kharif,Chittoor Region,Wheat,Sunny / Dry,53,104,300,27
+2025-08-09 / Kharif,Kurnool District,Cotton,Sunny / Dry,155,42,708,88
+2025-08-10 / Kharif,Anantapur District,Sugarcane,Moderate Rainfall,37,94,300,23
+2025-08-11 / Kharif,Kurnool District,Sugarcane,Heavy Rain Alert,29,82,363,15
+2025-08-12 / Kharif,Kurnool District,Cotton,Extreme Heatwave,140,42,670,74
+2025-08-13 / Kharif,Kurnool District,Chilli,Heavy Rain Alert,57,65,481,35
+2025-08-14 / Kharif,East Godavari,Cotton,Extreme Heatwave,100,64,500,49
+2025-08-15 / Kharif,Guntur District,Paddy,Extreme Heatwave,154,67,649,77
+2025-08-16 / Kharif,Chittoor Region,Wheat,Heavy Rain Alert,59,100,384,37
+2025-08-17 / Kharif,East Godavari,Cotton,Heavy Rain Alert,131,54,676,72
+2025-08-18 / Kharif,Chittoor Region,Paddy,Sunny / Dry,98,61,491,47
+2025-08-19 / Kharif,East Godavari,Wheat,Sunny / Dry,62,88,349,39
+2025-08-20 / Kharif,Chittoor Region,Cotton,Moderate Rainfall,95,77,482,45
+2025-08-21 / Kharif,East Godavari,Sugarcane,Extreme Heatwave,40,112,300,30
+2025-08-22 / Kharif,Anantapur District,Wheat,Heavy Rain Alert,69,71,486,27
+2025-08-23 / Kharif,Anantapur District,Chilli,Moderate Rainfall,64,111,300,27
+2025-08-24 / Kharif,Chittoor Region,Cotton,Heavy Rain Alert,95,43,623,51
+2025-08-25 / Kharif,Guntur District,Paddy,Sunny / Dry,154,66,675,92
+2025-08-26 / Kharif,East Godavari,Paddy,Sunny / Dry,155,63,664,85
+2025-08-27 / Kharif,Kurnool District,Cotton,Extreme Heatwave,149,71,621,82
+2025-08-28 / Kharif,Guntur District,Cotton,Moderate Rainfall,143,78,589,81
+2025-08-29 / Kharif,Kurnool District,Wheat,Moderate Rainfall,52,113,300,34
+2025-08-30 / Kharif,Anantapur District,Paddy,Heavy Rain Alert,129,78,607,79
+2025-08-31 / Kharif,Anantapur District,Paddy,Heavy Rain Alert,135,44,728,84
+2025-09-01 / Kharif,Kurnool District,Paddy,Extreme Heatwave,124,61,583,64
+2025-09-02 / Kharif,Anantapur District,Sugarcane,Extreme Heatwave,48,111,300,27
+2025-09-03 / Kharif,Guntur District,Paddy,Sunny / Dry,117,56,578,74
+2025-09-04 / Kharif,Kurnool District,Cotton,Sunny / Dry,100,57,531,59
+2025-09-05 / Kharif,Kurnool District,Chilli,Moderate Rainfall,62,96,312,31
+2025-09-06 / Kharif,Chittoor Region,Cotton,Sunny / Dry,104,75,489,55
+2025-09-07 / Kharif,Guntur District,Wheat,Sunny / Dry,33,103,300,28
+2025-09-08 / Kharif,East Godavari,Sugarcane,Extreme Heatwave,66,83,391,47
+2025-09-09 / Kharif,Guntur District,Sugarcane,Extreme Heatwave,27,107,300,10
+2025-09-10 / Kharif,Guntur District,Paddy,Sunny / Dry,141,72,608,74
+2025-09-11 / Kharif,Anantapur District,Wheat,Heavy Rain Alert,59,111,332,29
+2025-09-12 / Kharif,Kurnool District,Cotton,Moderate Rainfall,159,68,615,96
+2025-09-13 / Kharif,Kurnool District,Paddy,Sunny / Dry,95,73,475,55
+2025-09-14 / Kharif,Chittoor Region,Sugarcane,Extreme Heatwave,66,77,391,30
+2025-09-15 / Kharif,Anantapur District,Sugarcane,Moderate Rainfall,43,90,325,27
+2025-09-16 / Kharif,East Godavari,Chilli,Extreme Heatwave,26,77,302,8
+2025-09-17 / Kharif,Kurnool District,Paddy,Sunny / Dry,152,78,602,91
+2025-09-18 / Kharif,Kurnool District,Paddy,Extreme Heatwave,159,56,682,77
+2025-09-19 / Kharif,Anantapur District,Cotton,Heavy Rain Alert,123,71,630,70
+2025-09-20 / Kharif,Kurnool District,Sugarcane,Heavy Rain Alert,44,92,382,33
+2025-09-21 / Kharif,Guntur District,Sugarcane,Heavy Rain Alert,35,105,324,25
+2025-09-22 / Kharif,Guntur District,Wheat,Moderate Rainfall,63,105,327,40
+2025-09-23 / Kharif,Chittoor Region,Chilli,Moderate Rainfall,21,105,300,11
+2025-09-24 / Kharif,East Godavari,Wheat,Sunny / Dry,34,67,337,13
+2025-09-25 / Kharif,Kurnool District,Cotton,Extreme Heatwave,112,41,595,56
+2025-09-26 / Kharif,Guntur District,Sugarcane,Extreme Heatwave,41,70,357,13
+2025-09-27 / Kharif,Chittoor Region,Paddy,Sunny / Dry,151,57,628,72
+2025-09-28 / Kharif,Anantapur District,Wheat,Moderate Rainfall,32,109,300,18
+2025-09-29 / Kharif,East Godavari,Chilli,Extreme Heatwave,59,68,396,39
+2025-09-30 / Kharif,Anantapur District,Chilli,Moderate Rainfall,30,95,300,20
+2025-10-01 / Kharif,East Godavari,Paddy,Sunny / Dry,103,67,496,45
+2025-10-02 / Kharif,Chittoor Region,Paddy,Sunny / Dry,155,54,673,81
+2025-10-03 / Kharif,Anantapur District,Sugarcane,Sunny / Dry,56,112,300,30
+2025-10-04 / Kharif,Guntur District,Cotton,Heavy Rain Alert,156,78,698,75
+2025-10-05 / Kharif,Chittoor Region,Cotton,Extreme Heatwave,158,68,654,80
+2025-10-06 / Kharif,East Godavari,Paddy,Moderate Rainfall,103,67,496,59
+2025-10-07 / Kharif,Anantapur District,Paddy,Heavy Rain Alert,97,60,578,44
+2025-10-08 / Kharif,Guntur District,Chilli,Moderate Rainfall,61,101,339,32
+2025-10-09 / Kharif,Kurnool District,Chilli,Heavy Rain Alert,61,77,453,31
+2025-10-10 / Kharif,East Godavari,Chilli,Sunny / Dry,35,72,312,19
+2025-10-11 / Kharif,Anantapur District,Cotton,Moderate Rainfall,153,41,704,83
+2025-10-12 / Kharif,Guntur District,Sugarcane,Sunny / Dry,29,108,300,4
+2025-10-13 / Kharif,East Godavari,Paddy,Extreme Heatwave,144,51,671,85
+2025-10-14 / Kharif,Chittoor Region,Chilli,Sunny / Dry,45,87,328,17
+2025-10-15 / Kharif,Anantapur District,Sugarcane,Sunny / Dry,66,67,424,29
+2025-10-16 / Kharif,Guntur District,Sugarcane,Sunny / Dry,22,94,300,20
+2025-10-17 / Kharif,Kurnool District,Cotton,Heavy Rain Alert,107,66,574,49
+2025-10-18 / Kharif,Chittoor Region,Chilli,Heavy Rain Alert,26,86,338,24
+2025-10-19 / Kharif,Kurnool District,Wheat,Moderate Rainfall,25,88,300,20
+2025-10-20 / Kharif,Anantapur District,Paddy,Sunny / Dry,127,67,567,78
+2025-10-21 / Kharif,Anantapur District,Cotton,Heavy Rain Alert,115,71,582,53
+2025-10-22 / Kharif,Chittoor Region,Paddy,Heavy Rain Alert,99,45,608,65
+2025-10-23 / Kharif,Chittoor Region,Paddy,Extreme Heatwave,123,46,608,62
+2025-10-24 / Kharif,East Godavari,Chilli,Heavy Rain Alert,32,102,317,5
+2025-10-25 / Kharif,Guntur District,Cotton,Moderate Rainfall,148,77,592,84
+2025-10-26 / Kharif,Anantapur District,Sugarcane,Heavy Rain Alert,46,84,402,15
+2025-10-27 / Kharif,Guntur District,Chilli,Sunny / Dry,64,91,365,25
+2025-10-28 / Kharif,Kurnool District,Chilli,Sunny / Dry,50,79,334,17
+2025-10-29 / Kharif,Guntur District,Paddy,Moderate Rainfall,153,60,638,90
+2025-10-30 / Kharif,Guntur District,Cotton,Heavy Rain Alert,148,50,722,91
+2025-10-31 / Kharif,East Godavari,Sugarcane,Moderate Rainfall,34,107,300,8
+2025-11-01 / Rabi,Guntur District,Chilli,Extreme Heatwave,22,80,300,18
+2025-11-02 / Rabi,Kurnool District,Wheat,Moderate Rainfall,109,48,554,65
+2025-11-03 / Rabi,East Godavari,Wheat,Heavy Rain Alert,127,46,682,76
+2025-11-04 / Rabi,Guntur District,Chilli,Heavy Rain Alert,67,83,468,46
+2025-11-05 / Rabi,Guntur District,Chilli,Sunny / Dry,43,75,337,15
+2025-11-06 / Rabi,Kurnool District,Sugarcane,Sunny / Dry,24,85,300,12
+2025-11-07 / Rabi,East Godavari,Paddy,Extreme Heatwave,69,68,421,30
+2025-11-08 / Rabi,Anantapur District,Wheat,Heavy Rain Alert,109,58,630,57
+2025-11-09 / Rabi,Guntur District,Chilli,Extreme Heatwave,51,75,354,37
+2025-11-10 / Rabi,Guntur District,Wheat,Moderate Rainfall,102,67,520,54
+2025-11-11 / Rabi,Anantapur District,Chilli,Heavy Rain Alert,40,108,343,18
+2025-11-12 / Rabi,Chittoor Region,Sugarcane,Extreme Heatwave,29,86,300,21
+2025-11-13 / Rabi,Anantapur District,Chilli,Extreme Heatwave,20,71,300,10
+2025-11-14 / Rabi,Kurnool District,Chilli,Moderate Rainfall,41,86,311,27
+2025-11-15 / Rabi,Kurnool District,Paddy,Extreme Heatwave,66,81,378,43
+2025-11-16 / Rabi,Guntur District,Sugarcane,Heavy Rain Alert,69,112,386,25
+2025-11-17 / Rabi,Guntur District,Wheat,Sunny / Dry,139,87,526,83
+2025-11-18 / Rabi,East Godavari,Wheat,Sunny / Dry,114,82,475,52
+2025-11-19 / Rabi,Kurnool District,Chilli,Moderate Rainfall,47,90,300,17
+2025-11-20 / Rabi,East Godavari,Cotton,Sunny / Dry,68,102,331,26
+2025-11-21 / Rabi,Kurnool District,Wheat,Sunny / Dry,120,70,539,64
+2025-11-22 / Rabi,Guntur District,Sugarcane,Extreme Heatwave,41,84,315,17
+2025-11-23 / Rabi,Anantapur District,Cotton,Sunny / Dry,48,104,300,33
+2025-11-24 / Rabi,Chittoor Region,Paddy,Moderate Rainfall,35,110,300,17
+2025-11-25 / Rabi,East Godavari,Paddy,Sunny / Dry,26,80,300,25
+2025-11-26 / Rabi,East Godavari,Sugarcane,Moderate Rainfall,28,99,300,21
+2025-11-27 / Rabi,Anantapur District,Wheat,Heavy Rain Alert,104,81,550,67
+2025-11-28 / Rabi,East Godavari,Wheat,Heavy Rain Alert,92,59,582,58
+2025-11-29 / Rabi,East Godavari,Wheat,Moderate Rainfall,114,64,535,61
+2025-11-30 / Rabi,Guntur District,Sugarcane,Moderate Rainfall,68,81,364,34
+2025-12-01 / Rabi,Chittoor Region,Paddy,Moderate Rainfall,49,93,307,31
+2025-12-02 / Rabi,Guntur District,Sugarcane,Extreme Heatwave,26,108,300,3
+2025-12-03 / Rabi,East Godavari,Wheat,Extreme Heatwave,104,82,489,49
+2025-12-04 / Rabi,Guntur District,Chilli,Heavy Rain Alert,59,72,427,27
+2025-12-05 / Rabi,Kurnool District,Cotton,Heavy Rain Alert,63,87,422,29
+2025-12-06 / Rabi,East Godavari,Wheat,Sunny / Dry,113,74,530,73
+2025-12-07 / Rabi,Guntur District,Sugarcane,Heavy Rain Alert,29,103,300,15
+2025-12-08 / Rabi,Chittoor Region,Paddy,Moderate Rainfall,51,100,300,20
+2025-12-09 / Rabi,Anantapur District,Sugarcane,Sunny / Dry,45,86,319,17
+2025-12-10 / Rabi,Kurnool District,Wheat,Extreme Heatwave,108,67,525,68
+2025-12-11 / Rabi,Chittoor Region,Paddy,Heavy Rain Alert,21,95,311,3
+2025-12-12 / Rabi,Anantapur District,Sugarcane,Sunny / Dry,57,74,356,26
+2025-12-13 / Rabi,East Godavari,Cotton,Moderate Rainfall,65,88,345,45
+2025-12-14 / Rabi,Guntur District,Cotton,Sunny / Dry,36,65,356,29
+2025-12-15 / Rabi,Kurnool District,Paddy,Sunny / Dry,50,95,326,35
+2025-12-16 / Rabi,Guntur District,Sugarcane,Moderate Rainfall,53,73,361,38
+2025-12-17 / Rabi,Kurnool District,Cotton,Heavy Rain Alert,32,89,369,12
+2025-12-18 / Rabi,Guntur District,Chilli,Heavy Rain Alert,36,79,392,16
+2025-12-19 / Rabi,Guntur District,Paddy,Sunny / Dry,34,79,322,22
+2025-12-20 / Rabi,Kurnool District,Cotton,Moderate Rainfall,51,73,366,23
+2025-12-21 / Rabi,Guntur District,Wheat,Sunny / Dry,104,70,504,60
+2025-12-22 / Rabi,Guntur District,Cotton,Sunny / Dry,28,76,300,14
+2025-12-23 / Rabi,Kurnool District,Chilli,Extreme Heatwave,57,83,345,34
+2025-12-24 / Rabi,East Godavari,Cotton,Sunny / Dry,37,80,316,30
+2025-12-25 / Rabi,East Godavari,Cotton,Moderate Rainfall,58,68,400,26
+2025-12-26 / Rabi,Anantapur District,Sugarcane,Moderate Rainfall,32,109,300,21
+2025-12-27 / Rabi,Anantapur District,Wheat,Extreme Heatwave,133,81,570,74
+2025-12-28 / Rabi,Kurnool District,Paddy,Moderate Rainfall,50,68,375,21
+2025-12-29 / Rabi,Anantapur District,Cotton,Extreme Heatwave,27,89,300,7
+2025-12-30 / Rabi,Chittoor Region,Cotton,Sunny / Dry,47,94,314,15
+2025-12-31 / Rabi,Guntur District,Wheat,Extreme Heatwave,112,47,587,70
+2026-01-01 / Rabi,Kurnool District,Cotton,Moderate Rainfall,51,102,300,23
+2026-01-02 / Rabi,Chittoor Region,Sugarcane,Sunny / Dry,27,70,327,4
+2026-01-03 / Rabi,East Godavari,Wheat,Extreme Heatwave,96,75,466,44
+2026-01-04 / Rabi,Chittoor Region,Cotton,Heavy Rain Alert,44,105,339,31
+2026-01-05 / Rabi,Chittoor Region,Chilli,Heavy Rain Alert,58,86,399,22
+2026-01-06 / Rabi,East Godavari,Wheat,Moderate Rainfall,97,89,443,60
+2026-01-07 / Rabi,Guntur District,Wheat,Moderate Rainfall,136,57,622,78
+2026-01-08 / Rabi,Guntur District,Wheat,Sunny / Dry,138,80,539,79
+2026-01-09 / Rabi,East Godavari,Chilli,Heavy Rain Alert,43,72,410,28
+2026-01-10 / Rabi,Chittoor Region,Sugarcane,Moderate Rainfall,46,109,300,27
+2026-01-11 / Rabi,Guntur District,Sugarcane,Moderate Rainfall,32,103,300,9
+2026-01-12 / Rabi,Anantapur District,Chilli,Sunny / Dry,68,92,352,26
+2026-01-13 / Rabi,Kurnool District,Chilli,Extreme Heatwave,37,81,315,14
+2026-01-14 / Rabi,Anantapur District,Sugarcane,Moderate Rainfall,32,96,300,22
+2026-01-15 / Rabi,Kurnool District,Chilli,Heavy Rain Alert,32,107,300,25
+2026-01-16 / Rabi,Anantapur District,Chilli,Sunny / Dry,49,85,331,32
+2026-01-17 / Rabi,Anantapur District,Chilli,Moderate Rainfall,34,73,317,25
+2026-01-18 / Rabi,Chittoor Region,Sugarcane,Extreme Heatwave,29,108,300,22
+2026-01-19 / Rabi,Chittoor Region,Wheat,Moderate Rainfall,114,77,512,69
+2026-01-20 / Rabi,East Godavari,Paddy,Sunny / Dry,28,111,300,17
+2026-01-21 / Rabi,Guntur District,Sugarcane,Moderate Rainfall,31,97,300,17
+2026-01-22 / Rabi,Guntur District,Chilli,Extreme Heatwave,33,72,312,6
+2026-01-23 / Rabi,Guntur District,Wheat,Moderate Rainfall,127,84,520,66
+2026-01-24 / Rabi,Kurnool District,Wheat,Moderate Rainfall,135,55,642,62
+2026-01-25 / Rabi,Anantapur District,Paddy,Sunny / Dry,51,93,325,36
+2026-01-26 / Rabi,Kurnool District,Chilli,Moderate Rainfall,40,104,300,27
+2026-01-27 / Rabi,Guntur District,Chilli,Heavy Rain Alert,57,101,388,31
+2026-01-28 / Rabi,Guntur District,Wheat,Extreme Heatwave,135,52,618,72
+2026-01-29 / Rabi,Chittoor Region,Paddy,Heavy Rain Alert,43,113,323,31
+2026-01-30 / Rabi,Anantapur District,Wheat,Moderate Rainfall,135,46,648,78
+2026-01-31 / Rabi,Kurnool District,Cotton,Extreme Heatwave,25,83,300,24
+2026-02-01 / Rabi,Anantapur District,Sugarcane,Heavy Rain Alert,57,92,406,35
+2026-02-02 / Rabi,Kurnool District,Chilli,Moderate Rainfall,62,100,331,34
+2026-02-03 / Rabi,East Godavari,Wheat,Heavy Rain Alert,136,76,615,75
+2026-02-04 / Rabi,Kurnool District,Sugarcane,Sunny / Dry,38,99,300,21
+2026-02-05 / Rabi,Chittoor Region,Cotton,Sunny / Dry,59,92,327,27
+2026-02-06 / Rabi,Kurnool District,Chilli,Heavy Rain Alert,52,76,414,23
+2026-02-07 / Rabi,Chittoor Region,Sugarcane,Sunny / Dry,43,80,310,19
+2026-02-08 / Rabi,East Godavari,Sugarcane,Heavy Rain Alert,66,80,452,47
+2026-02-09 / Rabi,Guntur District,Sugarcane,Heavy Rain Alert,31,95,331,28
+2026-02-10 / Rabi,Anantapur District,Sugarcane,Sunny / Dry,61,73,354,40
+2026-02-11 / Rabi,Anantapur District,Cotton,Sunny / Dry,59,74,375,22
+2026-02-12 / Rabi,Anantapur District,Sugarcane,Moderate Rainfall,46,80,324,29
+2026-02-13 / Rabi,Guntur District,Wheat,Heavy Rain Alert,99,79,547,56
+2026-02-14 / Rabi,Guntur District,Paddy,Sunny / Dry,53,87,321,34
+2026-02-15 / Rabi,East Godavari,Cotton,Extreme Heatwave,39,76,324,31
+2026-02-16 / Rabi,Kurnool District,Cotton,Extreme Heatwave,67,65,432,45
+2026-02-17 / Rabi,East Godavari,Wheat,Extreme Heatwave,109,46,571,66
+2026-02-18 / Rabi,Guntur District,Cotton,Moderate Rainfall,68,86,362,45
+2026-02-19 / Rabi,Kurnool District,Cotton,Sunny / Dry,52,102,300,29
+2026-02-20 / Rabi,Guntur District,Wheat,Sunny / Dry,136,59,614,75
+2026-02-21 / Rabi,Anantapur District,Wheat,Sunny / Dry,109,65,508,52
+2026-02-22 / Rabi,Guntur District,Wheat,Moderate Rainfall,133,87,551,76
+2026-02-23 / Rabi,East Godavari,Sugarcane,Sunny / Dry,63,111,300,42
+2026-02-24 / Rabi,Chittoor Region,Paddy,Heavy Rain Alert,47,99,356,34
+2026-02-25 / Rabi,Chittoor Region,Chilli,Extreme Heatwave,59,87,341,29
+2026-02-26 / Rabi,Guntur District,Cotton,Moderate Rainfall,44,113,300,19
+2026-02-27 / Rabi,Chittoor Region,Cotton,Moderate Rainfall,30,69,313,9
+2026-02-28 / Rabi,Guntur District,Paddy,Heavy Rain Alert,48,69,434,22
+2026-03-01 / Rabi,Kurnool District,Sugarcane,Extreme Heatwave,67,66,427,35
+2026-03-02 / Rabi,Chittoor Region,Chilli,Heavy Rain Alert,58,90,434,31
+2026-03-03 / Rabi,Anantapur District,Wheat,Moderate Rainfall,92,72,469,52
+2026-03-04 / Rabi,Guntur District,Paddy,Extreme Heatwave,53,95,320,36
+2026-03-05 / Rabi,Chittoor Region,Chilli,Extreme Heatwave,44,76,321,16
+2026-03-06 / Rabi,Kurnool District,Paddy,Heavy Rain Alert,66,65,494,24
+2026-03-07 / Rabi,Guntur District,Cotton,Sunny / Dry,61,106,312,26
+2026-03-08 / Rabi,Anantapur District,Chilli,Extreme Heatwave,54,109,300,32
+2026-03-09 / Rabi,Kurnool District,Paddy,Sunny / Dry,27,111,300,14
+2026-03-10 / Rabi,Kurnool District,Sugarcane,Heavy Rain Alert,36,102,317,23
+2026-03-11 / Rabi,Guntur District,Cotton,Sunny / Dry,67,78,394,37
+2026-03-12 / Rabi,Anantapur District,Cotton,Extreme Heatwave,66,72,415,38
+2026-03-13 / Rabi,East Godavari,Wheat,Sunny / Dry,138,71,578,86
+2026-03-14 / Rabi,Chittoor Region,Cotton,Moderate Rainfall,54,70,390,21
+2026-03-15 / Rabi,Anantapur District,Cotton,Heavy Rain Alert,41,113,332,24
+2026-03-16 / Rabi,Kurnool District,Cotton,Sunny / Dry,24,90,300,20
+2026-03-17 / Rabi,Anantapur District,Cotton,Extreme Heatwave,25,70,321,4
+2026-03-18 / Rabi,Anantapur District,Sugarcane,Heavy Rain Alert,36,78,403,20
+2026-03-19 / Rabi,Chittoor Region,Paddy,Moderate Rainfall,32,71,310,23
+2026-03-20 / Rabi,Guntur District,Paddy,Heavy Rain Alert,62,111,365,33
+2026-03-21 / Rabi,Chittoor Region,Cotton,Moderate Rainfall,54,81,337,19
+2026-03-22 / Rabi,Chittoor Region,Paddy,Extreme Heatwave,51,112,300,27
+2026-03-23 / Rabi,Chittoor Region,Cotton,Extreme Heatwave,59,88,328,30
+2026-03-24 / Rabi,Chittoor Region,Sugarcane,Extreme Heatwave,69,65,446,27
+2026-03-25 / Rabi,Anantapur District,Paddy,Extreme Heatwave,51,100,318,29
+2026-03-26 / Rabi,Guntur District,Chilli,Moderate Rainfall,56,112,300,32
+2026-03-27 / Rabi,Guntur District,Cotton,Moderate Rainfall,66,68,409,39
+2026-03-28 / Rabi,Kurnool District,Sugarcane,Moderate Rainfall,23,109,300,12
+2026-03-29 / Rabi,Kurnool District,Paddy,Extreme Heatwave,21,95,300,13
+2026-03-30 / Rabi,Guntur District,Cotton,Moderate Rainfall,62,95,329,30
+2026-03-31 / Rabi,Kurnool District,Chilli,Heavy Rain Alert,58,109,335,34
+2026-04-01 / Zaid,Anantapur District,Paddy,Sunny / Dry,54,94,312,26
+2026-04-02 / Zaid,East Godavari,Chilli,Extreme Heatwave,57,82,343,31
+2026-04-03 / Zaid,Chittoor Region,Wheat,Heavy Rain Alert,42,69,397,16
+2026-04-04 / Zaid,Chittoor Region,Cotton,Sunny / Dry,65,108,321,32
+2026-04-05 / Zaid,Chittoor Region,Chilli,Extreme Heatwave,37,79,312,15
+2026-04-06 / Zaid,Guntur District,Cotton,Moderate Rainfall,51,73,373,31
+2026-04-07 / Zaid,Kurnool District,Chilli,Sunny / Dry,22,106,300,10
+2026-04-08 / Zaid,Guntur District,Chilli,Sunny / Dry,62,81,359,38
+2026-04-09 / Zaid,Anantapur District,Chilli,Heavy Rain Alert,60,83,446,25
+2026-04-10 / Zaid,East Godavari,Wheat,Extreme Heatwave,51,86,329,16
+2026-04-11 / Zaid,East Godavari,Chilli,Extreme Heatwave,39,86,317,24
+2026-04-12 / Zaid,Guntur District,Sugarcane,Heavy Rain Alert,30,77,392,4
+2026-04-13 / Zaid,East Godavari,Sugarcane,Extreme Heatwave,37,113,300,16
+2026-04-14 / Zaid,Guntur District,Cotton,Heavy Rain Alert,28,87,341,25
+2026-04-15 / Zaid,Kurnool District,Paddy,Extreme Heatwave,49,89,300,15
+2026-04-16 / Zaid,Anantapur District,Wheat,Sunny / Dry,64,112,316,32
+2026-04-17 / Zaid,Anantapur District,Wheat,Heavy Rain Alert,65,94,414,45
+2026-04-18 / Zaid,Anantapur District,Cotton,Sunny / Dry,60,89,360,22
+2026-04-19 / Zaid,Kurnool District,Sugarcane,Heavy Rain Alert,29,99,334,13
+2026-04-20 / Zaid,East Godavari,Wheat,Heavy Rain Alert,30,85,348,5
+2026-04-21 / Zaid,East Godavari,Chilli,Sunny / Dry,31,106,300,22
+2026-04-22 / Zaid,Kurnool District,Cotton,Moderate Rainfall,30,80,300,24
+2026-04-23 / Zaid,East Godavari,Cotton,Heavy Rain Alert,45,80,418,17
+2026-04-24 / Zaid,Guntur District,Chilli,Moderate Rainfall,63,107,308,33
+2026-04-25 / Zaid,Guntur District,Wheat,Extreme Heatwave,32,68,329,11
+2026-04-26 / Zaid,Kurnool District,Chilli,Sunny / Dry,21,90,300,6
+2026-04-27 / Zaid,Kurnool District,Sugarcane,Moderate Rainfall,26,111,300,24
+2026-04-28 / Zaid,Guntur District,Sugarcane,Sunny / Dry,65,104,320,33
+2026-04-29 / Zaid,East Godavari,Paddy,Heavy Rain Alert,36,81,367,30
+2026-04-30 / Zaid,Kurnool District,Wheat,Heavy Rain Alert,55,85,397,40
+2026-05-01 / Zaid,East Godavari,Chilli,Extreme Heatwave,35,78,322,16
+2026-05-02 / Zaid,Guntur District,Paddy,Moderate Rainfall,26,109,300,4
+2026-05-03 / Zaid,Anantapur District,Cotton,Extreme Heatwave,34,100,300,20
+2026-05-04 / Zaid,Kurnool District,Cotton,Heavy Rain Alert,65,83,437,27
+2026-05-05 / Zaid,Anantapur District,Sugarcane,Heavy Rain Alert,46,93,364,32
+2026-05-06 / Zaid,Guntur District,Wheat,Sunny / Dry,44,70,342,27
+2026-05-07 / Zaid,East Godavari,Paddy,Moderate Rainfall,37,69,319,29
+2026-05-08 / Zaid,Chittoor Region,Sugarcane,Moderate Rainfall,55,94,341,30
+2026-05-09 / Zaid,Kurnool District,Sugarcane,Heavy Rain Alert,62,93,402,25
+2026-05-10 / Zaid,East Godavari,Chilli,Sunny / Dry,41,111,300,28
+2026-05-11 / Zaid,Guntur District,Cotton,Moderate Rainfall,57,70,378,38
+2026-05-12 / Zaid,Kurnool District,Chilli,Sunny / Dry,66,79,393,27
+2026-05-13 / Zaid,Kurnool District,Wheat,Heavy Rain Alert,69,82,469,29
+2026-05-14 / Zaid,Anantapur District,Cotton,Extreme Heatwave,39,87,300,12
+2026-05-15 / Zaid,Anantapur District,Cotton,Heavy Rain Alert,48,108,355,15
+2026-05-16 / Zaid,Kurnool District,Cotton,Heavy Rain Alert,32,106,307,8
+2026-05-17 / Zaid,Chittoor Region,Chilli,Extreme Heatwave,38,106,300,10
+2026-05-18 / Zaid,Chittoor Region,Paddy,Sunny / Dry,40,95,300,11
+2026-05-19 / Zaid,Chittoor Region,Wheat,Heavy Rain Alert,29,66,375,4
+2026-05-20 / Zaid,Anantapur District,Paddy,Extreme Heatwave,43,81,351,17
+2026-05-21 / Zaid,Guntur District,Wheat,Heavy Rain Alert,50,107,347,38
+2026-05-22 / Zaid,Anantapur District,Wheat,Heavy Rain Alert,20,75,370,13
+2026-05-23 / Zaid,Anantapur District,Sugarcane,Moderate Rainfall,69,76,406,41
+2026-05-24 / Zaid,Chittoor Region,Sugarcane,Sunny / Dry,52,75,370,17
+2026-05-25 / Zaid,Chittoor Region,Cotton,Heavy Rain Alert,61,88,413,24
+2026-05-26 / Zaid,Kurnool District,Paddy,Extreme Heatwave,63,83,380,33
+2026-05-27 / Zaid,Anantapur District,Wheat,Extreme Heatwave,22,106,300,16
+2026-05-28 / Zaid,East Godavari,Cotton,Sunny / Dry,21,113,300,18
+2026-05-29 / Zaid,Chittoor Region,Chilli,Moderate Rainfall,57,92,353,28
+2026-05-30 / Zaid,Anantapur District,Sugarcane,Extreme Heatwave,61,104,326,42
+2026-05-31 / Zaid,Anantapur District,Chilli,Heavy Rain Alert,61,111,349,25
+2026-06-01 / Kharif,Kurnool District,Chilli,Moderate Rainfall,35,109,300,17
+2026-06-02 / Kharif,Anantapur District,Paddy,Extreme Heatwave,121,55,588,55
+2026-06-03 / Kharif,Kurnool District,Wheat,Moderate Rainfall,51,90,303,24
+2026-06-04 / Kharif,Anantapur District,Paddy,Moderate Rainfall,104,71,522,46
+2026-06-05 / Kharif,Anantapur District,Sugarcane,Heavy Rain Alert,67,84,465,42
+2026-06-06 / Kharif,East Godavari,Wheat,Heavy Rain Alert,55,88,406,39
+2026-06-07 / Kharif,Anantapur District,Chilli,Heavy Rain Alert,46,66,442,27
+2026-06-08 / Kharif,East Godavari,Paddy,Extreme Heatwave,106,76,495,65
+2026-06-09 / Kharif,Guntur District,Chilli,Sunny / Dry,58,88,353,23
+2026-06-10 / Kharif,East Godavari,Sugarcane,Sunny / Dry,37,88,300,21
+2026-06-11 / Kharif,East Godavari,Chilli,Heavy Rain Alert,53,76,434,29
+2026-06-12 / Kharif,East Godavari,Paddy,Moderate Rainfall,130,61,590,72
+2026-06-13 / Kharif,Kurnool District,Sugarcane,Heavy Rain Alert,35,100,308,19
+2026-06-14 / Kharif,East Godavari,Chilli,Extreme Heatwave,55,84,357,35
+2026-06-15 / Kharif,Kurnool District,Wheat,Moderate Rainfall,57,67,405,34
+2026-06-16 / Kharif,Guntur District,Cotton,Heavy Rain Alert,153,44,752,75
+2026-06-17 / Kharif,Kurnool District,Wheat,Sunny / Dry,40,104,300,23
+2026-06-18 / Kharif,Guntur District,Cotton,Heavy Rain Alert,106,55,604,62
+2026-06-19 / Kharif,Kurnool District,Sugarcane,Moderate Rainfall,64,87,338,37
+2026-06-20 / Kharif,East Godavari,Paddy,Moderate Rainfall,138,56,633,71
+2026-06-21 / Kharif,Chittoor Region,Cotton,Extreme Heatwave,148,73,615,91
+2026-06-22 / Kharif,East Godavari,Cotton,Extreme Heatwave,137,72,578,83
+2026-06-23 / Kharif,East Godavari,Paddy,Sunny / Dry,125,74,531,77
+2026-06-24 / Kharif,Chittoor Region,Sugarcane,Heavy Rain Alert,42,96,345,18
+2026-06-25 / Kharif,Guntur District,Wheat,Moderate Rainfall,32,84,300,10
+2026-06-26 / Kharif,Guntur District,Paddy,Moderate Rainfall,119,70,575,74
+2026-06-27 / Kharif,Kurnool District,Wheat,Heavy Rain Alert,21,109,300,10
+2026-06-28 / Kharif,Kurnool District,Paddy,Extreme Heatwave,133,63,566,71
+2026-06-29 / Kharif,Chittoor Region,Chilli,Heavy Rain Alert,48,90,361,34
+2026-06-30 / Kharif,Kurnool District,Paddy,Sunny / Dry,95,56,512,41
+2026-07-01 / Kharif,Anantapur District,Wheat,Extreme Heatwave,48,84,316,32
+2026-07-02 / Kharif,Chittoor Region,Chilli,Heavy Rain Alert,52,67,466,18
+2026-07-03 / Kharif,East Godavari,Sugarcane,Heavy Rain Alert,24,91,324,20
+2026-07-04 / Kharif,East Godavari,Wheat,Moderate Rainfall,28,103,300,6
+2026-07-05 / Kharif,Kurnool District,Cotton,Sunny / Dry,113,77,511,62
+2026-07-06 / Kharif,Kurnool District,Sugarcane,Moderate Rainfall,41,92,300,29
+2026-07-07 / Kharif,Kurnool District,Paddy,Moderate Rainfall,147,61,626,75
+2026-07-08 / Kharif,Guntur District,Wheat,Sunny / Dry,61,90,338,36
+2026-07-09 / Kharif,East Godavari,Wheat,Sunny / Dry,45,87,328,31
+2026-07-10 / Kharif,Chittoor Region,Paddy,Sunny / Dry,150,58,677,85
+2026-07-11 / Kharif,Guntur District,Paddy,Sunny / Dry,133,51,615,71
+2026-07-12 / Kharif,East Godavari,Cotton,Extreme Heatwave,120,66,554,64
+2026-07-13 / Kharif,Guntur District,Chilli,Heavy Rain Alert,57,98,411,32
+2026-07-14 / Kharif,East Godavari,Sugarcane,Moderate Rainfall,57,113,300,28
+2026-07-15 / Kharif,Guntur District,Wheat,Extreme Heatwave,47,65,375,32
+2026-07-16 / Kharif,Guntur District,Chilli,Heavy Rain Alert,66,71,482,34
+2026-07-17 / Kharif,Chittoor Region,Chilli,Moderate Rainfall,58,68,402,32
+2026-07-18 / Kharif,East Godavari,Paddy,Sunny / Dry,106,76,483,59
+2026-07-19 / Kharif,Anantapur District,Paddy,Sunny / Dry,147,63,623,87
+2026-07-20 / Kharif,East Godavari,Sugarcane,Moderate Rainfall,23,75,300,16
+2026-07-21 / Kharif,Anantapur District,Chilli,Moderate Rainfall,26,110,300,10
+2026-07-22 / Kharif,Anantapur District,Cotton,Heavy Rain Alert,139,62,665,81
+2026-07-23 / Kharif,Kurnool District,Paddy,Extreme Heatwave,122,65,560,55
+2026-07-24 / Kharif,Kurnool District,Cotton,Heavy Rain Alert,130,53,698,72
+2026-07-25 / Kharif,Kurnool District,Paddy,Sunny / Dry,129,69,558,71
+2026-07-26 / Kharif,Guntur District,Paddy,Extreme Heatwave,124,68,559,68
+2026-07-27 / Kharif,Kurnool District,Paddy,Sunny / Dry,145,77,609,88
+2026-07-28 / Kharif,Guntur District,Wheat,Moderate Rainfall,57,87,331,28
+2026-07-29 / Kharif,East Godavari,Wheat,Heavy Rain Alert,26,86,336,11
+2026-07-30 / Kharif,East Godavari,Paddy,Sunny / Dry,104,46,560,60
+2026-07-31 / Kharif,Kurnool District,Paddy,Heavy Rain Alert,144,77,652,78
+2026-08-01 / Kharif,Anantapur District,Wheat,Extreme Heatwave,53,68,391,33
+2026-08-02 / Kharif,Guntur District,Paddy,Sunny / Dry,98,65,493,48
+2026-08-03 / Kharif,Guntur District,Sugarcane,Moderate Rainfall,43,83,316,14
+2026-08-04 / Kharif,Anantapur District,Wheat,Extreme Heatwave,69,107,335,42
+2026-08-05 / Kharif,Chittoor Region,Wheat,Sunny / Dry,47,93,306,28
+2026-08-06 / Kharif,Anantapur District,Wheat,Moderate Rainfall,54,111,300,21
+2026-08-07 / Kharif,Guntur District,Cotton,Extreme Heatwave,111,78,513,64
+2026-08-08 / Kharif,East Godavari,Wheat,Extreme Heatwave,65,90,360,44
+2026-08-09 / Kharif,East Godavari,Cotton,Moderate Rainfall,106,69,472,49
+2026-08-10 / Kharif,Guntur District,Sugarcane,Sunny / Dry,37,90,300,8
+2026-08-11 / Kharif,Kurnool District,Paddy,Extreme Heatwave,152,65,636,93
+2026-08-12 / Kharif,Chittoor Region,Cotton,Extreme Heatwave,100,45,572,61
+2026-08-13 / Kharif,Kurnool District,Chilli,Extreme Heatwave,56,82,360,22
+2026-08-14 / Kharif,Anantapur District,Chilli,Sunny / Dry,49,106,300,35
+2026-08-15 / Kharif,Kurnool District,Cotton,Extreme Heatwave,121,78,526,62
+2026-08-16 / Kharif,Guntur District,Cotton,Extreme Heatwave,115,51,572,71
+2026-08-17 / Kharif,Guntur District,Paddy,Heavy Rain Alert,109,41,670,66
+2026-08-18 / Kharif,Anantapur District,Paddy,Moderate Rainfall,138,57,632,74
+2026-08-19 / Kharif,Anantapur District,Chilli,Sunny / Dry,57,101,312,19
+2026-08-20 / Kharif,East Godavari,Sugarcane,Extreme Heatwave,63,95,345,39
+2026-08-21 / Kharif,Anantapur District,Cotton,Moderate Rainfall,116,41,612,62
+2026-08-22 / Kharif,Chittoor Region,Chilli,Sunny / Dry,25,106,300,23
+2026-08-23 / Kharif,Guntur District,Sugarcane,Extreme Heatwave,35,95,300,20
+2026-08-24 / Kharif,East Godavari,Sugarcane,Sunny / Dry,58,92,332,35
+2026-08-25 / Kharif,East Godavari,Wheat,Moderate Rainfall,28,109,300,24
+2026-08-26 / Kharif,Anantapur District,Wheat,Sunny / Dry,51,69,391,25
+2026-08-27 / Kharif,Chittoor Region,Sugarcane,Extreme Heatwave,58,79,374,25
+2026-08-28 / Kharif,East Godavari,Sugarcane,Sunny / Dry,48,111,300,28
+2026-08-29 / Kharif,East Godavari,Cotton,Extreme Heatwave,129,45,622,69
+2026-08-30 / Kharif,Guntur District,Cotton,Extreme Heatwave,132,52,610,74
+2026-08-31 / Kharif,Anantapur District,Paddy,Extreme Heatwave,98,60,507,43
+2026-09-01 / Kharif,Guntur District,Paddy,Extreme Heatwave,139,47,670,79
+2026-09-02 / Kharif,East Godavari,Paddy,Sunny / Dry,103,53,567,56
+2026-09-03 / Kharif,Guntur District,Chilli,Heavy Rain Alert,26,79,364,23
+2026-09-04 / Kharif,Chittoor Region,Chilli,Moderate Rainfall,43,113,300,15
+2026-09-05 / Kharif,East Godavari,Wheat,Heavy Rain Alert,63,65,495,29
+2026-09-06 / Kharif,Guntur District,Sugarcane,Extreme Heatwave,68,89,346,42
+2026-09-07 / Kharif,Anantapur District,Chilli,Extreme Heatwave,31,89,300,27
+2026-09-08 / Kharif,Anantapur District,Cotton,Sunny / Dry,137,45,651,77
+2026-09-09 / Kharif,Guntur District,Sugarcane,Sunny / Dry,24,107,300,19
+2026-09-10 / Kharif,Anantapur District,Wheat,Heavy Rain Alert,46,96,358,27
+2026-09-11 / Kharif,Chittoor Region,Chilli,Heavy Rain Alert,28,104,311,6
+2026-09-12 / Kharif,Guntur District,Paddy,Moderate Rainfall,140,73,609,80
+2026-09-13 / Kharif,East Godavari,Sugarcane,Extreme Heatwave,22,90,300,15
+2026-09-14 / Kharif,Guntur District,Wheat,Moderate Rainfall,58,94,337,31
+2026-09-15 / Kharif,Kurnool District,Paddy,Extreme Heatwave,107,44,584,68
+2026-09-16 / Kharif,Kurnool District,Cotton,Moderate Rainfall,139,51,652,78
+2026-09-17 / Kharif,Anantapur District,Paddy,Extreme Heatwave,149,50,661,82
+2026-09-18 / Kharif,Guntur District,Chilli,Sunny / Dry,33,109,300,17
+2026-09-19 / Kharif,East Godavari,Cotton,Moderate Rainfall,159,61,671,92
+2026-09-20 / Kharif,East Godavari,Paddy,Sunny / Dry,149,67,618,69
+2026-09-21 / Kharif,Chittoor Region,Cotton,Extreme Heatwave,113,67,539,66
+2026-09-22 / Kharif,Chittoor Region,Sugarcane,Moderate Rainfall,56,90,338,20
+2026-09-23 / Kharif,Kurnool District,Paddy,Extreme Heatwave,134,55,629,82
+2026-09-24 / Kharif,Chittoor Region,Chilli,Heavy Rain Alert,41,80,410,25
+2026-09-25 / Kharif,Chittoor Region,Cotton,Extreme Heatwave,129,47,641,68
+2026-09-26 / Kharif,Chittoor Region,Sugarcane,Heavy Rain Alert,62,87,413,34
+2026-09-27 / Kharif,East Godavari,Wheat,Heavy Rain Alert,62,82,425,28
+2026-09-28 / Kharif,East Godavari,Sugarcane,Moderate Rainfall,42,91,300,23
+2026-09-29 / Kharif,East Godavari,Chilli,Heavy Rain Alert,63,82,440,37
+2026-09-30 / Kharif,Chittoor Region,Wheat,Moderate Rainfall,39,91,300,14
+2026-10-01 / Kharif,Kurnool District,Sugarcane,Heavy Rain Alert,46,73,415,33
+2026-10-02 / Kharif,Anantapur District,Sugarcane,Moderate Rainfall,45,104,300,27
+2026-10-03 / Kharif,Chittoor Region,Chilli,Heavy Rain Alert,64,77,435,44
+2026-10-04 / Kharif,Guntur District,Wheat,Extreme Heatwave,47,81,327,21
+2026-10-05 / Kharif,Chittoor Region,Chilli,Extreme Heatwave,21,89,300,9
+2026-10-06 / Kharif,Chittoor Region,Wheat,Extreme Heatwave,57,70,366,31
+2026-10-07 / Kharif,Guntur District,Chilli,Sunny / Dry,30,78,300,22
+2026-10-08 / Kharif,Guntur District,Cotton,Moderate Rainfall,112,63,543,61
+2026-10-09 / Kharif,Guntur District,Paddy,Moderate Rainfall,129,40,645,73
+2026-10-10 / Kharif,Anantapur District,Sugarcane,Heavy Rain Alert,53,93,402,35
+2026-10-11 / Kharif,Anantapur District,Sugarcane,Sunny / Dry,42,83,300,19
+2026-10-12 / Kharif,Anantapur District,Sugarcane,Sunny / Dry,20,106,300,17
+2026-10-13 / Kharif,Anantapur District,Cotton,Sunny / Dry,128,55,594,59
+2026-10-14 / Kharif,Chittoor Region,Chilli,Moderate Rainfall,44,109,300,17
+2026-10-15 / Kharif,Chittoor Region,Cotton,Moderate Rainfall,115,45,586,57
+2026-10-16 / Kharif,Chittoor Region,Wheat,Sunny / Dry,50,106,300,24
+2026-10-17 / Kharif,East Godavari,Cotton,Extreme Heatwave,124,57,578,64
+2026-10-18 / Kharif,Anantapur District,Chilli,Sunny / Dry,50,79,328,18
+2026-10-19 / Kharif,Guntur District,Wheat,Moderate Rainfall,59,73,371,36
+2026-10-20 / Kharif,Chittoor Region,Cotton,Moderate Rainfall,110,54,547,50
+2026-10-21 / Kharif,Anantapur District,Chilli,Moderate Rainfall,24,69,330,2
+2026-10-22 / Kharif,Kurnool District,Wheat,Extreme Heatwave,48,77,356,17
+2026-10-23 / Kharif,Kurnool District,Paddy,Moderate Rainfall,136,49,632,64
+2026-10-24 / Kharif,Kurnool District,Chilli,Sunny / Dry,67,110,308,32
+2026-10-25 / Kharif,East Godavari,Paddy,Extreme Heatwave,105,74,492,49
+2026-10-26 / Kharif,Anantapur District,Chilli,Heavy Rain Alert,29,73,363,22
+2026-10-27 / Kharif,Kurnool District,Sugarcane,Heavy Rain Alert,26,66,395,8
+2026-10-28 / Kharif,Guntur District,Wheat,Extreme Heatwave,59,103,312,40
+2026-10-29 / Kharif,Kurnool District,Paddy,Moderate Rainfall,117,68,554,74
+2026-10-30 / Kharif,Anantapur District,Chilli,Sunny / Dry,50,89,314,32
+2026-10-31 / Kharif,Chittoor Region,Wheat,Extreme Heatwave,39,108,300,18
+2026-11-01 / Rabi,Chittoor Region,Chilli,Heavy Rain Alert,25,67,390,3
+2026-11-02 / Rabi,Guntur District,Wheat,Moderate Rainfall,102,55,552,62
+2026-11-03 / Rabi,Kurnool District,Chilli,Sunny / Dry,41,83,324,24
+2026-11-04 / Rabi,Chittoor Region,Sugarcane,Extreme Heatwave,35,88,300,18
+2026-11-05 / Rabi,Chittoor Region,Chilli,Extreme Heatwave,54,78,366,33
+2026-11-06 / Rabi,Guntur District,Wheat,Moderate Rainfall,103,82,470,60
+2026-11-07 / Rabi,Kurnool District,Wheat,Heavy Rain Alert,109,60,613,61
+2026-11-08 / Rabi,Anantapur District,Wheat,Moderate Rainfall,138,84,550,79
+2026-11-09 / Rabi,Chittoor Region,Chilli,Extreme Heatwave,64,77,417,29
+2026-11-10 / Rabi,Chittoor Region,Paddy,Sunny / Dry,46,74,343,36
+2026-11-11 / Rabi,Anantapur District,Cotton,Moderate Rainfall,37,87,300,13
+2026-11-12 / Rabi,Chittoor Region,Chilli,Moderate Rainfall,48,89,319,24
+2026-11-13 / Rabi,Guntur District,Wheat,Extreme Heatwave,110,78,495,50
+2026-11-14 / Rabi,Guntur District,Cotton,Heavy Rain Alert,30,102,309,19
+2026-11-15 / Rabi,Chittoor Region,Wheat,Sunny / Dry,105,83,473,52
+2026-11-16 / Rabi,Chittoor Region,Wheat,Extreme Heatwave,135,64,608,68
+2026-11-17 / Rabi,East Godavari,Paddy,Heavy Rain Alert,28,109,300,3
+2026-11-18 / Rabi,Kurnool District,Wheat,Sunny / Dry,113,52,558,52
+2026-11-19 / Rabi,Guntur District,Sugarcane,Sunny / Dry,64,104,329,29
+2026-11-20 / Rabi,Guntur District,Sugarcane,Moderate Rainfall,46,65,386,24
+2026-11-21 / Rabi,East Godavari,Paddy,Moderate Rainfall,42,105,300,21
+2026-11-22 / Rabi,Chittoor Region,Cotton,Sunny / Dry,61,97,337,29
+2026-11-23 / Rabi,Kurnool District,Paddy,Extreme Heatwave,36,99,300,22
+2026-11-24 / Rabi,Anantapur District,Paddy,Sunny / Dry,24,112,300,3
+2026-11-25 / Rabi,Guntur District,Paddy,Moderate Rainfall,33,112,300,22
+2026-11-26 / Rabi,Anantapur District,Chilli,Sunny / Dry,43,87,300,28
+2026-11-27 / Rabi,Chittoor Region,Sugarcane,Heavy Rain Alert,34,79,388,11
+2026-11-28 / Rabi,East Godavari,Cotton,Extreme Heatwave,46,79,332,27
+2026-11-29 / Rabi,East Godavari,Cotton,Heavy Rain Alert,22,111,300,12
+2026-11-30 / Rabi,Guntur District,Cotton,Sunny / Dry,60,98,318,40
+2026-12-01 / Rabi,Chittoor Region,Paddy,Sunny / Dry,68,77,413,25
+2026-12-02 / Rabi,Chittoor Region,Paddy,Sunny / Dry,53,79,338,18
+2026-12-03 / Rabi,Anantapur District,Chilli,Sunny / Dry,37,71,319,30
+2026-12-04 / Rabi,Anantapur District,Wheat,Sunny / Dry,115,69,532,64
+2026-12-05 / Rabi,Anantapur District,Cotton,Extreme Heatwave,44,94,300,31
+2026-12-06 / Rabi,East Godavari,Paddy,Extreme Heatwave,40,86,311,26
+2026-12-07 / Rabi,Kurnool District,Chilli,Moderate Rainfall,62,81,366,37
+2026-12-08 / Rabi,Kurnool District,Cotton,Heavy Rain Alert,21,68,348,4
+2026-12-09 / Rabi,Kurnool District,Wheat,Heavy Rain Alert,101,83,536,47
+2026-12-10 / Rabi,Guntur District,Chilli,Moderate Rainfall,24,84,300,10
+2026-12-11 / Rabi,Guntur District,Paddy,Sunny / Dry,21,73,321,9
+2026-12-12 / Rabi,Chittoor Region,Chilli,Extreme Heatwave,55,86,348,40
+2026-12-13 / Rabi,Chittoor Region,Chilli,Sunny / Dry,48,102,300,27
+2026-12-14 / Rabi,Anantapur District,Sugarcane,Heavy Rain Alert,52,82,403,16
+2026-12-15 / Rabi,Kurnool District,Cotton,Moderate Rainfall,43,68,366,14
+2026-12-16 / Rabi,Kurnool District,Sugarcane,Moderate Rainfall,37,91,302,17
+2026-12-17 / Rabi,Chittoor Region,Wheat,Moderate Rainfall,125,80,514,61
+2026-12-18 / Rabi,Guntur District,Sugarcane,Sunny / Dry,35,98,300,24
+2026-12-19 / Rabi,Chittoor Region,Cotton,Sunny / Dry,32,113,300,9
+2026-12-20 / Rabi,Anantapur District,Paddy,Heavy Rain Alert,62,103,389,39
+2026-12-21 / Rabi,Guntur District,Sugarcane,Extreme Heatwave,42,94,300,12
+2026-12-22 / Rabi,Anantapur District,Wheat,Moderate Rainfall,88,47,515,42
+2026-12-23 / Rabi,Kurnool District,Paddy,Heavy Rain Alert,59,70,474,41
+2026-12-24 / Rabi,Chittoor Region,Paddy,Moderate Rainfall,20,68,303,12
+2026-12-25 / Rabi,Anantapur District,Cotton,Extreme Heatwave,28,111,300,14
+2026-12-26 / Rabi,Anantapur District,Chilli,Heavy Rain Alert,61,70,479,26
+2026-12-27 / Rabi,Chittoor Region,Sugarcane,Heavy Rain Alert,27,65,389,23
+2026-12-28 / Rabi,Anantapur District,Cotton,Moderate Rainfall,68,113,310,47
+2026-12-29 / Rabi,Guntur District,Wheat,Moderate Rainfall,119,74,516,74
+2026-12-30 / Rabi,Kurnool District,Cotton,Heavy Rain Alert,30,84,362,13
+2026-12-31 / Rabi,Anantapur District,Sugarcane,Heavy Rain Alert,53,65,469,32
+2025-01-01 / Rabi,East Godavari,Cotton,Extreme Heatwave,37,81,323,22
+2025-01-02 / Rabi,Anantapur District,Wheat,Extreme Heatwave,130,66,565,61
+2025-01-03 / Rabi,Chittoor Region,Paddy,Moderate Rainfall,38,108,300,23
+2025-01-04 / Rabi,Chittoor Region,Paddy,Heavy Rain Alert,63,104,385,37
+2025-01-05 / Rabi,Kurnool District,Chilli,Moderate Rainfall,47,65,375,29
+2025-01-06 / Rabi,Anantapur District,Paddy,Sunny / Dry,42,71,362,22
+2025-01-07 / Rabi,Guntur District,Chilli,Sunny / Dry,26,108,300,5
+2025-01-08 / Rabi,Chittoor Region,Chilli,Extreme Heatwave,33,78,300,21
+2025-01-09 / Rabi,Chittoor Region,Sugarcane,Sunny / Dry,26,96,300,18
+2025-01-10 / Rabi,Chittoor Region,Wheat,Extreme Heatwave,121,56,588,59
+2025-01-11 / Rabi,Kurnool District,Wheat,Extreme Heatwave,106,76,515,60
+2025-01-12 / Rabi,Kurnool District,Chilli,Heavy Rain Alert,25,83,333,18
+2025-01-13 / Rabi,Kurnool District,Cotton,Sunny / Dry,25,109,300,2
+2025-01-14 / Rabi,East Godavari,Wheat,Sunny / Dry,99,80,457,54
+2025-01-15 / Rabi,Kurnool District,Chilli,Moderate Rainfall,46,69,367,13
+2025-01-16 / Rabi,Chittoor Region,Sugarcane,Extreme Heatwave,35,87,300,12
+2025-01-17 / Rabi,Kurnool District,Sugarcane,Moderate Rainfall,35,78,331,9
+2025-01-18 / Rabi,East Godavari,Wheat,Sunny / Dry,107,73,503,47
+2025-01-19 / Rabi,Kurnool District,Cotton,Moderate Rainfall,52,105,307,33
+2025-01-20 / Rabi,Guntur District,Wheat,Heavy Rain Alert,127,51,682,65
+2025-01-21 / Rabi,Kurnool District,Paddy,Moderate Rainfall,20,78,300,8
+2025-01-22 / Rabi,Chittoor Region,Wheat,Extreme Heatwave,91,70,475,39
+2025-01-23 / Rabi,East Godavari,Cotton,Sunny / Dry,49,100,300,14
+2025-01-24 / Rabi,Guntur District,Wheat,Sunny / Dry,94,86,443,57
+2025-01-25 / Rabi,Chittoor Region,Wheat,Heavy Rain Alert,96,60,568,56
+2025-01-26 / Rabi,Chittoor Region,Chilli,Moderate Rainfall,65,114,314,24
+2025-01-27 / Rabi,East Godavari,Cotton,Heavy Rain Alert,55,114,338,40
+2025-01-28 / Rabi,Chittoor Region,Paddy,Heavy Rain Alert,41,90,377,10
+2025-01-29 / Rabi,East Godavari,Sugarcane,Extreme Heatwave,30,74,300,24
+2025-01-30 / Rabi,Anantapur District,Wheat,Extreme Heatwave,122,85,528,67
+2025-01-31 / Rabi,East Godavari,Chilli,Sunny / Dry,43,104,300,34
+2025-02-01 / Rabi,Chittoor Region,Sugarcane,Extreme Heatwave,56,66,377,41
+2025-02-02 / Rabi,Kurnool District,Sugarcane,Sunny / Dry,28,68,323,25
+2025-02-03 / Rabi,Chittoor Region,Wheat,Moderate Rainfall,113,68,552,59
+2025-02-04 / Rabi,Kurnool District,Sugarcane,Moderate Rainfall,64,81,371,27
+2025-02-05 / Rabi,Anantapur District,Chilli,Sunny / Dry,64,82,369,39
+2025-02-06 / Rabi,Kurnool District,Cotton,Heavy Rain Alert,28,78,356,20
+2025-02-07 / Rabi,Guntur District,Cotton,Extreme Heatwave,39,111,300,19
+2025-02-08 / Rabi,East Godavari,Sugarcane,Moderate Rainfall,63,73,394,26
+2025-02-09 / Rabi,East Godavari,Paddy,Moderate Rainfall,38,90,300,27
+2025-02-10 / Rabi,Guntur District,Sugarcane,Moderate Rainfall,45,89,300,28
+2025-02-11 / Rabi,Kurnool District,Chilli,Sunny / Dry,37,96,300,28
+2025-02-12 / Rabi,Chittoor Region,Sugarcane,Sunny / Dry,22,66,311,11
+2025-02-13 / Rabi,Kurnool District,Wheat,Moderate Rainfall,117,56,582,68
+2025-02-14 / Rabi,Chittoor Region,Cotton,Sunny / Dry,22,107,300,7
+2025-02-15 / Rabi,Anantapur District,Paddy,Moderate Rainfall,55,71,385,31
+2025-02-16 / Rabi,East Godavari,Chilli,Extreme Heatwave,65,100,337,23
+2025-02-17 / Rabi,East Godavari,Sugarcane,Moderate Rainfall,68,89,372,34
+2025-02-18 / Rabi,East Godavari,Chilli,Moderate Rainfall,35,80,326,12
+2025-02-19 / Rabi,Chittoor Region,Sugarcane,Heavy Rain Alert,35,84,363,22
+2025-02-20 / Rabi,Kurnool District,Wheat,Extreme Heatwave,91,85,430,51
+2025-02-21 / Rabi,Chittoor Region,Chilli,Sunny / Dry,26,97,300,14
+2025-02-22 / Rabi,Kurnool District,Cotton,Extreme Heatwave,39,67,348,25
+2025-02-23 / Rabi,Kurnool District,Paddy,Sunny / Dry,31,90,300,16
+2025-02-24 / Rabi,Kurnool District,Chilli,Extreme Heatwave,52,77,375,27
+2025-02-25 / Rabi,Kurnool District,Chilli,Sunny / Dry,45,85,332,27
+2025-02-26 / Rabi,Kurnool District,Cotton,Sunny / Dry,55,104,306,33
+2025-02-27 / Rabi,Chittoor Region,Chilli,Sunny / Dry,21,84,300,18
+2025-02-28 / Rabi,Guntur District,Cotton,Moderate Rainfall,65,67,437,26
+2025-03-01 / Rabi,Chittoor Region,Chilli,Sunny / Dry,33,80,301,24
+2025-03-02 / Rabi,East Godavari,Chilli,Extreme Heatwave,53,108,300,20
+2025-03-03 / Rabi,Anantapur District,Paddy,Extreme Heatwave,41,82,319,21
+2025-03-04 / Rabi,Kurnool District,Cotton,Extreme Heatwave,49,104,300,19
+2025-03-05 / Rabi,Anantapur District,Chilli,Sunny / Dry,39,91,300,29
+2025-03-06 / Rabi,East Godavari,Sugarcane,Heavy Rain Alert,62,101,398,32
+2025-03-07 / Rabi,East Godavari,Sugarcane,Sunny / Dry,34,67,342,10
+2025-03-08 / Rabi,Anantapur District,Chilli,Extreme Heatwave,42,101,300,18
+2025-03-09 / Rabi,Anantapur District,Sugarcane,Sunny / Dry,40,75,310,15
+2025-03-10 / Rabi,Guntur District,Chilli,Sunny / Dry,27,106,300,15
+2025-03-11 / Rabi,Chittoor Region,Paddy,Extreme Heatwave,33,74,340,17
+2025-03-12 / Rabi,Kurnool District,Wheat,Extreme Heatwave,122,88,505,64
+2025-03-13 / Rabi,Anantapur District,Paddy,Moderate Rainfall,36,81,300,9
+2025-03-14 / Rabi,East Godavari,Chilli,Heavy Rain Alert,50,65,476,27
+2025-03-15 / Rabi,Anantapur District,Chilli,Extreme Heatwave,53,106,302,37
+2025-03-16 / Rabi,Chittoor Region,Wheat,Heavy Rain Alert,106,48,623,57
+2025-03-17 / Rabi,East Godavari,Sugarcane,Extreme Heatwave,36,74,327,8
+2025-03-18 / Rabi,Chittoor Region,Chilli,Extreme Heatwave,25,72,300,12
+2025-03-19 / Rabi,Kurnool District,Wheat,Extreme Heatwave,93,46,512,46
+2025-03-20 / Rabi,Anantapur District,Wheat,Heavy Rain Alert,95,80,534,47
+2025-03-21 / Rabi,East Godavari,Sugarcane,Sunny / Dry,55,93,318,27
+2025-03-22 / Rabi,Kurnool District,Cotton,Moderate Rainfall,31,78,307,26
+2025-03-23 / Rabi,Guntur District,Sugarcane,Extreme Heatwave,40,108,300,27
+2025-03-24 / Rabi,Anantapur District,Chilli,Sunny / Dry,49,103,300,22
+2025-03-25 / Rabi,Kurnool District,Cotton,Sunny / Dry,20,90,300,4
+2025-03-26 / Rabi,Guntur District,Sugarcane,Extreme Heatwave,57,108,302,24
+2025-03-27 / Rabi,Chittoor Region,Cotton,Sunny / Dry,36,114,300,12
+2025-03-28 / Rabi,Guntur District,Wheat,Moderate Rainfall,108,54,540,52
+2025-03-29 / Rabi,Anantapur District,Paddy,Sunny / Dry,40,103,300,33
+2025-03-30 / Rabi,East Godavari,Cotton,Heavy Rain Alert,52,82,409,25
+2025-03-31 / Rabi,Chittoor Region,Paddy,Moderate Rainfall,65,106,325,32
+2025-04-01 / Zaid,East Godavari,Cotton,Sunny / Dry,45,89,324,29
+2025-04-02 / Zaid,Kurnool District,Chilli,Heavy Rain Alert,66,97,409,28
+2025-04-03 / Zaid,Kurnool District,Paddy,Moderate Rainfall,53,84,368,38
+2025-04-04 / Zaid,Chittoor Region,Sugarcane,Sunny / Dry,37,110,300,31
+2025-04-05 / Zaid,Anantapur District,Sugarcane,Sunny / Dry,27,94,300,21
+2025-04-06 / Zaid,Kurnool District,Paddy,Heavy Rain Alert,68,75,469,26
+2025-04-07 / Zaid,East Godavari,Wheat,Extreme Heatwave,45,100,300,15
+2025-04-08 / Zaid,East Godavari,Chilli,Moderate Rainfall,61,83,366,38
+2025-04-09 / Zaid,Chittoor Region,Paddy,Sunny / Dry,56,94,344,39
+2025-04-10 / Zaid,Guntur District,Chilli,Heavy Rain Alert,35,65,413,18
+2025-04-11 / Zaid,Chittoor Region,Chilli,Heavy Rain Alert,43,98,352,26
+2025-04-12 / Zaid,Anantapur District,Wheat,Moderate Rainfall,24,90,300,22
+2025-04-13 / Zaid,Chittoor Region,Sugarcane,Extreme Heatwave,32,83,303,16
+2025-04-14 / Zaid,East Godavari,Chilli,Sunny / Dry,21,75,300,10
+2025-04-15 / Zaid,Anantapur District,Sugarcane,Extreme Heatwave,47,82,348,14
+2025-04-16 / Zaid,Chittoor Region,Paddy,Sunny / Dry,56,71,362,41
+2025-04-17 / Zaid,Chittoor Region,Wheat,Heavy Rain Alert,31,80,361,17
+2025-04-18 / Zaid,Guntur District,Chilli,Heavy Rain Alert,24,75,367,10
+2025-04-19 / Zaid,Chittoor Region,Chilli,Heavy Rain Alert,32,105,302,14
+2025-04-20 / Zaid,East Godavari,Cotton,Extreme Heatwave,26,104,300,4
+2025-04-21 / Zaid,Kurnool District,Wheat,Extreme Heatwave,34,112,300,9
+2025-04-22 / Zaid,East Godavari,Chilli,Sunny / Dry,30,108,300,8
+2025-04-23 / Zaid,East Godavari,Paddy,Heavy Rain Alert,42,93,343,27
+2025-04-24 / Zaid,Guntur District,Cotton,Moderate Rainfall,46,103,300,20
+2025-04-25 / Zaid,Kurnool District,Wheat,Extreme Heatwave,32,87,300,8
+2025-04-26 / Zaid,Anantapur District,Chilli,Sunny / Dry,59,80,372,40
+2025-04-27 / Zaid,Anantapur District,Sugarcane,Heavy Rain Alert,61,89,389,40
+2025-04-28 / Zaid,Guntur District,Cotton,Heavy Rain Alert,47,99,361,17
+2025-04-29 / Zaid,Guntur District,Chilli,Moderate Rainfall,53,110,300,29
+2025-04-30 / Zaid,East Godavari,Wheat,Heavy Rain Alert,67,78,446,34
+2025-05-01 / Zaid,Kurnool District,Chilli,Heavy Rain Alert,61,102,376,44
+2025-05-02 / Zaid,Kurnool District,Sugarcane,Extreme Heatwave,60,72,375,25
+2025-05-03 / Zaid,Kurnool District,Sugarcane,Moderate Rainfall,29,107,300,7
+2025-05-04 / Zaid,Anantapur District,Sugarcane,Moderate Rainfall,48,83,342,35
+2025-05-05 / Zaid,Kurnool District,Sugarcane,Heavy Rain Alert,29,76,370,25
+2025-05-06 / Zaid,Kurnool District,Paddy,Sunny / Dry,31,98,300,8
+2025-05-07 / Zaid,Guntur District,Cotton,Sunny / Dry,56,67,404,28
+2025-05-08 / Zaid,Chittoor Region,Paddy,Extreme Heatwave,54,98,314,25
+2025-05-09 / Zaid,Anantapur District,Chilli,Heavy Rain Alert,33,68,389,23
+2025-05-10 / Zaid,East Godavari,Chilli,Heavy Rain Alert,34,92,344,15
+2025-05-11 / Zaid,East Godavari,Sugarcane,Heavy Rain Alert,35,76,378,7
+2025-05-12 / Zaid,East Godavari,Sugarcane,Moderate Rainfall,58,96,313,35
+2025-05-13 / Zaid,Guntur District,Chilli,Extreme Heatwave,67,91,362,45
+2025-05-14 / Zaid,East Godavari,Chilli,Sunny / Dry,58,90,352,35
+2025-05-15 / Zaid,Chittoor Region,Wheat,Extreme Heatwave,57,87,365,27
+2025-05-16 / Zaid,Kurnool District,Cotton,Sunny / Dry,23,71,300,22
+2025-05-17 / Zaid,Chittoor Region,Cotton,Heavy Rain Alert,21,113,300,13
+2025-05-18 / Zaid,Guntur District,Paddy,Moderate Rainfall,50,111,300,22
+2025-05-19 / Zaid,East Godavari,Chilli,Sunny / Dry,67,107,330,39
+2025-05-20 / Zaid,Anantapur District,Wheat,Heavy Rain Alert,66,77,462,38
+2025-05-21 / Zaid,Kurnool District,Chilli,Heavy Rain Alert,46,68,433,16
+2025-05-22 / Zaid,Kurnool District,Wheat,Extreme Heatwave,22,86,300,16
+2025-05-23 / Zaid,Chittoor Region,Wheat,Heavy Rain Alert,41,114,306,26
+2025-05-24 / Zaid,Kurnool District,Cotton,Extreme Heatwave,31,85,300,28
+2025-05-25 / Zaid,Kurnool District,Cotton,Heavy Rain Alert,23,95,306,21
+2025-05-26 / Zaid,Anantapur District,Cotton,Heavy Rain Alert,39,79,395,31
+2025-05-27 / Zaid,East Godavari,Sugarcane,Moderate Rainfall,47,80,315,30
+2025-05-28 / Zaid,Chittoor Region,Sugarcane,Sunny / Dry,56,77,368,36
+2025-05-29 / Zaid,Anantapur District,Sugarcane,Extreme Heatwave,49,109,300,17
+2025-05-30 / Zaid,East Godavari,Sugarcane,Moderate Rainfall,39,83,307,21
+2025-05-31 / Zaid,Kurnool District,Cotton,Sunny / Dry,63,71,413,44
+2025-06-01 / Kharif,Kurnool District,Cotton,Extreme Heatwave,104,71,497,54
+2025-06-02 / Kharif,Kurnool District,Chilli,Heavy Rain Alert,60,77,446,30
+2025-06-03 / Kharif,East Godavari,Wheat,Heavy Rain Alert,57,91,397,37
+2025-06-04 / Kharif,Chittoor Region,Chilli,Sunny / Dry,40,72,355,26
+2025-06-05 / Kharif,East Godavari,Paddy,Moderate Rainfall,103,56,545,48
+2025-06-06 / Kharif,Guntur District,Sugarcane,Heavy Rain Alert,50,104,350,18
+2025-06-07 / Kharif,East Godavari,Paddy,Extreme Heatwave,144,72,599,79
+2025-06-08 / Kharif,Anantapur District,Wheat,Heavy Rain Alert,33,97,346,9
+2025-06-09 / Kharif,Anantapur District,Chilli,Heavy Rain Alert,63,74,466,27
+2025-06-10 / Kharif,Anantapur District,Paddy,Extreme Heatwave,151,40,696,86
+2025-06-11 / Kharif,Guntur District,Wheat,Moderate Rainfall,65,87,382,42
+2025-06-12 / Kharif,Chittoor Region,Chilli,Moderate Rainfall,39,102,300,14
+2025-06-13 / Kharif,Anantapur District,Wheat,Heavy Rain Alert,48,83,389,14
+2025-06-14 / Kharif,Chittoor Region,Cotton,Extreme Heatwave,159,42,707,82
+2025-06-15 / Kharif,Guntur District,Cotton,Heavy Rain Alert,119,77,609,65
+2025-06-16 / Kharif,East Godavari,Sugarcane,Moderate Rainfall,39,108,300,31
+2025-06-17 / Kharif,Anantapur District,Cotton,Extreme Heatwave,113,58,551,73
+2025-06-18 / Kharif,Guntur District,Paddy,Moderate Rainfall,101,59,548,61
+2025-06-19 / Kharif,Anantapur District,Sugarcane,Heavy Rain Alert,36,69,411,13
+2025-06-20 / Kharif,Anantapur District,Wheat,Heavy Rain Alert,37,71,376,20
+2025-06-21 / Kharif,Chittoor Region,Cotton,Heavy Rain Alert,98,77,552,45
+2025-06-22 / Kharif,East Godavari,Wheat,Extreme Heatwave,49,76,346,18
+2025-06-23 / Kharif,East Godavari,Sugarcane,Moderate Rainfall,37,106,300,26
+2025-06-24 / Kharif,Guntur District,Sugarcane,Moderate Rainfall,31,82,307,7
+2025-06-25 / Kharif,Anantapur District,Paddy,Moderate Rainfall,117,56,565,52
+2025-06-26 / Kharif,Kurnool District,Cotton,Sunny / Dry,126,48,613,59
+2025-06-27 / Kharif,Guntur District,Paddy,Extreme Heatwave,121,58,595,66
+2025-06-28 / Kharif,Chittoor Region,Paddy,Sunny / Dry,114,40,612,59
+2025-06-29 / Kharif,East Godavari,Chilli,Sunny / Dry,66,96,336,30
+2025-06-30 / Kharif,Guntur District,Wheat,Moderate Rainfall,41,82,329,26
+2025-07-01 / Kharif,Guntur District,Cotton,Heavy Rain Alert,138,47,733,84
+2025-07-02 / Kharif,Kurnool District,Sugarcane,Heavy Rain Alert,50,98,360,20
+2025-07-03 / Kharif,East Godavari,Sugarcane,Moderate Rainfall,28,73,304,16
+2025-07-04 / Kharif,Chittoor Region,Sugarcane,Sunny / Dry,27,99,300,5
+2025-07-05 / Kharif,Guntur District,Wheat,Heavy Rain Alert,58,84,459,30
+2025-07-06 / Kharif,East Godavari,Cotton,Heavy Rain Alert,116,70,616,56
+2025-07-07 / Kharif,Chittoor Region,Cotton,Moderate Rainfall,149,43,674,83
+2025-07-08 / Kharif,Chittoor Region,Sugarcane,Extreme Heatwave,43,89,300,22
+2025-07-09 / Kharif,Chittoor Region,Cotton,Heavy Rain Alert,99,77,532,53
+2025-07-10 / Kharif,Anantapur District,Cotton,Moderate Rainfall,112,41,622,65
+2025-07-11 / Kharif,Guntur District,Cotton,Heavy Rain Alert,156,70,686,91
+2025-07-12 / Kharif,Anantapur District,Cotton,Heavy Rain Alert,128,45,701,76
+2025-07-13 / Kharif,Kurnool District,Wheat,Sunny / Dry,53,108,300,31
+2025-07-14 / Kharif,Guntur District,Chilli,Moderate Rainfall,33,70,325,8
+2025-07-15 / Kharif,Anantapur District,Wheat,Extreme Heatwave,22,86,300,21
+2025-07-16 / Kharif,Chittoor Region,Paddy,Extreme Heatwave,145,42,677,83
+2025-07-17 / Kharif,East Godavari,Wheat,Sunny / Dry,26,77,300,25
+2025-07-18 / Kharif,East Godavari,Wheat,Moderate Rainfall,21,68,305,18
+2025-07-19 / Kharif,Guntur District,Chilli,Heavy Rain Alert,25,83,339,5
+2025-07-20 / Kharif,Kurnool District,Cotton,Extreme Heatwave,103,66,498,49
+2025-07-21 / Kharif,East Godavari,Sugarcane,Moderate Rainfall,23,88,300,2
+2025-07-22 / Kharif,East Godavari,Cotton,Moderate Rainfall,97,43,541,52
+2025-07-23 / Kharif,Anantapur District,Paddy,Extreme Heatwave,134,52,614,64
+2025-07-24 / Kharif,Kurnool District,Chilli,Heavy Rain Alert,65,78,450,39
+2025-07-25 / Kharif,Anantapur District,Chilli,Heavy Rain Alert,60,66,467,33
+2025-07-26 / Kharif,East Godavari,Sugarcane,Sunny / Dry,21,92,300,13
+2025-07-27 / Kharif,Kurnool District,Sugarcane,Heavy Rain Alert,62,67,486,24
+2025-07-28 / Kharif,Guntur District,Cotton,Extreme Heatwave,154,51,688,78
+2025-07-29 / Kharif,Anantapur District,Chilli,Extreme Heatwave,32,105,300,25
+2025-07-30 / Kharif,Kurnool District,Wheat,Sunny / Dry,64,76,361,30
+2025-07-31 / Kharif,Kurnool District,Paddy,Sunny / Dry,139,74,604,66
+2025-08-01 / Kharif,Kurnool District,Paddy,Heavy Rain Alert,99,65,586,65
+2025-08-02 / Kharif,Anantapur District,Sugarcane,Extreme Heatwave,29,106,300,22
+2025-08-03 / Kharif,Guntur District,Sugarcane,Sunny / Dry,53,67,361,25
+2025-08-04 / Kharif,Kurnool District,Paddy,Extreme Heatwave,157,71,634,93
+2025-08-05 / Kharif,Kurnool District,Wheat,Extreme Heatwave,53,114,300,23
+2025-08-06 / Kharif,Anantapur District,Cotton,Heavy Rain Alert,111,50,619,54
+2025-08-07 / Kharif,East Godavari,Paddy,Heavy Rain Alert,117,66,599,73
+2025-08-08 / Kharif,Guntur District,Sugarcane,Sunny / Dry,39,89,305,23
+2025-08-09 / Kharif,Anantapur District,Cotton,Sunny / Dry,131,72,588,66
+2025-08-10 / Kharif,Chittoor Region,Cotton,Moderate Rainfall,112,77,477,70
+2025-08-11 / Kharif,Kurnool District,Wheat,Extreme Heatwave,56,94,302,32
+2025-08-12 / Kharif,Guntur District,Paddy,Moderate Rainfall,136,57,617,84
+2025-08-13 / Kharif,East Godavari,Cotton,Moderate Rainfall,110,77,474,52
+2025-08-14 / Kharif,Guntur District,Sugarcane,Extreme Heatwave,47,103,304,25
+2025-08-15 / Kharif,Guntur District,Chilli,Moderate Rainfall,39,88,300,21
+2025-08-16 / Kharif,East Godavari,Cotton,Heavy Rain Alert,121,65,642,60
+2025-08-17 / Kharif,Anantapur District,Sugarcane,Sunny / Dry,61,111,300,43
+2025-08-18 / Kharif,Chittoor Region,Chilli,Sunny / Dry,47,98,300,33
+2025-08-19 / Kharif,Anantapur District,Cotton,Heavy Rain Alert,109,71,577,55
+2025-08-20 / Kharif,Kurnool District,Wheat,Sunny / Dry,48,103,300,17
+2025-08-21 / Kharif,Kurnool District,Paddy,Moderate Rainfall,97,68,505,61
+2025-08-22 / Kharif,East Godavari,Wheat,Sunny / Dry,58,95,338,24
+2025-08-23 / Kharif,Kurnool District,Wheat,Sunny / Dry,65,66,433,25
+2025-08-24 / Kharif,East Godavari,Sugarcane,Sunny / Dry,54,95,333,23
+2025-08-25 / Kharif,Guntur District,Chilli,Extreme Heatwave,20,89,300,17
+2025-08-26 / Kharif,Chittoor Region,Sugarcane,Heavy Rain Alert,21,82,355,10
+2025-08-27 / Kharif,Guntur District,Sugarcane,Moderate Rainfall,29,69,318,8
+2025-08-28 / Kharif,East Godavari,Paddy,Heavy Rain Alert,155,70,716,82
+2025-08-29 / Kharif,Guntur District,Paddy,Heavy Rain Alert,130,60,660,72
+2025-08-30 / Kharif,Kurnool District,Chilli,Sunny / Dry,45,85,300,24
+2025-08-31 / Kharif,Kurnool District,Cotton,Moderate Rainfall,120,47,617,69
+2025-09-01 / Kharif,Anantapur District,Chilli,Heavy Rain Alert,20,80,325,3
+2025-09-02 / Kharif,East Godavari,Sugarcane,Sunny / Dry,22,111,300,22
+2025-09-03 / Kharif,East Godavari,Wheat,Moderate Rainfall,62,85,374,23
+2025-09-04 / Kharif,Anantapur District,Paddy,Extreme Heatwave,148,66,618,74
+2025-09-05 / Kharif,East Godavari,Chilli,Heavy Rain Alert,65,89,438,33
+2025-09-06 / Kharif,Chittoor Region,Cotton,Moderate Rainfall,102,72,478,64
+2025-09-07 / Kharif,Chittoor Region,Sugarcane,Heavy Rain Alert,27,85,347,25
+2025-09-08 / Kharif,Anantapur District,Cotton,Heavy Rain Alert,114,47,654,65
+2025-09-09 / Kharif,Chittoor Region,Chilli,Moderate Rainfall,28,79,306,12
+2025-09-10 / Kharif,Guntur District,Chilli,Moderate Rainfall,48,80,337,18
+2025-09-11 / Kharif,East Godavari,Wheat,Heavy Rain Alert,41,71,418,32
+2025-09-12 / Kharif,Chittoor Region,Wheat,Extreme Heatwave,60,104,310,36
+2025-09-13 / Kharif,Guntur District,Chilli,Extreme Heatwave,57,95,312,32
+2025-09-14 / Kharif,Kurnool District,Paddy,Heavy Rain Alert,123,67,648,59
+2025-09-15 / Kharif,Chittoor Region,Sugarcane,Heavy Rain Alert,61,71,471,30
+2025-09-16 / Kharif,Guntur District,Chilli,Extreme Heatwave,55,105,305,18
+2025-09-17 / Kharif,Kurnool District,Chilli,Extreme Heatwave,42,74,345,20
+2025-09-18 / Kharif,Chittoor Region,Sugarcane,Heavy Rain Alert,44,67,412,32
+2025-09-19 / Kharif,Anantapur District,Cotton,Heavy Rain Alert,152,57,738,93
+2025-09-20 / Kharif,Guntur District,Paddy,Sunny / Dry,96,51,532,63
+2025-09-21 / Kharif,Guntur District,Sugarcane,Moderate Rainfall,67,84,402,24
+2025-09-22 / Kharif,Guntur District,Sugarcane,Sunny / Dry,20,81,300,11
+2025-09-23 / Kharif,East Godavari,Sugarcane,Sunny / Dry,49,105,300,28
+2025-09-24 / Kharif,Guntur District,Chilli,Extreme Heatwave,22,110,300,11
+2025-09-25 / Kharif,East Godavari,Chilli,Heavy Rain Alert,64,90,433,35
+2025-09-26 / Kharif,Guntur District,Wheat,Moderate Rainfall,20,88,300,2
+2025-09-27 / Kharif,Chittoor Region,Paddy,Sunny / Dry,110,56,548,66
+2025-09-28 / Kharif,Kurnool District,Cotton,Sunny / Dry,148,54,660,79
+2025-09-29 / Kharif,East Godavari,Paddy,Heavy Rain Alert,159,54,741,93
+2025-09-30 / Kharif,Chittoor Region,Cotton,Heavy Rain Alert,137,44,725,80
+2025-10-01 / Kharif,Guntur District,Chilli,Heavy Rain Alert,53,103,364,25
+2025-10-02 / Kharif,Chittoor Region,Paddy,Sunny / Dry,144,62,623,78
+2025-10-03 / Kharif,Anantapur District,Paddy,Moderate Rainfall,101,65,525,43
+2025-10-04 / Kharif,Chittoor Region,Paddy,Sunny / Dry,142,54,645,69
+2025-10-05 / Kharif,Kurnool District,Chilli,Extreme Heatwave,39,114,300,29
+2025-10-06 / Kharif,Kurnool District,Sugarcane,Moderate Rainfall,55,96,303,41
+2025-10-07 / Kharif,Chittoor Region,Sugarcane,Extreme Heatwave,54,112,300,38
+2025-10-08 / Kharif,Guntur District,Chilli,Heavy Rain Alert,55,89,433,22
+2025-10-09 / Kharif,East Godavari,Cotton,Sunny / Dry,145,61,662,90
+2025-10-10 / Kharif,Kurnool District,Sugarcane,Extreme Heatwave,62,109,300,30
+2025-10-11 / Kharif,Chittoor Region,Wheat,Moderate Rainfall,37,86,310,9
+2025-10-12 / Kharif,Chittoor Region,Chilli,Extreme Heatwave,40,100,300,16
+2025-10-13 / Kharif,Anantapur District,Wheat,Heavy Rain Alert,48,90,402,34
+2025-10-14 / Kharif,Anantapur District,Cotton,Extreme Heatwave,111,55,546,62
+2025-10-15 / Kharif,Anantapur District,Chilli,Moderate Rainfall,68,101,337,26
+2025-10-16 / Kharif,Chittoor Region,Chilli,Moderate Rainfall,67,110,335,30
+2025-10-17 / Kharif,East Godavari,Chilli,Heavy Rain Alert,66,84,440,25
+2025-10-18 / Kharif,Anantapur District,Cotton,Extreme Heatwave,135,58,615,65
+2025-10-19 / Kharif,East Godavari,Paddy,Sunny / Dry,106,68,518,52
+2025-10-20 / Kharif,Anantapur District,Chilli,Sunny / Dry,33,76,325,15
+2025-10-21 / Kharif,Chittoor Region,Sugarcane,Heavy Rain Alert,51,74,423,26
+2025-10-22 / Kharif,Guntur District,Wheat,Moderate Rainfall,36,69,341,7
+2025-10-23 / Kharif,Kurnool District,Wheat,Sunny / Dry,55,100,314,35
+2025-10-24 / Kharif,Anantapur District,Chilli,Moderate Rainfall,28,93,300,17
+2025-10-25 / Kharif,Guntur District,Paddy,Extreme Heatwave,100,68,510,57
+2025-10-26 / Kharif,Anantapur District,Sugarcane,Moderate Rainfall,48,68,357,25
+2025-10-27 / Kharif,Anantapur District,Wheat,Moderate Rainfall,58,80,369,29
+2025-10-28 / Kharif,Kurnool District,Wheat,Heavy Rain Alert,33,67,424,11
+2025-10-29 / Kharif,Guntur District,Chilli,Extreme Heatwave,64,106,300,40
+2025-10-30 / Kharif,Chittoor Region,Sugarcane,Sunny / Dry,39,112,300,28
+2025-10-31 / Kharif,Anantapur District,Cotton,Moderate Rainfall,131,47,615,71
+2025-11-01 / Rabi,East Godavari,Chilli,Sunny / Dry,53,108,300,17
+2025-11-02 / Rabi,Chittoor Region,Wheat,Sunny / Dry,87,74,450,52
+2025-11-03 / Rabi,Chittoor Region,Cotton,Sunny / Dry,31,93,300,13
+2025-11-04 / Rabi,Guntur District,Wheat,Heavy Rain Alert,110,46,663,50
+2025-11-05 / Rabi,East Godavari,Cotton,Sunny / Dry,65,68,398,34
+2025-11-06 / Rabi,Kurnool District,Chilli,Sunny / Dry,54,87,333,25
+2025-11-07 / Rabi,East Godavari,Paddy,Heavy Rain Alert,21,105,300,13
+2025-11-08 / Rabi,Chittoor Region,Paddy,Heavy Rain Alert,21,96,313,16
+2025-11-09 / Rabi,Chittoor Region,Chilli,Moderate Rainfall,32,110,300,14
+2025-11-10 / Rabi,Anantapur District,Chilli,Moderate Rainfall,62,89,352,23
+2025-11-11 / Rabi,Kurnool District,Paddy,Extreme Heatwave,56,94,322,40
+2025-11-12 / Rabi,East Godavari,Chilli,Sunny / Dry,22,77,300,2
+2025-11-13 / Rabi,Kurnool District,Cotton,Heavy Rain Alert,45,88,398,28
+2025-11-14 / Rabi,East Godavari,Sugarcane,Moderate Rainfall,61,76,378,37
+2025-11-15 / Rabi,Anantapur District,Paddy,Extreme Heatwave,55,66,396,35
+2025-11-16 / Rabi,Chittoor Region,Paddy,Extreme Heatwave,40,100,300,17
+2025-11-17 / Rabi,Anantapur District,Paddy,Extreme Heatwave,65,108,308,40
+2025-11-18 / Rabi,Chittoor Region,Cotton,Moderate Rainfall,62,94,345,29
+2025-11-19 / Rabi,Kurnool District,Cotton,Moderate Rainfall,53,111,300,31
+2025-11-20 / Rabi,East Godavari,Cotton,Moderate Rainfall,27,83,300,24
+2025-11-21 / Rabi,Chittoor Region,Chilli,Moderate Rainfall,46,104,300,31
+2025-11-22 / Rabi,Kurnool District,Paddy,Heavy Rain Alert,69,106,421,31
+2025-11-23 / Rabi,East Godavari,Wheat,Sunny / Dry,125,77,560,70
+2025-11-24 / Rabi,Guntur District,Cotton,Extreme Heatwave,35,87,300,13
+2025-11-25 / Rabi,Anantapur District,Wheat,Moderate Rainfall,110,76,496,68
+2025-11-26 / Rabi,Anantapur District,Wheat,Sunny / Dry,89,70,458,40
+2025-11-27 / Rabi,Anantapur District,Sugarcane,Heavy Rain Alert,41,79,399,32
+2025-11-28 / Rabi,Chittoor Region,Cotton,Moderate Rainfall,52,107,300,33
+2025-11-29 / Rabi,East Godavari,Paddy,Moderate Rainfall,69,94,360,25
+2025-11-30 / Rabi,Kurnool District,Wheat,Moderate Rainfall,110,45,588,64
+2025-12-01 / Rabi,Guntur District,Paddy,Sunny / Dry,57,66,418,27
+2025-12-02 / Rabi,Kurnool District,Chilli,Moderate Rainfall,27,92,300,11
+2025-12-03 / Rabi,Anantapur District,Paddy,Heavy Rain Alert,36,93,355,28
+2025-12-04 / Rabi,Guntur District,Wheat,Extreme Heatwave,90,70,463,43
+2025-12-05 / Rabi,East Godavari,Paddy,Heavy Rain Alert,31,99,329,20
+2025-12-06 / Rabi,Kurnool District,Chilli,Moderate Rainfall,26,104,300,19
+2025-12-07 / Rabi,Kurnool District,Chilli,Heavy Rain Alert,44,77,391,34
+2025-12-08 / Rabi,Chittoor Region,Cotton,Moderate Rainfall,28,79,300,22
+2025-12-09 / Rabi,Guntur District,Cotton,Sunny / Dry,21,89,300,2
+2025-12-10 / Rabi,Anantapur District,Sugarcane,Sunny / Dry,54,102,304,19
+2025-12-11 / Rabi,Anantapur District,Sugarcane,Heavy Rain Alert,61,70,483,39
+2025-12-12 / Rabi,Guntur District,Cotton,Sunny / Dry,22,82,300,6
+2025-12-13 / Rabi,Guntur District,Cotton,Heavy Rain Alert,28,76,354,6
+2025-12-14 / Rabi,Anantapur District,Paddy,Sunny / Dry,24,65,326,18
+2025-12-15 / Rabi,Anantapur District,Cotton,Moderate Rainfall,31,77,300,20
+2025-12-16 / Rabi,East Godavari,Chilli,Sunny / Dry,67,88,367,26
+2025-12-17 / Rabi,Anantapur District,Cotton,Sunny / Dry,41,100,300,24
+2025-12-18 / Rabi,Kurnool District,Sugarcane,Extreme Heatwave,50,106,300,23
+2025-12-19 / Rabi,Chittoor Region,Paddy,Sunny / Dry,62,80,359,44
+2025-12-20 / Rabi,Kurnool District,Chilli,Heavy Rain Alert,21,102,300,17
+2025-12-21 / Rabi,Anantapur District,Cotton,Extreme Heatwave,59,90,346,37
+2025-12-22 / Rabi,Kurnool District,Paddy,Heavy Rain Alert,28,102,300,25
+2025-12-23 / Rabi,Anantapur District,Wheat,Heavy Rain Alert,105,45,646,50
+2025-12-24 / Rabi,Kurnool District,Chilli,Heavy Rain Alert,63,100,395,34
+2025-12-25 / Rabi,Guntur District,Wheat,Extreme Heatwave,101,84,448,49
+2025-12-26 / Rabi,Guntur District,Chilli,Heavy Rain Alert,31,66,394,28
+2025-12-27 / Rabi,Kurnool District,Sugarcane,Heavy Rain Alert,65,86,413,23
+2025-12-28 / Rabi,East Godavari,Sugarcane,Sunny / Dry,58,94,343,32
+2025-12-29 / Rabi,East Godavari,Chilli,Moderate Rainfall,56,92,332,19
+2025-12-30 / Rabi,East Godavari,Sugarcane,Moderate Rainfall,59,105,343,22
+2025-12-31 / Rabi,East Godavari,Wheat,Heavy Rain Alert,86,83,477,54
+2026-01-01 / Rabi,East Godavari,Chilli,Moderate Rainfall,64,85,380,42
+2026-01-02 / Rabi,Kurnool District,Sugarcane,Moderate Rainfall,57,84,352,24
+2026-01-03 / Rabi,Kurnool District,Wheat,Moderate Rainfall,125,47,638,56
+2026-01-04 / Rabi,East Godavari,Sugarcane,Moderate Rainfall,20,69,300,17
+2026-01-05 / Rabi,Anantapur District,Paddy,Sunny / Dry,54,76,376,21
+2026-01-06 / Rabi,Kurnool District,Wheat,Moderate Rainfall,118,66,553,71
+2026-01-07 / Rabi,Guntur District,Wheat,Extreme Heatwave,115,49,574,74
+2026-01-08 / Rabi,East Godavari,Wheat,Extreme Heatwave,124,77,539,71
+2026-01-09 / Rabi,Anantapur District,Sugarcane,Moderate Rainfall,69,76,389,37
+2026-01-10 / Rabi,Guntur District,Sugarcane,Moderate Rainfall,64,106,312,37
+2026-01-11 / Rabi,Guntur District,Chilli,Heavy Rain Alert,63,73,460,29
+2026-01-12 / Rabi,Chittoor Region,Chilli,Moderate Rainfall,69,87,378,42
+2026-01-13 / Rabi,Chittoor Region,Sugarcane,Moderate Rainfall,34,100,300,22
+2026-01-14 / Rabi,Guntur District,Wheat,Sunny / Dry,89,66,490,53
+2026-01-15 / Rabi,East Godavari,Sugarcane,Extreme Heatwave,68,82,375,31
+2026-01-16 / Rabi,Anantapur District,Sugarcane,Extreme Heatwave,23,90,300,22
+2026-01-17 / Rabi,East Godavari,Cotton,Moderate Rainfall,33,79,303,22
+2026-01-18 / Rabi,Kurnool District,Sugarcane,Moderate Rainfall,52,89,326,26
+2026-01-19 / Rabi,Guntur District,Cotton,Sunny / Dry,36,78,300,26
+2026-01-20 / Rabi,Anantapur District,Cotton,Moderate Rainfall,49,83,327,31
+2026-01-21 / Rabi,Kurnool District,Sugarcane,Sunny / Dry,42,110,300,11
+2026-01-22 / Rabi,Kurnool District,Cotton,Extreme Heatwave,58,104,300,40
+2026-01-23 / Rabi,Anantapur District,Cotton,Moderate Rainfall,36,83,300,12
+2026-01-24 / Rabi,East Godavari,Cotton,Sunny / Dry,54,101,333,26
+2026-01-25 / Rabi,Chittoor Region,Cotton,Heavy Rain Alert,29,88,357,23
+2026-01-26 / Rabi,East Godavari,Chilli,Sunny / Dry,30,91,300,20
+2026-01-27 / Rabi,Chittoor Region,Paddy,Extreme Heatwave,35,71,335,22
+2026-01-28 / Rabi,East Godavari,Paddy,Moderate Rainfall,54,80,330,33
+2026-01-29 / Rabi,Chittoor Region,Chilli,Extreme Heatwave,40,114,300,20
+2026-01-30 / Rabi,Guntur District,Chilli,Extreme Heatwave,55,112,300,41
+2026-01-31 / Rabi,Chittoor Region,Paddy,Moderate Rainfall,46,84,315,14
+2026-02-01 / Rabi,Anantapur District,Cotton,Extreme Heatwave,28,92,300,22
+2026-02-02 / Rabi,Anantapur District,Wheat,Extreme Heatwave,90,83,446,37
+2026-02-03 / Rabi,Kurnool District,Cotton,Heavy Rain Alert,20,101,300,13
+2026-02-04 / Rabi,Chittoor Region,Paddy,Moderate Rainfall,64,90,345,36
+2026-02-05 / Rabi,East Godavari,Cotton,Sunny / Dry,26,110,300,11
+2026-02-06 / Rabi,Chittoor Region,Paddy,Moderate Rainfall,51,81,360,29
+2026-02-07 / Rabi,Chittoor Region,Chilli,Moderate Rainfall,59,100,325,37
+2026-02-08 / Rabi,East Godavari,Cotton,Heavy Rain Alert,65,82,445,27
+2026-02-09 / Rabi,East Godavari,Paddy,Moderate Rainfall,45,73,360,30
+2026-02-10 / Rabi,East Godavari,Chilli,Moderate Rainfall,49,92,300,16
+2026-02-11 / Rabi,East Godavari,Paddy,Heavy Rain Alert,62,75,464,25
+2026-02-12 / Rabi,Anantapur District,Sugarcane,Sunny / Dry,49,87,332,32
+2026-02-13 / Rabi,Guntur District,Paddy,Extreme Heatwave,31,79,300,19
+2026-02-14 / Rabi,Anantapur District,Paddy,Extreme Heatwave,48,114,300,24
+2026-02-15 / Rabi,Chittoor Region,Chilli,Moderate Rainfall,45,108,300,34
+2026-02-16 / Rabi,East Godavari,Chilli,Extreme Heatwave,45,75,343,35
+2026-02-17 / Rabi,Guntur District,Sugarcane,Heavy Rain Alert,21,72,366,21
+2026-02-18 / Rabi,Chittoor Region,Sugarcane,Moderate Rainfall,69,78,402,46
+2026-02-19 / Rabi,Kurnool District,Sugarcane,Sunny / Dry,29,99,300,9
+2026-02-20 / Rabi,East Godavari,Wheat,Heavy Rain Alert,98,72,561,51
+2026-02-21 / Rabi,East Godavari,Wheat,Moderate Rainfall,123,69,565,73
+2026-02-22 / Rabi,Guntur District,Sugarcane,Moderate Rainfall,67,86,383,44
+2026-02-23 / Rabi,Guntur District,Chilli,Heavy Rain Alert,63,96,399,25
+2026-02-24 / Rabi,Guntur District,Cotton,Extreme Heatwave,47,78,326,20
+2026-02-25 / Rabi,East Godavari,Chilli,Sunny / Dry,28,99,300,19
+2026-02-26 / Rabi,Chittoor Region,Cotton,Moderate Rainfall,62,95,331,23
+2026-02-27 / Rabi,Kurnool District,Chilli,Extreme Heatwave,25,86,300,15
+2026-02-28 / Rabi,East Godavari,Cotton,Extreme Heatwave,42,93,301,27
+2026-03-01 / Rabi,Guntur District,Chilli,Sunny / Dry,51,71,366,32
+2026-03-02 / Rabi,Kurnool District,Chilli,Heavy Rain Alert,51,110,331,21
+2026-03-03 / Rabi,Chittoor Region,Chilli,Moderate Rainfall,43,70,347,34
+2026-03-04 / Rabi,Guntur District,Sugarcane,Moderate Rainfall,43,102,300,12
+2026-03-05 / Rabi,Guntur District,Wheat,Sunny / Dry,124,59,572,56
+2026-03-06 / Rabi,Kurnool District,Paddy,Heavy Rain Alert,37,108,318,19
+2026-03-07 / Rabi,Anantapur District,Paddy,Sunny / Dry,62,92,345,31
+2026-03-08 / Rabi,Guntur District,Cotton,Moderate Rainfall,54,93,334,26
+2026-03-09 / Rabi,Kurnool District,Wheat,Moderate Rainfall,112,62,557,56
+2026-03-10 / Rabi,East Godavari,Chilli,Heavy Rain Alert,61,109,362,41
+2026-03-11 / Rabi,Guntur District,Paddy,Heavy Rain Alert,27,68,402,18
+2026-03-12 / Rabi,Anantapur District,Wheat,Extreme Heatwave,118,74,522,59
+2026-03-13 / Rabi,Guntur District,Cotton,Sunny / Dry,58,111,300,25
+2026-03-14 / Rabi,Anantapur District,Cotton,Moderate Rainfall,58,92,314,32
+2026-03-15 / Rabi,Guntur District,Wheat,Heavy Rain Alert,137,82,643,67
+2026-03-16 / Rabi,Chittoor Region,Cotton,Moderate Rainfall,22,108,300,14
+2026-03-17 / Rabi,Kurnool District,Chilli,Sunny / Dry,61,84,357,28
+2026-03-18 / Rabi,Guntur District,Chilli,Sunny / Dry,22,87,300,6
+2026-03-19 / Rabi,East Godavari,Chilli,Heavy Rain Alert,42,71,418,19
+2026-03-20 / Rabi,East Godavari,Chilli,Heavy Rain Alert,67,82,441,32
+2026-03-21 / Rabi,Anantapur District,Chilli,Heavy Rain Alert,67,109,392,35
+2026-03-22 / Rabi,Kurnool District,Chilli,Extreme Heatwave,44,83,333,18
+2026-03-23 / Rabi,Chittoor Region,Cotton,Extreme Heatwave,34,80,300,9
+2026-03-24 / Rabi,Kurnool District,Chilli,Moderate Rainfall,38,92,300,28
+2026-03-25 / Rabi,Anantapur District,Sugarcane,Sunny / Dry,66,78,385,45
+2026-03-26 / Rabi,Guntur District,Paddy,Extreme Heatwave,22,101,300,8
+2026-03-27 / Rabi,Guntur District,Sugarcane,Extreme Heatwave,37,75,320,19
+2026-03-28 / Rabi,East Godavari,Paddy,Heavy Rain Alert,48,94,385,15
+2026-03-29 / Rabi,Anantapur District,Chilli,Moderate Rainfall,28,111,300,4
+2026-03-30 / Rabi,Guntur District,Sugarcane,Heavy Rain Alert,63,72,458,26
+2026-03-31 / Rabi,Anantapur District,Paddy,Heavy Rain Alert,52,111,344,28
+2026-04-01 / Zaid,Anantapur District,Chilli,Heavy Rain Alert,38,96,359,8
+2026-04-02 / Zaid,Guntur District,Paddy,Heavy Rain Alert,62,97,389,38
+2026-04-03 / Zaid,Anantapur District,Cotton,Sunny / Dry,27,106,300,3
+2026-04-04 / Zaid,Kurnool District,Sugarcane,Heavy Rain Alert,28,87,348,23
+2026-04-05 / Zaid,Anantapur District,Cotton,Extreme Heatwave,39,114,300,11
+2026-04-06 / Zaid,Guntur District,Sugarcane,Extreme Heatwave,65,88,361,38
+2026-04-07 / Zaid,Kurnool District,Cotton,Heavy Rain Alert,27,103,300,12
+2026-04-08 / Zaid,East Godavari,Cotton,Sunny / Dry,54,113,300,21
+2026-04-09 / Zaid,Chittoor Region,Wheat,Heavy Rain Alert,46,92,360,20
+2026-04-10 / Zaid,Chittoor Region,Chilli,Sunny / Dry,53,96,325,17
+2026-04-11 / Zaid,Kurnool District,Chilli,Heavy Rain Alert,66,110,383,43
+2026-04-12 / Zaid,Anantapur District,Paddy,Moderate Rainfall,35,93,300,19
+2026-04-13 / Zaid,Anantapur District,Paddy,Heavy Rain Alert,40,85,375,14
+2026-04-14 / Zaid,East Godavari,Chilli,Moderate Rainfall,29,70,319,3
+2026-04-15 / Zaid,Chittoor Region,Chilli,Extreme Heatwave,39,111,300,22
+2026-04-16 / Zaid,Kurnool District,Chilli,Sunny / Dry,27,74,300,12
+2026-04-17 / Zaid,Anantapur District,Wheat,Sunny / Dry,31,74,325,21
+2026-04-18 / Zaid,Anantapur District,Cotton,Sunny / Dry,68,89,371,31
+2026-04-19 / Zaid,East Godavari,Sugarcane,Heavy Rain Alert,45,78,428,18
+2026-04-20 / Zaid,East Godavari,Wheat,Moderate Rainfall,59,65,402,31
+2026-04-21 / Zaid,Chittoor Region,Wheat,Moderate Rainfall,54,77,346,36
+2026-04-22 / Zaid,Guntur District,Wheat,Sunny / Dry,50,102,300,30
+2026-04-23 / Zaid,Kurnool District,Paddy,Extreme Heatwave,26,86,300,12
+2026-04-24 / Zaid,Chittoor Region,Paddy,Extreme Heatwave,52,93,314,23
+2026-04-25 / Zaid,Chittoor Region,Sugarcane,Moderate Rainfall,28,105,300,4
+2026-04-26 / Zaid,Anantapur District,Cotton,Heavy Rain Alert,64,77,451,46
+2026-04-27 / Zaid,Anantapur District,Sugarcane,Sunny / Dry,63,81,377,23
+2026-04-28 / Zaid,Chittoor Region,Sugarcane,Moderate Rainfall,32,95,300,19
+2026-04-29 / Zaid,Guntur District,Cotton,Extreme Heatwave,50,104,300,29
+2026-04-30 / Zaid,Chittoor Region,Paddy,Sunny / Dry,52,84,342,38
+2026-05-01 / Zaid,Anantapur District,Paddy,Sunny / Dry,27,96,300,17
+2026-05-02 / Zaid,Anantapur District,Cotton,Sunny / Dry,33,91,300,18
+2026-05-03 / Zaid,Guntur District,Chilli,Heavy Rain Alert,50,101,365,30
+2026-05-04 / Zaid,Guntur District,Chilli,Heavy Rain Alert,62,69,478,40
+2026-05-05 / Zaid,Kurnool District,Wheat,Moderate Rainfall,54,111,300,23
+2026-05-06 / Zaid,Kurnool District,Wheat,Heavy Rain Alert,26,102,303,8
+2026-05-07 / Zaid,Chittoor Region,Wheat,Extreme Heatwave,56,114,300,39
+2026-05-08 / Zaid,Guntur District,Wheat,Moderate Rainfall,27,81,300,18
+2026-05-09 / Zaid,Kurnool District,Wheat,Sunny / Dry,61,76,399,36
+2026-05-10 / Zaid,Guntur District,Chilli,Sunny / Dry,65,91,347,32
+2026-05-11 / Zaid,Kurnool District,Chilli,Heavy Rain Alert,68,93,404,42
+2026-05-12 / Zaid,Chittoor Region,Wheat,Heavy Rain Alert,39,80,372,29
+2026-05-13 / Zaid,Kurnool District,Wheat,Moderate Rainfall,48,105,300,17
+2026-05-14 / Zaid,Kurnool District,Paddy,Heavy Rain Alert,45,95,376,28
+2026-05-15 / Zaid,Chittoor Region,Wheat,Extreme Heatwave,34,73,317,12
+2026-05-16 / Zaid,Guntur District,Sugarcane,Sunny / Dry,61,112,301,38
+2026-05-17 / Zaid,East Godavari,Paddy,Sunny / Dry,34,96,300,11
+2026-05-18 / Zaid,East Godavari,Paddy,Sunny / Dry,63,107,305,45
+2026-05-19 / Zaid,East Godavari,Cotton,Moderate Rainfall,24,82,300,16
+2026-05-20 / Zaid,Chittoor Region,Chilli,Extreme Heatwave,27,89,300,23
+2026-05-21 / Zaid,Chittoor Region,Wheat,Heavy Rain Alert,50,107,328,24
+2026-05-22 / Zaid,Anantapur District,Sugarcane,Sunny / Dry,31,92,300,27
+2026-05-23 / Zaid,East Godavari,Chilli,Moderate Rainfall,28,93,300,18
+2026-05-24 / Zaid,Guntur District,Cotton,Sunny / Dry,65,86,368,40
+2026-05-25 / Zaid,East Godavari,Wheat,Extreme Heatwave,53,75,359,38
+2026-05-26 / Zaid,East Godavari,Sugarcane,Moderate Rainfall,59,97,326,21
+2026-05-27 / Zaid,Kurnool District,Chilli,Heavy Rain Alert,69,71,476,41
+2026-05-28 / Zaid,Anantapur District,Cotton,Moderate Rainfall,42,110,300,13
+2026-05-29 / Zaid,Anantapur District,Wheat,Extreme Heatwave,57,84,354,20
+2026-05-30 / Zaid,East Godavari,Paddy,Sunny / Dry,68,108,328,34
+2026-05-31 / Zaid,East Godavari,Paddy,Heavy Rain Alert,54,84,419,34
+2026-06-01 / Kharif,East Godavari,Cotton,Moderate Rainfall,139,66,610,73
+2026-06-02 / Kharif,Anantapur District,Wheat,Moderate Rainfall,30,102,300,9
+2026-06-03 / Kharif,Chittoor Region,Paddy,Extreme Heatwave,156,73,635,80
+2026-06-04 / Kharif,Guntur District,Wheat,Sunny / Dry,31,85,301,12
+2026-06-05 / Kharif,Anantapur District,Chilli,Extreme Heatwave,38,67,375,26
+2026-06-06 / Kharif,East Godavari,Chilli,Extreme Heatwave,66,70,405,39
+2026-06-07 / Kharif,Kurnool District,Chilli,Moderate Rainfall,27,112,300,8
+2026-06-08 / Kharif,Chittoor Region,Sugarcane,Extreme Heatwave,68,113,313,36
+2026-06-09 / Kharif,East Godavari,Paddy,Heavy Rain Alert,104,46,618,48
+2026-06-10 / Kharif,Kurnool District,Chilli,Extreme Heatwave,40,101,300,29
+2026-06-11 / Kharif,East Godavari,Chilli,Heavy Rain Alert,43,89,375,17
+2026-06-12 / Kharif,Chittoor Region,Sugarcane,Moderate Rainfall,52,71,358,39
+2026-06-13 / Kharif,Guntur District,Chilli,Extreme Heatwave,30,73,314,26
+2026-06-14 / Kharif,Guntur District,Chilli,Extreme Heatwave,38,106,300,12
+2026-06-15 / Kharif,Anantapur District,Chilli,Sunny / Dry,58,88,351,25
+2026-06-16 / Kharif,East Godavari,Sugarcane,Heavy Rain Alert,30,95,332,16
+2026-06-17 / Kharif,East Godavari,Paddy,Sunny / Dry,125,41,632,57
+2026-06-18 / Kharif,Chittoor Region,Cotton,Heavy Rain Alert,123,41,677,70
+2026-06-19 / Kharif,East Godavari,Paddy,Sunny / Dry,133,52,625,79
+2026-06-20 / Kharif,Kurnool District,Sugarcane,Sunny / Dry,26,102,300,9
+2026-06-21 / Kharif,Kurnool District,Sugarcane,Extreme Heatwave,32,101,300,28
+2026-06-22 / Kharif,Chittoor Region,Wheat,Extreme Heatwave,25,90,300,7
+2026-06-23 / Kharif,Chittoor Region,Chilli,Extreme Heatwave,58,83,366,25
+2026-06-24 / Kharif,Kurnool District,Sugarcane,Heavy Rain Alert,21,83,338,2

@@ -1,0 +1,2001 @@
+Worker_Experience_Years,Worker_Primary_Skills,Job_Required_Skill,Distance_KM,Worker_Historical_Rating,Farmer_Historical_Rating,Historical_Acceptance_Rate,Is_Successful_Match
+10,"Seeding, Pesticide Spraying",Pruning,33.98,4.1,3.9,0.66,0
+1,"Pesticide Spraying, Harvesting, Seeding",Seeding,19.7,4.0,3.6,0.61,1
+13,"Pruning, Tractor Driving, Pesticide Spraying",Harvesting,17.08,3.6,3.8,0.32,0
+1,"Seeding, Harvesting",Harvesting,2.14,4.5,4.9,0.47,1
+9,"Seeding, Pesticide Spraying, Harvesting",Pesticide Spraying,14.3,4.4,3.7,0.87,1
+6,Tractor Driving,Pruning,13.71,3.8,4.3,0.3,1
+4,"Seeding, Pruning, Pesticide Spraying",Irrigation Setup,22.4,4.9,4.7,0.34,0
+8,"Pruning, Irrigation Setup",Pruning,20.04,4.8,4.9,0.82,1
+2,"Tractor Driving, Irrigation Setup, Pruning",Tractor Driving,15.49,3.7,4.6,0.5,1
+9,Seeding,Pruning,16.05,3.6,4.0,0.9,0
+15,"Pruning, Tractor Driving",Pesticide Spraying,4.38,3.5,4.9,0.71,1
+9,"Tractor Driving, Irrigation Setup, Harvesting",Harvesting,33.07,3.4,4.2,0.63,1
+12,"Harvesting, Tractor Driving, Pruning",Irrigation Setup,18.93,4.9,3.9,0.91,0
+13,"Tractor Driving, Harvesting",Tractor Driving,2.28,4.3,4.2,0.76,1
+15,"Pruning, Irrigation Setup, Seeding",Seeding,17.71,4.5,3.6,0.58,1
+10,Pruning,Seeding,26.92,4.9,3.9,0.35,0
+2,"Seeding, Pruning",Pruning,24.57,3.8,3.6,0.77,0
+10,"Tractor Driving, Irrigation Setup",Pruning,2.7,3.9,4.4,0.48,1
+2,"Harvesting, Seeding, Pruning",Irrigation Setup,26.55,4.6,4.2,0.93,0
+15,Irrigation Setup,Seeding,9.43,4.4,3.7,0.92,1
+15,"Pruning, Seeding",Seeding,30.32,3.6,3.7,0.47,1
+10,"Harvesting, Irrigation Setup",Seeding,5.5,3.1,4.6,0.69,1
+3,"Irrigation Setup, Pesticide Spraying",Harvesting,12.33,4.5,4.8,0.83,0
+6,"Pruning, Harvesting, Tractor Driving",Irrigation Setup,13.99,4.6,3.8,0.75,0
+11,"Seeding, Pesticide Spraying, Pruning",Seeding,2.49,3.3,4.8,0.74,1
+10,Seeding,Seeding,1.81,3.5,4.8,0.83,1
+13,Tractor Driving,Pruning,24.39,3.0,4.0,0.55,0
+4,"Irrigation Setup, Harvesting, Pesticide Spraying",Seeding,28.02,4.6,4.1,0.5,0
+10,Pesticide Spraying,Seeding,26.01,4.3,4.0,0.87,0
+14,Pruning,Pruning,1.16,3.0,3.8,0.58,1
+1,"Pruning, Seeding, Pesticide Spraying",Pruning,32.57,4.1,4.5,0.93,1
+9,"Pesticide Spraying, Irrigation Setup",Tractor Driving,15.52,3.4,3.6,0.31,0
+14,Irrigation Setup,Seeding,8.75,3.9,4.3,0.92,0
+6,"Pesticide Spraying, Seeding, Irrigation Setup",Harvesting,15.14,4.2,3.5,0.54,1
+1,"Pruning, Seeding, Tractor Driving",Seeding,30.06,3.9,3.4,0.31,0
+8,Irrigation Setup,Pesticide Spraying,5.89,4.1,4.9,0.3,1
+2,"Seeding, Harvesting, Pesticide Spraying",Pruning,5.26,4.5,4.7,0.75,0
+10,Tractor Driving,Seeding,34.81,4.4,3.5,0.99,0
+9,Pesticide Spraying,Pesticide Spraying,4.26,4.0,4.3,0.42,1
+11,Seeding,Pesticide Spraying,29.34,4.1,5.0,0.5,0
+3,"Pesticide Spraying, Harvesting",Irrigation Setup,21.18,3.1,5.0,0.68,0
+4,Seeding,Tractor Driving,8.36,4.8,3.9,0.38,0
+14,"Irrigation Setup, Tractor Driving, Pruning",Pesticide Spraying,2.03,4.2,4.7,0.41,1
+15,Pesticide Spraying,Irrigation Setup,34.63,3.1,4.0,0.64,0
+4,Pruning,Tractor Driving,9.82,3.8,4.6,0.96,0
+1,"Harvesting, Pesticide Spraying, Irrigation Setup",Tractor Driving,19.4,4.7,3.9,0.58,0
+15,"Tractor Driving, Pruning, Seeding",Pruning,10.21,4.9,3.9,0.37,1
+13,Irrigation Setup,Pruning,20.42,4.3,4.0,0.67,0
+1,"Irrigation Setup, Tractor Driving, Seeding",Seeding,25.96,3.9,3.9,0.52,0
+14,"Pesticide Spraying, Harvesting, Irrigation Setup",Harvesting,2.19,4.3,4.7,0.66,1
+4,Tractor Driving,Pruning,32.66,4.7,4.5,0.64,0
+11,"Pruning, Pesticide Spraying",Pruning,27.03,4.5,3.8,0.34,1
+12,"Seeding, Tractor Driving, Pruning",Irrigation Setup,33.69,3.6,4.8,0.57,0
+10,"Pruning, Irrigation Setup, Pesticide Spraying",Tractor Driving,31.67,3.3,4.0,0.73,0
+4,"Pruning, Harvesting, Pesticide Spraying",Pruning,20.62,4.2,4.6,0.82,1
+14,"Irrigation Setup, Pesticide Spraying",Seeding,7.02,3.8,4.1,0.72,1
+10,"Harvesting, Irrigation Setup, Pesticide Spraying",Pruning,15.29,3.8,4.5,0.72,1
+13,"Irrigation Setup, Pesticide Spraying, Seeding",Pesticide Spraying,22.09,3.6,4.9,0.74,1
+6,"Harvesting, Pesticide Spraying",Irrigation Setup,30.59,4.6,3.8,0.44,0
+9,"Pruning, Irrigation Setup, Tractor Driving",Irrigation Setup,6.53,4.2,4.9,0.65,1
+5,"Seeding, Tractor Driving, Pesticide Spraying",Irrigation Setup,11.97,3.7,3.9,0.63,0
+6,"Tractor Driving, Pesticide Spraying, Harvesting",Irrigation Setup,26.98,3.5,4.6,0.44,0
+3,Harvesting,Harvesting,29.95,3.0,4.9,0.37,0
+3,"Harvesting, Seeding",Harvesting,18.0,3.9,4.8,0.95,1
+2,"Pruning, Pesticide Spraying, Tractor Driving",Irrigation Setup,17.07,3.2,3.6,0.86,0
+9,"Pesticide Spraying, Tractor Driving",Harvesting,8.27,3.4,3.5,0.75,1
+15,Seeding,Harvesting,12.66,3.5,4.7,0.56,0
+12,Seeding,Irrigation Setup,34.23,3.4,3.7,0.5,0
+8,Seeding,Irrigation Setup,23.63,4.1,3.6,0.87,0
+11,Irrigation Setup,Harvesting,7.6,4.1,4.4,0.33,1
+12,Seeding,Tractor Driving,10.08,4.4,4.8,0.76,1
+10,"Irrigation Setup, Seeding",Tractor Driving,4.77,4.9,4.2,0.52,0
+10,Irrigation Setup,Tractor Driving,26.57,3.6,4.3,0.68,1
+15,"Pesticide Spraying, Pruning",Irrigation Setup,19.95,4.5,3.6,0.46,0
+2,Irrigation Setup,Pruning,8.73,4.8,3.5,0.63,0
+14,"Pruning, Pesticide Spraying",Pesticide Spraying,19.06,4.4,4.5,0.97,1
+1,Harvesting,Pesticide Spraying,33.92,4.9,4.8,0.6,0
+14,Pruning,Pruning,12.87,4.3,4.2,0.44,1
+6,"Harvesting, Pesticide Spraying",Pesticide Spraying,22.6,4.7,3.9,0.42,1
+4,Pruning,Harvesting,27.06,3.1,3.7,0.68,0
+14,"Tractor Driving, Seeding",Pruning,11.6,3.9,4.8,0.33,0
+6,Irrigation Setup,Pruning,1.38,4.9,3.8,0.47,1
+14,Tractor Driving,Seeding,31.4,3.8,4.1,0.79,0
+1,"Tractor Driving, Seeding",Irrigation Setup,1.65,3.4,4.7,0.84,0
+13,Pruning,Irrigation Setup,12.31,4.7,3.6,0.77,1
+9,"Harvesting, Irrigation Setup",Harvesting,28.26,3.6,3.7,0.65,0
+9,Seeding,Irrigation Setup,31.62,3.1,4.8,0.46,0
+2,"Pruning, Harvesting",Pruning,33.6,4.6,4.4,0.65,1
+14,Irrigation Setup,Irrigation Setup,21.71,3.0,3.4,0.87,1
+14,Harvesting,Irrigation Setup,20.66,3.9,4.7,0.49,0
+5,"Pesticide Spraying, Tractor Driving",Irrigation Setup,30.24,3.5,4.3,0.65,0
+2,"Pruning, Seeding",Harvesting,32.66,3.8,4.6,0.31,0
+9,"Irrigation Setup, Pruning, Seeding",Pruning,15.83,4.7,3.9,0.63,1
+14,"Irrigation Setup, Harvesting",Seeding,4.46,4.6,3.8,0.93,0
+15,Harvesting,Pruning,18.35,4.4,4.6,0.39,0
+3,"Pruning, Harvesting, Pesticide Spraying",Pesticide Spraying,13.77,3.5,4.9,0.67,1
+7,"Pesticide Spraying, Pruning, Harvesting",Irrigation Setup,21.92,3.1,4.2,0.43,0
+1,"Harvesting, Pesticide Spraying, Seeding",Harvesting,19.62,4.5,3.9,0.84,1
+12,"Pesticide Spraying, Tractor Driving",Tractor Driving,10.63,3.1,4.3,0.67,1
+10,"Harvesting, Pruning, Tractor Driving",Pesticide Spraying,3.28,3.2,4.9,0.78,1
+12,"Pruning, Harvesting, Pesticide Spraying",Pruning,11.04,3.6,4.7,0.76,1
+6,Irrigation Setup,Pruning,0.62,3.4,4.9,0.73,1
+15,"Tractor Driving, Irrigation Setup, Harvesting",Tractor Driving,17.17,4.3,4.2,0.98,1
+5,Irrigation Setup,Seeding,32.16,3.8,3.7,0.66,0
+4,Pruning,Pruning,11.64,3.0,4.5,0.38,0
+8,Seeding,Irrigation Setup,18.83,4.8,4.1,0.64,1
+1,"Pruning, Seeding",Pruning,16.91,3.3,4.6,0.94,1
+14,Harvesting,Pesticide Spraying,5.93,4.0,4.6,0.91,1
+7,Pesticide Spraying,Irrigation Setup,25.85,4.5,4.4,0.63,0
+2,Pruning,Harvesting,32.7,4.4,4.6,0.45,0
+1,Irrigation Setup,Irrigation Setup,10.92,4.3,3.8,0.5,1
+15,"Pruning, Seeding, Tractor Driving",Irrigation Setup,28.85,4.0,4.1,0.52,0
+2,"Tractor Driving, Harvesting, Seeding",Irrigation Setup,2.73,4.7,4.2,0.61,0
+5,Pruning,Irrigation Setup,30.13,3.9,3.8,0.47,0
+12,Pruning,Seeding,12.32,4.6,4.0,0.37,0
+14,Tractor Driving,Irrigation Setup,27.03,3.4,4.2,0.46,0
+13,"Tractor Driving, Harvesting, Irrigation Setup",Irrigation Setup,11.22,4.0,4.2,0.63,1
+9,Pesticide Spraying,Harvesting,17.72,4.2,4.3,0.64,0
+13,"Seeding, Tractor Driving",Seeding,28.4,4.8,3.8,0.46,1
+6,Harvesting,Harvesting,33.17,3.7,3.6,0.66,1
+9,"Seeding, Irrigation Setup",Tractor Driving,10.48,4.0,4.1,0.83,1
+7,Tractor Driving,Pruning,16.13,3.3,3.8,0.66,0
+4,"Irrigation Setup, Pruning",Pesticide Spraying,3.89,3.2,3.6,0.31,0
+15,Irrigation Setup,Seeding,8.79,3.3,3.9,0.93,0
+9,"Tractor Driving, Pesticide Spraying, Irrigation Setup",Harvesting,19.26,4.1,3.9,0.69,1
+7,"Tractor Driving, Pesticide Spraying, Harvesting",Harvesting,1.9,4.1,3.9,0.63,1
+7,"Tractor Driving, Pruning",Tractor Driving,6.01,4.5,4.9,0.85,1
+4,"Pesticide Spraying, Seeding, Tractor Driving",Pruning,18.76,3.6,3.5,0.77,0
+10,Seeding,Harvesting,6.17,3.6,4.1,0.88,0
+11,Harvesting,Irrigation Setup,11.43,4.1,3.5,0.33,0
+13,"Pruning, Tractor Driving, Harvesting",Pruning,27.56,3.7,4.7,0.59,1
+15,Harvesting,Harvesting,3.05,3.4,4.0,0.64,1
+5,Harvesting,Irrigation Setup,4.68,3.2,3.6,0.32,1
+1,"Seeding, Pesticide Spraying, Pruning",Irrigation Setup,10.76,3.2,4.6,0.72,0
+10,"Irrigation Setup, Tractor Driving",Tractor Driving,3.93,4.8,4.2,0.88,1
+8,Irrigation Setup,Pesticide Spraying,33.26,4.1,3.9,0.97,0
+1,"Pruning, Irrigation Setup, Tractor Driving",Tractor Driving,17.4,3.3,5.0,0.41,1
+13,"Irrigation Setup, Harvesting, Tractor Driving",Irrigation Setup,33.83,4.6,4.4,0.51,1
+1,"Seeding, Harvesting",Irrigation Setup,1.71,4.8,4.7,0.51,0
+2,"Pesticide Spraying, Pruning",Harvesting,5.56,3.9,4.6,0.48,1
+8,"Tractor Driving, Irrigation Setup, Harvesting",Seeding,34.63,3.1,4.4,0.61,0
+6,Seeding,Pesticide Spraying,8.37,4.2,4.0,0.45,0
+6,"Seeding, Tractor Driving, Pruning",Irrigation Setup,7.75,4.5,3.7,0.7,1
+9,"Tractor Driving, Pesticide Spraying, Harvesting",Tractor Driving,6.84,3.1,3.5,0.99,1
+4,Tractor Driving,Irrigation Setup,9.62,4.3,4.3,0.96,0
+6,"Pruning, Tractor Driving",Tractor Driving,12.44,3.8,3.6,0.39,1
+5,"Harvesting, Irrigation Setup, Pesticide Spraying",Pesticide Spraying,24.82,4.9,3.9,0.33,1
+5,Pruning,Pesticide Spraying,6.14,4.5,5.0,0.96,1
+10,"Seeding, Pruning",Harvesting,8.43,3.5,4.4,0.57,1
+8,Irrigation Setup,Harvesting,13.25,4.0,4.3,0.43,0
+2,"Tractor Driving, Irrigation Setup, Harvesting",Pruning,18.31,3.6,4.1,0.51,0
+8,"Harvesting, Irrigation Setup, Tractor Driving",Irrigation Setup,18.6,3.8,4.3,0.36,1
+8,"Seeding, Irrigation Setup",Pesticide Spraying,27.29,4.7,4.3,0.73,0
+14,"Tractor Driving, Pesticide Spraying",Tractor Driving,34.16,3.6,4.1,0.75,1
+14,Pesticide Spraying,Tractor Driving,20.75,4.1,4.6,0.87,1
+10,Tractor Driving,Irrigation Setup,24.11,3.5,3.5,0.78,0
+6,"Tractor Driving, Pruning",Tractor Driving,17.8,4.2,4.2,0.65,1
+9,Pruning,Seeding,21.02,3.8,4.1,0.48,0
+5,"Harvesting, Pruning",Tractor Driving,24.17,4.7,3.9,0.44,0
+8,Seeding,Pruning,15.7,3.4,4.4,0.4,0
+15,Pruning,Pesticide Spraying,3.79,3.6,4.5,0.77,1
+3,Pruning,Irrigation Setup,6.66,3.9,4.7,0.89,0
+3,Irrigation Setup,Pesticide Spraying,8.2,3.6,3.6,0.75,1
+14,"Tractor Driving, Pesticide Spraying",Tractor Driving,26.45,4.9,4.6,0.89,1
+4,Irrigation Setup,Seeding,22.88,3.2,4.3,0.61,0
+8,Pesticide Spraying,Tractor Driving,17.55,3.2,3.9,0.99,0
+6,Pruning,Pruning,9.22,4.0,4.0,0.94,1
+1,"Tractor Driving, Pesticide Spraying",Tractor Driving,13.61,4.7,4.4,0.73,1
+13,"Seeding, Tractor Driving",Irrigation Setup,11.96,3.6,3.4,0.71,0
+4,"Tractor Driving, Seeding, Irrigation Setup",Harvesting,23.46,3.0,4.8,0.61,0
+2,"Seeding, Pruning",Tractor Driving,25.47,3.2,4.5,0.47,0
+8,"Pruning, Irrigation Setup, Pesticide Spraying",Harvesting,33.66,4.2,4.7,0.38,0
+13,"Pruning, Tractor Driving, Seeding",Pesticide Spraying,6.21,3.5,3.7,0.72,1
+1,"Seeding, Tractor Driving",Seeding,7.69,4.3,4.3,0.88,1
+5,Seeding,Harvesting,27.8,3.5,4.5,0.48,0
+1,"Harvesting, Irrigation Setup",Pruning,32.59,4.7,5.0,0.32,0
+7,"Seeding, Harvesting, Pruning",Seeding,17.24,3.7,4.3,0.82,1
+12,"Pruning, Harvesting",Pruning,13.12,4.0,4.3,0.81,1
+3,"Tractor Driving, Harvesting",Seeding,25.4,3.5,4.8,0.6,0
+5,Irrigation Setup,Irrigation Setup,4.44,3.4,4.2,0.89,1
+7,"Tractor Driving, Irrigation Setup",Pesticide Spraying,7.09,4.7,4.7,0.5,0
+3,"Tractor Driving, Harvesting",Harvesting,20.8,5.0,3.7,0.33,0
+6,"Irrigation Setup, Pesticide Spraying",Tractor Driving,32.98,4.2,3.6,0.7,0
+8,"Pruning, Seeding, Harvesting",Pruning,18.72,3.5,4.5,0.68,1
+10,"Tractor Driving, Pruning",Tractor Driving,28.81,3.1,4.4,0.54,1
+13,"Irrigation Setup, Pruning",Irrigation Setup,31.33,4.8,3.5,0.87,1
+3,"Harvesting, Irrigation Setup, Pruning",Irrigation Setup,33.31,4.2,4.5,0.51,0
+4,"Seeding, Harvesting",Pesticide Spraying,20.45,4.4,4.9,0.79,0
+5,"Pesticide Spraying, Seeding",Seeding,25.29,4.4,4.5,0.64,1
+2,"Tractor Driving, Harvesting, Pesticide Spraying",Irrigation Setup,28.91,4.2,4.1,0.96,0
+2,Seeding,Irrigation Setup,34.92,4.8,4.7,0.56,0
+10,"Harvesting, Irrigation Setup",Pruning,10.05,4.3,3.7,0.71,0
+2,"Pruning, Seeding",Harvesting,29.47,4.7,4.6,0.92,0
+14,"Pesticide Spraying, Tractor Driving",Irrigation Setup,11.17,3.4,4.8,0.58,1
+4,"Irrigation Setup, Harvesting, Tractor Driving",Tractor Driving,22.46,3.1,4.9,0.97,1
+8,"Tractor Driving, Seeding",Harvesting,19.94,3.3,4.5,0.66,0
+12,"Pruning, Seeding, Tractor Driving",Irrigation Setup,5.35,3.8,3.6,0.7,1
+8,Pesticide Spraying,Pesticide Spraying,11.6,5.0,4.5,0.33,1
+13,"Seeding, Pruning",Pesticide Spraying,4.77,4.1,4.8,0.98,1
+7,Harvesting,Pesticide Spraying,9.42,3.3,4.5,0.66,1
+9,"Pruning, Irrigation Setup",Seeding,24.08,4.6,3.4,0.92,0
+8,"Harvesting, Pruning, Pesticide Spraying",Pruning,26.41,4.5,4.5,0.77,1
+11,"Pesticide Spraying, Harvesting, Tractor Driving",Pruning,29.79,4.5,4.7,0.51,0
+6,Harvesting,Pruning,9.93,4.3,4.5,0.91,1
+13,Pesticide Spraying,Harvesting,6.36,3.6,5.0,0.99,1
+10,Tractor Driving,Pesticide Spraying,26.3,4.9,3.5,0.34,0
+7,Irrigation Setup,Tractor Driving,20.41,4.1,4.6,0.65,0
+11,"Tractor Driving, Irrigation Setup",Seeding,11.12,3.6,4.7,0.35,0
+3,"Harvesting, Pesticide Spraying, Pruning",Irrigation Setup,30.92,4.2,3.6,0.62,0
+4,"Tractor Driving, Pruning, Pesticide Spraying",Pruning,9.48,4.4,3.6,0.32,1
+8,"Irrigation Setup, Harvesting",Pesticide Spraying,2.01,3.1,4.3,0.83,0
+15,Harvesting,Harvesting,3.49,3.7,4.1,0.5,1
+15,Seeding,Irrigation Setup,33.41,3.4,4.9,0.6,0
+2,"Pruning, Seeding",Pesticide Spraying,14.44,3.4,3.6,0.7,0
+6,"Irrigation Setup, Pesticide Spraying, Pruning",Seeding,3.64,3.8,4.9,0.68,0
+4,"Irrigation Setup, Seeding, Pruning",Pruning,33.6,3.8,3.9,0.91,0
+10,"Seeding, Tractor Driving",Pesticide Spraying,7.54,4.3,3.5,0.72,1
+10,Pesticide Spraying,Tractor Driving,28.26,5.0,4.0,0.61,1
+13,"Pesticide Spraying, Irrigation Setup",Harvesting,10.8,4.3,3.7,0.78,1
+12,Pesticide Spraying,Pesticide Spraying,18.32,4.1,4.5,0.97,1
+2,"Tractor Driving, Seeding",Tractor Driving,7.12,4.2,3.5,0.57,1
+9,"Seeding, Pesticide Spraying, Tractor Driving",Tractor Driving,34.4,4.1,4.7,0.89,0
+7,"Irrigation Setup, Tractor Driving, Seeding",Tractor Driving,17.78,4.4,3.8,0.53,1
+7,Harvesting,Pesticide Spraying,26.31,4.3,4.6,0.61,0
+6,"Tractor Driving, Pruning, Pesticide Spraying",Pesticide Spraying,1.37,4.8,3.4,0.96,1
+3,Tractor Driving,Seeding,29.88,4.0,4.5,0.57,0
+1,"Harvesting, Pesticide Spraying, Seeding",Tractor Driving,15.18,4.3,4.6,0.3,0
+7,"Pruning, Seeding",Tractor Driving,23.93,3.4,3.8,0.86,0
+10,"Pesticide Spraying, Harvesting, Seeding",Pruning,11.24,3.2,3.6,0.8,0
+12,"Tractor Driving, Pruning",Pesticide Spraying,29.6,3.5,4.1,0.73,0
+9,Harvesting,Irrigation Setup,8.28,4.0,3.8,0.96,0
+11,"Seeding, Pesticide Spraying, Irrigation Setup",Pruning,22.2,4.9,4.3,0.8,0
+3,"Seeding, Tractor Driving",Seeding,30.03,4.9,3.9,0.69,1
+4,"Pruning, Pesticide Spraying, Harvesting",Irrigation Setup,14.65,3.4,4.8,0.41,0
+5,"Harvesting, Tractor Driving",Irrigation Setup,31.73,4.7,4.2,0.59,0
+13,"Harvesting, Pesticide Spraying, Irrigation Setup",Pruning,2.63,3.9,4.7,0.73,0
+2,"Tractor Driving, Pruning, Pesticide Spraying",Harvesting,4.41,3.0,3.9,0.79,0
+8,"Harvesting, Seeding",Irrigation Setup,18.08,3.3,4.3,0.59,0
+11,Seeding,Seeding,7.13,3.1,3.7,0.31,1
+6,Pesticide Spraying,Tractor Driving,13.3,3.4,4.1,0.99,0
+2,Harvesting,Seeding,29.42,3.1,4.9,0.92,0
+14,"Irrigation Setup, Harvesting",Seeding,0.84,3.9,3.8,0.57,1
+10,"Tractor Driving, Pruning",Pesticide Spraying,16.17,4.1,4.8,0.37,0
+15,"Seeding, Irrigation Setup, Harvesting",Irrigation Setup,13.97,3.6,4.0,0.41,1
+7,"Pruning, Tractor Driving",Irrigation Setup,2.91,4.4,4.2,0.93,0
+12,"Pesticide Spraying, Pruning",Pesticide Spraying,9.24,4.8,4.3,0.45,1
+13,Pesticide Spraying,Pesticide Spraying,16.91,3.1,3.9,0.5,1
+12,"Pesticide Spraying, Pruning",Seeding,17.38,4.8,4.1,0.68,1
+1,Tractor Driving,Irrigation Setup,21.43,4.5,4.1,0.63,0
+6,"Irrigation Setup, Pruning",Pruning,22.78,4.4,3.7,0.36,0
+4,"Tractor Driving, Pruning",Irrigation Setup,22.28,3.2,4.4,0.37,0
+4,"Tractor Driving, Seeding",Seeding,26.99,4.2,3.9,0.48,1
+15,Tractor Driving,Tractor Driving,12.49,5.0,4.8,0.33,1
+6,"Pruning, Seeding",Pesticide Spraying,31.57,3.3,4.0,0.4,0
+14,Seeding,Pruning,27.7,4.3,4.0,0.42,1
+15,Harvesting,Pruning,2.28,4.8,4.2,0.77,1
+14,"Pesticide Spraying, Pruning, Tractor Driving",Seeding,8.77,4.5,4.3,0.48,0
+13,"Irrigation Setup, Seeding",Tractor Driving,4.76,3.1,4.5,0.72,0
+5,Tractor Driving,Pruning,34.4,4.3,3.7,0.93,0
+13,"Seeding, Pruning",Harvesting,12.51,3.8,3.4,0.49,0
+5,"Seeding, Pesticide Spraying",Pruning,7.62,4.4,3.8,0.61,0
+15,"Irrigation Setup, Pruning, Tractor Driving",Harvesting,29.41,3.6,4.5,0.4,0
+5,Tractor Driving,Pesticide Spraying,9.81,3.6,3.6,0.49,0
+4,"Irrigation Setup, Pruning",Harvesting,10.45,4.4,4.6,0.51,0
+1,"Irrigation Setup, Pesticide Spraying, Pruning",Tractor Driving,32.31,4.1,4.0,0.83,0
+8,"Irrigation Setup, Tractor Driving",Harvesting,23.69,3.1,4.5,0.89,0
+12,Pesticide Spraying,Pruning,23.79,4.5,4.2,0.73,0
+5,Seeding,Irrigation Setup,7.46,3.5,3.9,0.71,0
+3,"Seeding, Pruning",Seeding,14.39,4.7,3.8,0.67,1
+12,"Pesticide Spraying, Pruning",Irrigation Setup,22.58,3.5,3.6,0.86,1
+2,Pesticide Spraying,Seeding,9.64,4.6,4.3,0.34,0
+10,"Seeding, Harvesting, Pesticide Spraying",Tractor Driving,1.72,4.4,4.1,0.37,0
+3,"Harvesting, Tractor Driving, Pesticide Spraying",Pruning,16.66,4.4,4.1,0.38,0
+15,"Tractor Driving, Pesticide Spraying, Irrigation Setup",Harvesting,24.35,4.6,4.0,0.54,1
+9,"Pesticide Spraying, Pruning",Irrigation Setup,11.67,4.7,3.6,0.6,1
+5,"Harvesting, Pesticide Spraying",Pesticide Spraying,33.81,3.0,4.2,0.53,0
+10,"Irrigation Setup, Harvesting, Tractor Driving",Irrigation Setup,8.66,3.3,4.5,0.35,1
+9,Harvesting,Seeding,8.97,4.2,4.3,0.56,0
+7,Seeding,Pesticide Spraying,12.84,4.6,4.6,0.93,0
+3,"Irrigation Setup, Pesticide Spraying",Pesticide Spraying,33.29,4.5,3.5,0.92,0
+4,"Irrigation Setup, Pesticide Spraying, Harvesting",Seeding,20.63,5.0,4.3,0.93,1
+13,"Pesticide Spraying, Tractor Driving, Harvesting",Tractor Driving,26.26,3.2,3.8,0.87,1
+9,"Pesticide Spraying, Irrigation Setup, Pruning",Pruning,1.95,4.6,4.4,0.44,1
+2,"Tractor Driving, Harvesting",Tractor Driving,22.05,4.4,3.6,0.85,1
+14,Seeding,Tractor Driving,14.47,3.6,4.6,0.47,1
+9,Seeding,Seeding,27.85,5.0,4.5,0.99,1
+15,"Seeding, Irrigation Setup, Harvesting",Pruning,0.31,3.3,4.9,0.91,1
+9,"Harvesting, Irrigation Setup",Tractor Driving,19.98,4.1,4.2,0.85,1
+11,Pruning,Pesticide Spraying,14.05,4.9,4.3,0.5,1
+10,"Irrigation Setup, Pesticide Spraying",Tractor Driving,14.28,3.1,4.3,0.8,1
+11,"Seeding, Irrigation Setup",Pesticide Spraying,32.26,3.6,3.8,0.67,0
+8,Irrigation Setup,Pesticide Spraying,31.38,3.2,4.5,0.65,0
+6,Irrigation Setup,Harvesting,14.26,4.6,4.9,0.39,0
+9,Tractor Driving,Irrigation Setup,32.84,3.2,3.4,0.86,0
+13,Irrigation Setup,Tractor Driving,7.06,4.6,4.7,0.64,1
+12,"Tractor Driving, Irrigation Setup",Tractor Driving,31.87,5.0,3.7,0.39,1
+15,Pruning,Irrigation Setup,0.54,3.3,3.5,1.0,1
+1,Harvesting,Harvesting,18.47,3.4,3.9,0.53,1
+6,"Pruning, Harvesting",Tractor Driving,14.01,3.7,3.7,0.56,0
+8,Harvesting,Irrigation Setup,20.51,4.4,4.3,0.78,1
+1,"Seeding, Harvesting, Pruning",Harvesting,32.81,3.8,4.5,0.48,1
+15,"Harvesting, Irrigation Setup",Pesticide Spraying,16.53,4.7,4.7,0.99,0
+13,"Harvesting, Irrigation Setup, Seeding",Seeding,19.66,3.8,4.2,0.69,1
+12,Seeding,Tractor Driving,25.51,4.9,4.7,0.41,0
+15,Irrigation Setup,Pesticide Spraying,12.44,4.1,4.0,0.39,0
+6,Harvesting,Tractor Driving,0.46,3.6,4.2,0.53,1
+5,"Pesticide Spraying, Seeding, Irrigation Setup",Pesticide Spraying,24.69,4.6,4.4,0.41,0
+2,Seeding,Irrigation Setup,23.22,4.5,4.1,0.78,0
+5,"Tractor Driving, Seeding, Harvesting",Harvesting,20.8,4.8,4.7,0.95,0
+2,"Harvesting, Seeding, Tractor Driving",Irrigation Setup,7.39,3.5,5.0,0.37,0
+7,Pesticide Spraying,Tractor Driving,21.6,4.6,3.5,0.43,0
+15,"Harvesting, Irrigation Setup, Tractor Driving",Seeding,28.65,3.0,4.5,0.56,0
+7,"Pruning, Pesticide Spraying, Tractor Driving",Pruning,2.48,4.6,4.2,0.39,1
+4,"Harvesting, Tractor Driving, Pesticide Spraying",Pruning,26.05,4.0,4.1,0.58,1
+13,"Tractor Driving, Seeding",Tractor Driving,8.13,3.1,4.6,0.87,1
+13,"Harvesting, Pesticide Spraying",Harvesting,15.61,3.0,3.5,0.66,0
+2,"Harvesting, Seeding",Tractor Driving,27.52,3.2,4.2,0.89,0
+13,"Pesticide Spraying, Irrigation Setup",Seeding,22.66,3.1,4.7,0.85,0
+6,"Harvesting, Irrigation Setup, Pesticide Spraying",Pruning,7.76,3.1,3.7,0.43,0
+15,Pruning,Pesticide Spraying,27.84,4.2,5.0,0.75,0
+3,"Seeding, Pesticide Spraying",Irrigation Setup,14.03,3.6,4.8,0.82,0
+11,"Tractor Driving, Seeding",Pruning,3.96,3.4,3.9,0.68,0
+5,"Pruning, Tractor Driving",Harvesting,28.94,3.3,4.8,0.9,0
+14,"Irrigation Setup, Pesticide Spraying",Tractor Driving,6.45,3.9,3.6,0.7,1
+4,Irrigation Setup,Pruning,32.95,4.0,4.1,0.85,0
+12,"Harvesting, Pruning, Seeding",Seeding,4.63,3.1,3.4,0.92,1
+6,"Irrigation Setup, Harvesting, Seeding",Tractor Driving,1.44,3.9,4.4,0.88,1
+9,"Pruning, Seeding",Harvesting,17.29,4.5,4.7,0.54,0
+13,"Tractor Driving, Harvesting, Pesticide Spraying",Tractor Driving,2.09,3.3,4.7,0.39,1
+6,"Tractor Driving, Seeding",Pruning,22.03,4.4,4.4,0.98,0
+7,Tractor Driving,Pruning,4.22,3.3,4.1,0.58,0
+3,"Pruning, Pesticide Spraying, Seeding",Irrigation Setup,16.57,3.6,3.8,0.65,0
+3,"Pesticide Spraying, Pruning",Irrigation Setup,18.17,3.3,4.5,0.9,0
+12,"Pruning, Irrigation Setup, Pesticide Spraying",Tractor Driving,23.58,4.4,3.9,0.63,0
+13,"Harvesting, Irrigation Setup",Pesticide Spraying,3.41,4.9,4.5,0.85,1
+6,"Pruning, Tractor Driving",Irrigation Setup,12.72,3.6,4.7,0.56,0
+7,Harvesting,Harvesting,20.54,4.1,4.1,0.45,1
+5,"Harvesting, Irrigation Setup, Pruning",Irrigation Setup,2.61,3.0,4.2,0.54,0
+3,Tractor Driving,Pruning,15.99,3.3,3.5,0.84,0
+9,"Irrigation Setup, Pesticide Spraying, Tractor Driving",Pesticide Spraying,5.5,4.1,3.8,0.46,1
+11,"Seeding, Harvesting, Irrigation Setup",Irrigation Setup,27.48,3.5,4.5,0.3,0
+13,"Pruning, Irrigation Setup, Tractor Driving",Pesticide Spraying,7.21,4.2,3.5,0.9,0
+14,"Pruning, Irrigation Setup, Pesticide Spraying",Seeding,6.96,3.7,4.6,0.77,1
+11,"Seeding, Irrigation Setup",Harvesting,7.48,4.3,4.1,0.43,0
+14,Pruning,Harvesting,34.48,3.6,3.8,0.49,0
+1,"Pruning, Pesticide Spraying",Pruning,24.41,3.9,4.9,0.4,0
+3,"Pruning, Harvesting",Harvesting,29.57,3.4,4.6,0.78,0
+6,Seeding,Irrigation Setup,28.18,5.0,3.8,0.61,0
+3,"Irrigation Setup, Tractor Driving",Pruning,0.83,3.4,3.9,0.61,1
+8,"Tractor Driving, Pesticide Spraying",Irrigation Setup,25.33,4.4,4.2,0.85,0
+13,"Pruning, Harvesting",Seeding,0.4,3.5,4.9,0.95,1
+12,"Pruning, Seeding, Irrigation Setup",Pruning,5.04,4.5,3.4,0.95,1
+13,"Tractor Driving, Seeding, Harvesting",Pruning,4.99,3.9,4.9,0.43,0
+4,"Pruning, Seeding",Pruning,15.1,3.3,3.4,0.91,1
+15,"Irrigation Setup, Pesticide Spraying, Seeding",Pesticide Spraying,10.04,4.9,3.6,0.81,1
+5,Harvesting,Seeding,12.8,4.9,4.9,0.92,0
+7,Tractor Driving,Pesticide Spraying,24.17,3.6,3.8,0.97,0
+4,"Irrigation Setup, Seeding",Harvesting,12.67,3.3,4.2,0.86,0
+7,"Pesticide Spraying, Pruning, Harvesting",Pruning,18.95,3.0,4.1,0.85,1
+8,"Pesticide Spraying, Pruning",Pesticide Spraying,33.91,3.2,4.0,0.58,0
+10,Irrigation Setup,Tractor Driving,11.54,3.3,4.8,0.63,0
+8,Tractor Driving,Irrigation Setup,28.65,3.3,4.8,0.72,0
+4,"Seeding, Harvesting",Irrigation Setup,28.15,4.7,3.6,0.98,0
+11,Pesticide Spraying,Harvesting,22.79,3.8,4.0,0.78,1
+15,"Tractor Driving, Harvesting",Seeding,10.3,3.5,4.5,0.59,0
+9,"Harvesting, Pruning",Irrigation Setup,30.9,4.0,4.3,0.94,0
+11,"Seeding, Irrigation Setup",Pruning,7.31,4.9,4.1,0.42,1
+14,"Harvesting, Pruning",Seeding,30.18,3.1,4.5,0.42,0
+4,Pesticide Spraying,Pruning,7.79,3.3,3.9,0.37,1
+1,"Pruning, Pesticide Spraying, Harvesting",Pruning,16.62,4.7,4.6,0.66,1
+3,Irrigation Setup,Irrigation Setup,5.33,4.5,4.4,0.76,1
+11,Pesticide Spraying,Pruning,18.68,3.7,4.2,0.76,0
+15,"Irrigation Setup, Pesticide Spraying, Tractor Driving",Seeding,26.42,4.6,4.8,0.64,0
+11,"Pesticide Spraying, Pruning",Tractor Driving,8.97,4.3,4.8,0.59,0
+1,"Irrigation Setup, Harvesting",Seeding,20.14,4.8,4.0,0.99,0
+13,Pesticide Spraying,Pesticide Spraying,0.82,3.3,5.0,0.43,1
+3,Pesticide Spraying,Seeding,22.38,4.7,4.7,0.54,0
+8,"Tractor Driving, Seeding",Irrigation Setup,24.13,4.3,3.8,0.32,0
+14,Irrigation Setup,Seeding,28.41,4.1,4.9,0.65,0
+10,Seeding,Pesticide Spraying,29.0,3.9,3.8,0.49,0
+2,"Harvesting, Seeding",Seeding,10.92,4.9,4.3,0.59,1
+12,"Pruning, Tractor Driving",Pesticide Spraying,14.62,3.5,4.3,0.56,0
+4,Irrigation Setup,Pesticide Spraying,7.36,3.3,4.8,0.6,0
+11,"Pesticide Spraying, Pruning, Irrigation Setup",Tractor Driving,31.49,4.9,4.9,0.31,0
+7,"Pruning, Pesticide Spraying",Seeding,9.05,4.6,4.9,0.4,0
+2,"Pruning, Seeding, Tractor Driving",Harvesting,1.49,3.3,4.2,0.72,1
+3,"Irrigation Setup, Seeding, Tractor Driving",Seeding,5.29,3.0,4.7,0.42,1
+6,"Tractor Driving, Pruning",Pesticide Spraying,24.12,3.8,4.4,0.52,0
+1,"Seeding, Irrigation Setup, Pruning",Seeding,15.15,4.3,3.8,0.31,1
+1,"Irrigation Setup, Harvesting, Tractor Driving",Pesticide Spraying,13.35,3.1,4.9,0.59,0
+9,"Tractor Driving, Irrigation Setup",Tractor Driving,29.04,3.6,3.8,0.48,1
+11,"Irrigation Setup, Pesticide Spraying, Pruning",Pruning,30.27,4.3,3.7,0.75,1
+2,"Harvesting, Tractor Driving",Pruning,23.35,3.9,4.8,0.89,0
+13,"Pesticide Spraying, Tractor Driving",Pesticide Spraying,9.27,4.8,4.7,0.78,1
+12,"Seeding, Tractor Driving, Pruning",Tractor Driving,13.78,4.7,4.6,0.58,1
+8,Tractor Driving,Tractor Driving,23.11,3.8,3.6,0.86,1
+4,Tractor Driving,Pesticide Spraying,13.69,5.0,4.0,0.36,1
+5,"Pruning, Seeding",Pruning,10.28,3.3,3.9,0.46,1
+12,"Irrigation Setup, Harvesting",Tractor Driving,17.81,3.3,3.6,0.39,1
+2,Pesticide Spraying,Tractor Driving,26.25,3.4,4.6,0.88,0
+3,Pesticide Spraying,Pesticide Spraying,8.3,3.7,3.7,0.64,1
+5,"Seeding, Tractor Driving, Harvesting",Irrigation Setup,28.27,3.5,3.8,0.71,0
+5,"Harvesting, Irrigation Setup",Harvesting,4.71,3.8,3.7,0.48,1
+6,"Seeding, Pesticide Spraying",Harvesting,1.59,4.1,4.5,0.54,1
+14,"Pesticide Spraying, Harvesting",Pruning,27.12,3.7,3.6,0.9,0
+13,"Tractor Driving, Irrigation Setup, Harvesting",Seeding,15.42,3.9,3.4,0.38,1
+3,"Seeding, Harvesting, Pesticide Spraying",Pruning,23.49,4.8,3.5,0.4,0
+4,Tractor Driving,Seeding,11.53,3.0,4.2,0.64,0
+13,Pesticide Spraying,Pesticide Spraying,26.8,3.5,4.2,0.99,1
+8,"Irrigation Setup, Pruning, Tractor Driving",Pruning,10.09,3.4,4.2,0.41,1
+7,Tractor Driving,Harvesting,14.25,4.7,4.0,0.76,0
+5,Tractor Driving,Pesticide Spraying,26.65,3.6,4.1,0.47,0
+6,"Pruning, Pesticide Spraying",Seeding,4.71,3.1,4.8,0.51,0
+13,Pruning,Seeding,18.84,4.7,4.3,0.34,0
+6,"Irrigation Setup, Harvesting",Pesticide Spraying,18.05,4.9,3.5,0.65,0
+14,"Pruning, Irrigation Setup, Tractor Driving",Pesticide Spraying,27.48,3.7,3.9,0.69,1
+2,Pesticide Spraying,Pruning,0.96,4.5,4.9,0.76,1
+5,"Pesticide Spraying, Irrigation Setup, Harvesting",Irrigation Setup,2.43,4.1,4.2,0.4,1
+14,"Harvesting, Irrigation Setup, Tractor Driving",Pesticide Spraying,4.61,3.4,3.5,0.7,1
+7,"Pruning, Pesticide Spraying, Seeding",Irrigation Setup,8.59,4.7,4.7,0.88,0
+5,Seeding,Tractor Driving,14.8,4.1,4.4,0.55,0
+13,"Pruning, Harvesting",Pruning,8.08,3.2,4.9,0.69,1
+15,"Pesticide Spraying, Harvesting",Tractor Driving,11.86,3.7,3.7,0.71,1
+1,"Tractor Driving, Irrigation Setup",Pruning,32.02,4.1,4.0,0.31,0
+9,"Pesticide Spraying, Pruning, Harvesting",Pesticide Spraying,11.09,3.2,3.8,0.88,0
+12,Pruning,Pruning,0.64,3.3,3.9,0.71,1
+7,"Pruning, Pesticide Spraying, Irrigation Setup",Harvesting,11.58,3.3,3.9,0.31,0
+11,Irrigation Setup,Pesticide Spraying,30.55,4.4,3.6,0.4,0
+7,"Harvesting, Pesticide Spraying, Pruning",Seeding,27.26,4.7,3.7,0.36,0
+9,"Seeding, Pesticide Spraying, Pruning",Irrigation Setup,34.12,4.2,4.6,0.38,0
+11,Harvesting,Irrigation Setup,21.65,4.7,3.7,0.72,0
+6,"Tractor Driving, Pruning, Irrigation Setup",Harvesting,29.7,3.7,3.6,0.59,0
+6,"Tractor Driving, Pesticide Spraying",Pesticide Spraying,23.47,4.2,4.4,0.36,0
+8,"Harvesting, Irrigation Setup, Tractor Driving",Tractor Driving,13.02,4.5,4.9,0.38,1
+7,"Irrigation Setup, Tractor Driving, Pruning",Pesticide Spraying,10.83,4.7,4.7,0.95,1
+4,"Pruning, Tractor Driving",Pesticide Spraying,9.95,3.8,3.7,0.83,0
+13,Irrigation Setup,Seeding,11.5,4.3,4.8,0.73,0
+12,"Pesticide Spraying, Tractor Driving",Harvesting,6.96,4.3,4.4,0.97,0
+1,"Pesticide Spraying, Tractor Driving",Pruning,20.84,4.5,4.3,0.35,0
+13,"Seeding, Tractor Driving",Harvesting,21.39,3.8,3.8,0.42,0
+12,Seeding,Irrigation Setup,25.3,4.3,3.9,0.83,0
+10,"Irrigation Setup, Tractor Driving, Harvesting",Pruning,19.5,3.0,4.5,0.56,0
+2,Pesticide Spraying,Irrigation Setup,18.09,3.9,4.4,0.78,0
+12,Harvesting,Pruning,10.57,4.0,3.7,0.98,1
+10,"Pruning, Seeding, Pesticide Spraying",Tractor Driving,1.94,3.1,3.8,0.78,0
+6,Pesticide Spraying,Tractor Driving,12.12,3.6,4.3,0.65,0
+6,"Harvesting, Irrigation Setup, Pruning",Pruning,32.48,3.9,4.5,0.94,1
+6,"Pruning, Harvesting, Tractor Driving",Irrigation Setup,3.9,4.6,3.5,0.76,1
+3,Tractor Driving,Pesticide Spraying,4.22,4.1,3.6,0.91,0
+8,"Irrigation Setup, Pruning",Pruning,4.27,5.0,4.1,0.54,1
+6,Pruning,Tractor Driving,19.74,3.0,4.2,0.57,0
+6,"Tractor Driving, Pesticide Spraying, Irrigation Setup",Pruning,25.83,3.4,3.6,0.52,0
+2,Pruning,Tractor Driving,14.77,4.3,4.2,0.66,0
+10,Pesticide Spraying,Pesticide Spraying,18.23,4.6,4.3,0.33,1
+7,Seeding,Pruning,10.45,3.7,4.9,0.8,1
+3,Pesticide Spraying,Seeding,32.31,4.7,4.6,0.57,0
+7,"Irrigation Setup, Pruning, Harvesting",Harvesting,28.92,3.6,4.9,0.56,0
+1,"Tractor Driving, Pesticide Spraying",Irrigation Setup,26.38,3.8,4.2,0.56,0
+12,"Irrigation Setup, Tractor Driving",Irrigation Setup,26.79,4.4,3.7,0.54,1
+2,"Irrigation Setup, Pruning",Irrigation Setup,26.25,3.9,4.6,0.74,0
+12,"Pesticide Spraying, Harvesting, Seeding",Seeding,8.14,4.2,4.1,0.35,1
+8,Harvesting,Pesticide Spraying,30.62,3.2,4.1,0.94,0
+6,Pruning,Pesticide Spraying,13.42,4.2,4.7,0.53,0
+6,"Irrigation Setup, Seeding, Harvesting",Harvesting,12.48,4.9,4.7,0.6,1
+12,"Seeding, Irrigation Setup",Pruning,33.03,4.1,4.3,0.62,0
+8,"Pruning, Pesticide Spraying",Tractor Driving,21.22,5.0,4.9,0.9,0
+14,"Harvesting, Seeding, Tractor Driving",Pesticide Spraying,15.16,4.8,4.9,0.93,0
+11,Seeding,Pruning,24.22,4.9,3.8,0.67,0
+14,"Pruning, Tractor Driving",Harvesting,9.62,4.6,4.3,0.76,1
+13,"Irrigation Setup, Seeding",Pruning,12.79,4.9,4.3,0.72,1
+5,Pesticide Spraying,Harvesting,25.77,3.8,4.0,0.59,0
+2,"Harvesting, Tractor Driving",Pruning,27.52,3.4,4.4,0.87,0
+12,"Irrigation Setup, Pesticide Spraying",Pruning,4.68,4.9,4.4,0.76,1
+9,"Pesticide Spraying, Seeding",Pesticide Spraying,4.06,4.9,3.9,0.45,1
+10,"Pesticide Spraying, Pruning, Tractor Driving",Pesticide Spraying,29.93,3.3,3.8,0.5,1
+5,"Pruning, Tractor Driving, Irrigation Setup",Harvesting,1.35,4.5,4.4,0.72,1
+15,Tractor Driving,Harvesting,27.99,4.1,3.4,0.6,0
+6,Tractor Driving,Harvesting,6.59,4.3,4.1,0.99,1
+9,"Pesticide Spraying, Tractor Driving",Irrigation Setup,33.4,4.6,4.8,0.31,0
+12,"Pruning, Harvesting",Pruning,16.99,3.4,4.7,0.68,1
+14,Pruning,Pesticide Spraying,20.1,4.9,4.1,0.72,0
+3,"Seeding, Pruning, Irrigation Setup",Pruning,14.33,3.3,4.5,0.95,1
+6,Irrigation Setup,Tractor Driving,31.84,4.9,3.5,0.58,1
+6,Pesticide Spraying,Harvesting,18.93,4.8,4.8,0.39,1
+3,Pesticide Spraying,Tractor Driving,13.92,3.6,4.7,0.62,0
+11,Irrigation Setup,Seeding,31.19,3.8,4.6,0.63,0
+12,"Seeding, Irrigation Setup",Tractor Driving,8.06,3.1,4.7,0.41,0
+12,"Harvesting, Seeding, Tractor Driving",Pruning,4.69,3.8,3.4,0.89,1
+12,Tractor Driving,Pruning,17.39,4.8,4.2,0.62,1
+9,"Harvesting, Pesticide Spraying, Irrigation Setup",Pesticide Spraying,29.19,3.8,4.5,0.91,1
+14,"Irrigation Setup, Harvesting, Pruning",Pesticide Spraying,11.65,3.5,3.7,0.84,1
+7,"Harvesting, Pesticide Spraying, Tractor Driving",Harvesting,27.1,3.9,3.9,0.43,0
+3,Pruning,Irrigation Setup,10.59,3.6,3.6,0.5,0
+5,"Pruning, Irrigation Setup, Pesticide Spraying",Seeding,26.62,3.4,3.5,0.87,0
+8,"Harvesting, Pesticide Spraying, Irrigation Setup",Irrigation Setup,9.94,5.0,4.8,0.66,1
+14,"Pruning, Pesticide Spraying, Tractor Driving",Tractor Driving,3.36,4.7,4.6,0.73,1
+10,Irrigation Setup,Pesticide Spraying,22.04,4.6,5.0,0.63,0
+15,"Harvesting, Irrigation Setup",Seeding,23.5,4.3,3.4,0.68,1
+1,"Pruning, Harvesting, Irrigation Setup",Pesticide Spraying,9.5,4.0,4.8,0.65,0
+10,Tractor Driving,Pruning,17.43,4.8,4.0,0.49,0
+11,Harvesting,Tractor Driving,19.56,4.8,4.4,0.65,0
+8,Pruning,Pruning,22.8,4.5,3.7,0.92,1
+2,"Irrigation Setup, Tractor Driving",Harvesting,16.34,3.1,5.0,0.89,0
+6,"Pruning, Irrigation Setup",Irrigation Setup,28.4,4.4,4.6,0.61,0
+9,"Irrigation Setup, Seeding",Tractor Driving,13.11,4.4,3.7,0.71,0
+11,"Irrigation Setup, Harvesting",Pesticide Spraying,23.69,4.1,4.7,0.83,1
+11,"Tractor Driving, Pruning, Seeding",Pruning,21.27,4.8,3.9,0.58,1
+11,"Pesticide Spraying, Seeding",Seeding,12.37,4.8,3.7,0.35,1
+12,"Harvesting, Pruning",Pesticide Spraying,20.63,3.4,4.6,0.43,1
+9,"Tractor Driving, Pruning, Seeding",Harvesting,14.85,3.4,3.9,0.65,0
+14,Seeding,Pesticide Spraying,8.81,4.2,4.1,0.74,0
+8,"Irrigation Setup, Tractor Driving",Irrigation Setup,30.62,3.2,3.8,0.79,1
+2,"Irrigation Setup, Tractor Driving, Pruning",Seeding,2.27,3.1,3.7,0.99,0
+7,"Irrigation Setup, Seeding, Harvesting",Pesticide Spraying,18.86,4.8,4.9,0.49,0
+7,"Pruning, Harvesting",Pruning,2.75,4.2,4.6,0.37,1
+7,"Tractor Driving, Irrigation Setup",Irrigation Setup,0.58,3.0,4.1,0.64,1
+10,"Tractor Driving, Seeding",Pruning,6.56,4.7,3.4,0.52,1
+14,"Seeding, Harvesting",Seeding,8.36,4.1,3.7,0.66,1
+9,Harvesting,Seeding,2.13,3.1,3.9,0.93,0
+2,Seeding,Pruning,9.47,4.1,4.2,0.95,0
+15,"Harvesting, Pruning",Irrigation Setup,13.32,5.0,3.4,1.0,1
+10,"Seeding, Pesticide Spraying, Irrigation Setup",Pesticide Spraying,2.37,3.5,4.9,0.55,1
+6,"Harvesting, Seeding, Irrigation Setup",Harvesting,10.62,3.6,4.6,0.46,1
+14,"Irrigation Setup, Pruning, Tractor Driving",Tractor Driving,13.69,4.4,3.5,0.98,1
+12,"Harvesting, Irrigation Setup",Pruning,33.98,4.4,3.9,0.52,0
+8,"Pesticide Spraying, Irrigation Setup, Pruning",Irrigation Setup,10.12,3.9,4.0,0.35,1
+15,"Seeding, Pesticide Spraying",Pesticide Spraying,30.53,4.3,3.9,0.78,1
+1,Tractor Driving,Tractor Driving,15.8,3.9,3.8,0.8,1
+5,Irrigation Setup,Seeding,18.07,3.7,4.1,0.78,0
+7,"Irrigation Setup, Harvesting",Pruning,11.26,4.2,4.4,0.58,1
+2,"Harvesting, Irrigation Setup, Pruning",Harvesting,3.98,3.2,3.9,0.73,1
+3,Tractor Driving,Irrigation Setup,3.99,3.2,3.4,0.6,0
+4,"Pruning, Irrigation Setup",Irrigation Setup,17.7,3.1,4.0,0.43,0
+5,"Seeding, Pruning, Pesticide Spraying",Seeding,20.56,3.4,3.5,0.63,1
+11,"Pesticide Spraying, Pruning, Irrigation Setup",Harvesting,25.84,4.1,4.9,0.56,0
+7,Tractor Driving,Harvesting,1.18,3.1,4.3,0.34,0
+15,Harvesting,Harvesting,10.87,4.6,3.7,0.47,1
+2,"Tractor Driving, Harvesting, Irrigation Setup",Pruning,18.67,3.8,3.9,0.73,0
+11,"Tractor Driving, Irrigation Setup, Pruning",Irrigation Setup,10.18,3.7,4.1,0.99,1
+9,"Tractor Driving, Harvesting, Pesticide Spraying",Pruning,33.23,3.2,4.9,0.55,0
+1,Pruning,Pruning,15.6,4.3,4.6,0.32,1
+3,Harvesting,Tractor Driving,7.6,3.6,4.7,0.41,1
+5,Irrigation Setup,Irrigation Setup,5.35,3.1,4.2,0.97,1
+3,"Pruning, Irrigation Setup",Harvesting,12.03,3.6,4.9,0.47,0
+4,"Seeding, Tractor Driving",Tractor Driving,17.81,4.4,4.3,0.88,1
+15,"Seeding, Pruning",Harvesting,8.93,4.3,4.5,0.31,1
+4,"Harvesting, Irrigation Setup",Irrigation Setup,17.52,4.6,4.0,0.37,1
+15,"Pruning, Irrigation Setup, Seeding",Irrigation Setup,24.15,3.7,4.5,0.41,1
+3,"Seeding, Irrigation Setup, Pesticide Spraying",Harvesting,7.97,3.5,4.3,0.4,1
+2,"Pruning, Irrigation Setup",Seeding,14.91,3.1,4.2,0.62,0
+13,"Irrigation Setup, Seeding, Pruning",Tractor Driving,18.0,3.3,4.6,0.58,0
+14,"Harvesting, Seeding, Irrigation Setup",Pruning,32.04,3.1,3.5,0.43,0
+4,"Pesticide Spraying, Seeding, Harvesting",Pesticide Spraying,27.11,3.3,3.5,0.76,0
+2,"Pruning, Irrigation Setup, Harvesting",Pruning,1.08,3.5,3.6,0.9,1
+5,"Irrigation Setup, Pesticide Spraying, Pruning",Irrigation Setup,31.65,3.2,5.0,0.9,0
+6,"Harvesting, Tractor Driving",Pesticide Spraying,6.03,4.8,4.1,0.5,1
+9,"Tractor Driving, Pruning, Pesticide Spraying",Pruning,26.03,3.8,3.9,0.72,0
+11,Seeding,Tractor Driving,34.81,4.9,4.7,0.78,0
+13,"Irrigation Setup, Pesticide Spraying, Pruning",Tractor Driving,10.23,3.4,4.9,0.31,0
+2,"Irrigation Setup, Pruning",Pruning,27.77,3.4,4.5,0.37,0
+2,"Irrigation Setup, Pesticide Spraying, Pruning",Tractor Driving,23.63,4.6,4.2,0.71,0
+7,"Tractor Driving, Pesticide Spraying, Harvesting",Irrigation Setup,18.04,4.9,4.2,0.79,0
+15,"Tractor Driving, Irrigation Setup",Tractor Driving,33.09,3.4,4.4,0.87,1
+10,Seeding,Pruning,30.5,3.7,4.4,0.38,0
+12,Pruning,Pruning,7.91,4.4,4.7,0.62,1
+13,"Tractor Driving, Irrigation Setup",Seeding,22.84,3.8,4.1,0.4,0
+11,Harvesting,Pesticide Spraying,17.91,3.7,4.2,0.32,0
+4,"Pesticide Spraying, Tractor Driving",Tractor Driving,1.02,4.9,4.1,0.59,1
+1,"Harvesting, Irrigation Setup, Pesticide Spraying",Pruning,29.29,4.9,4.1,0.58,0
+5,Seeding,Tractor Driving,7.48,4.8,4.2,0.38,0
+15,Seeding,Tractor Driving,27.39,3.4,4.5,0.86,0
+6,"Pesticide Spraying, Irrigation Setup",Pesticide Spraying,33.81,4.9,4.8,0.65,1
+6,Seeding,Pesticide Spraying,30.13,3.5,3.8,0.64,0
+5,Irrigation Setup,Seeding,25.77,3.1,4.4,0.86,0
+10,"Irrigation Setup, Harvesting, Seeding",Pruning,25.08,4.5,3.6,0.98,0
+9,"Harvesting, Irrigation Setup",Seeding,20.26,3.3,4.1,0.49,0
+14,"Harvesting, Seeding, Irrigation Setup",Seeding,29.4,3.9,4.6,0.66,1
+3,Tractor Driving,Irrigation Setup,22.43,3.0,3.5,0.9,0
+15,Tractor Driving,Pesticide Spraying,24.17,4.6,3.9,0.33,0
+5,Irrigation Setup,Pesticide Spraying,22.77,3.7,4.6,0.7,0
+3,"Pruning, Seeding, Irrigation Setup",Irrigation Setup,8.72,5.0,3.7,0.7,1
+7,Tractor Driving,Irrigation Setup,25.48,4.3,4.6,0.55,0
+6,"Pesticide Spraying, Tractor Driving",Harvesting,26.51,3.5,4.2,0.88,0
+5,Pruning,Pruning,14.92,4.6,4.1,0.68,0
+5,Tractor Driving,Pruning,14.54,3.2,4.8,0.33,0
+9,"Pesticide Spraying, Seeding",Tractor Driving,19.12,4.5,3.5,0.45,0
+1,Pesticide Spraying,Pesticide Spraying,3.03,4.5,4.3,0.33,1
+4,"Pruning, Pesticide Spraying, Tractor Driving",Tractor Driving,20.19,4.9,4.4,0.59,0
+14,"Pruning, Tractor Driving, Seeding",Pruning,27.23,4.9,4.1,0.51,1
+3,"Pruning, Irrigation Setup",Seeding,25.94,4.3,5.0,0.67,0
+14,"Pesticide Spraying, Harvesting, Pruning",Tractor Driving,1.41,3.2,3.9,0.91,1
+9,Irrigation Setup,Seeding,16.28,3.7,4.0,0.75,0
+14,Harvesting,Pesticide Spraying,16.8,5.0,5.0,0.92,1
+9,"Pruning, Tractor Driving",Pruning,27.06,4.3,4.1,0.93,1
+10,Pruning,Harvesting,32.1,3.1,3.6,0.85,0
+3,"Irrigation Setup, Tractor Driving, Harvesting",Irrigation Setup,27.62,3.8,4.7,0.78,0
+5,"Irrigation Setup, Seeding, Pesticide Spraying",Pruning,29.72,3.7,4.3,0.65,0
+6,"Irrigation Setup, Seeding",Pesticide Spraying,18.61,4.5,4.7,0.96,0
+2,"Irrigation Setup, Pesticide Spraying, Seeding",Harvesting,19.75,3.7,3.6,0.89,0
+9,"Seeding, Irrigation Setup",Tractor Driving,23.39,5.0,4.6,0.75,0
+7,"Pruning, Irrigation Setup, Tractor Driving",Seeding,31.9,3.3,3.9,0.66,0
+6,"Seeding, Pruning, Pesticide Spraying",Irrigation Setup,21.09,3.2,3.5,0.56,0
+2,"Tractor Driving, Pesticide Spraying",Harvesting,20.24,4.6,4.3,0.98,0
+3,Seeding,Pesticide Spraying,23.67,4.8,4.7,0.43,0
+13,"Irrigation Setup, Tractor Driving",Seeding,7.25,5.0,4.7,0.82,1
+13,"Pesticide Spraying, Tractor Driving, Harvesting",Seeding,25.21,4.4,4.7,0.33,1
+15,"Pesticide Spraying, Seeding, Irrigation Setup",Irrigation Setup,16.73,3.8,4.9,0.54,0
+9,Harvesting,Harvesting,0.31,3.3,3.4,0.53,1
+6,"Seeding, Pesticide Spraying, Tractor Driving",Pesticide Spraying,26.47,3.9,3.6,0.48,0
+12,"Pruning, Seeding, Harvesting",Irrigation Setup,1.33,3.9,3.8,0.91,1
+13,Pesticide Spraying,Pesticide Spraying,22.4,3.5,4.3,0.75,1
+15,"Seeding, Pesticide Spraying, Harvesting",Harvesting,11.1,4.1,5.0,0.93,1
+7,"Harvesting, Pruning, Pesticide Spraying",Seeding,4.07,3.9,4.5,0.91,0
+1,"Harvesting, Pruning, Pesticide Spraying",Tractor Driving,7.2,3.2,4.7,0.36,0
+8,"Seeding, Irrigation Setup, Tractor Driving",Pesticide Spraying,11.78,3.5,4.2,0.61,0
+10,"Pesticide Spraying, Seeding",Irrigation Setup,18.7,3.7,4.7,0.61,0
+10,Irrigation Setup,Pruning,26.56,4.3,3.8,0.71,0
+6,"Irrigation Setup, Tractor Driving, Harvesting",Pesticide Spraying,30.05,3.0,4.0,0.82,0
+2,"Seeding, Tractor Driving, Pesticide Spraying",Pruning,26.31,3.3,3.5,0.98,0
+7,Tractor Driving,Irrigation Setup,26.33,4.7,4.2,0.57,0
+15,"Pruning, Harvesting",Harvesting,22.31,3.7,4.4,0.52,0
+3,Pruning,Tractor Driving,21.41,3.4,4.2,0.77,0
+7,"Tractor Driving, Pruning",Harvesting,15.93,3.7,4.2,0.87,1
+1,"Irrigation Setup, Seeding",Pruning,5.42,4.4,4.1,0.48,0
+4,"Seeding, Irrigation Setup, Pruning",Pesticide Spraying,6.54,4.8,4.6,0.95,1
+6,"Pruning, Irrigation Setup, Seeding",Irrigation Setup,22.64,4.5,4.6,0.92,1
+8,"Irrigation Setup, Pruning",Tractor Driving,17.3,3.1,4.4,0.59,0
+5,Seeding,Tractor Driving,3.8,3.5,3.7,0.32,0
+8,"Irrigation Setup, Pruning",Tractor Driving,0.72,3.1,4.5,0.5,0
+15,"Seeding, Irrigation Setup, Harvesting",Irrigation Setup,23.63,3.0,5.0,0.91,0
+1,Pruning,Pruning,33.59,3.4,3.9,0.84,0
+6,Irrigation Setup,Tractor Driving,32.29,3.3,3.8,0.69,0
+11,"Pesticide Spraying, Harvesting, Pruning",Harvesting,4.35,3.7,3.4,0.75,1
+13,Pesticide Spraying,Seeding,16.27,4.8,4.1,0.67,1
+13,"Harvesting, Seeding",Tractor Driving,6.81,4.6,4.9,0.68,1
+7,Pesticide Spraying,Pesticide Spraying,20.54,3.5,3.6,0.76,1
+13,"Pesticide Spraying, Irrigation Setup",Pruning,26.08,4.8,4.7,0.99,1
+6,Tractor Driving,Tractor Driving,10.84,5.0,3.8,0.44,1
+3,"Pruning, Harvesting, Pesticide Spraying",Pesticide Spraying,9.3,4.8,3.4,0.54,1
+15,Tractor Driving,Irrigation Setup,1.41,4.2,4.5,0.59,1
+1,"Harvesting, Irrigation Setup",Seeding,22.86,3.6,4.0,0.64,0
+4,"Harvesting, Irrigation Setup",Pruning,13.58,4.2,4.6,0.47,0
+4,"Seeding, Pesticide Spraying",Seeding,21.36,4.0,4.1,0.45,1
+15,"Pesticide Spraying, Pruning",Pruning,9.36,4.0,3.9,0.42,1
+3,"Seeding, Tractor Driving, Irrigation Setup",Seeding,10.18,3.0,4.4,0.48,1
+6,"Pruning, Irrigation Setup, Seeding",Tractor Driving,32.08,4.9,3.4,0.99,0
+6,"Pesticide Spraying, Harvesting, Pruning",Pruning,25.23,3.1,4.7,0.65,0
+6,Pruning,Pesticide Spraying,22.71,3.9,3.7,0.38,0
+9,"Harvesting, Pruning, Pesticide Spraying",Irrigation Setup,1.67,3.0,3.6,0.75,0
+8,Tractor Driving,Irrigation Setup,10.97,3.6,4.9,0.91,0
+4,Seeding,Irrigation Setup,27.36,4.6,4.2,0.9,0
+2,"Pesticide Spraying, Seeding, Harvesting",Irrigation Setup,6.46,4.0,4.2,0.64,0
+12,"Harvesting, Tractor Driving, Irrigation Setup",Seeding,13.01,3.9,3.6,0.62,0
+2,"Tractor Driving, Pruning, Harvesting",Harvesting,16.76,3.8,4.9,0.39,1
+1,"Seeding, Tractor Driving, Harvesting",Pesticide Spraying,15.76,4.7,4.1,0.31,0
+13,Tractor Driving,Irrigation Setup,8.71,3.4,3.5,0.83,1
+8,"Pruning, Harvesting, Pesticide Spraying",Pruning,15.56,3.9,4.1,0.68,1
+6,"Harvesting, Pruning, Irrigation Setup",Pesticide Spraying,22.51,4.0,4.8,0.91,0
+9,"Tractor Driving, Pruning",Harvesting,6.81,3.0,4.2,0.78,1
+5,"Pesticide Spraying, Pruning, Irrigation Setup",Harvesting,32.55,4.4,4.6,0.44,0
+3,Harvesting,Seeding,21.05,3.4,4.8,0.6,0
+8,Pesticide Spraying,Tractor Driving,27.66,3.3,3.4,0.74,0
+6,Pesticide Spraying,Harvesting,23.93,4.8,4.8,0.98,0
+13,Pesticide Spraying,Pruning,11.23,4.1,3.5,0.78,0
+8,"Tractor Driving, Harvesting, Pesticide Spraying",Tractor Driving,30.67,4.7,4.4,0.63,1
+2,Irrigation Setup,Harvesting,7.02,3.5,4.2,0.53,0
+11,"Pruning, Harvesting",Pesticide Spraying,15.98,4.9,3.5,0.54,1
+9,Pruning,Pesticide Spraying,9.83,4.1,3.7,0.63,1
+6,"Pruning, Harvesting",Harvesting,17.99,3.3,4.6,0.37,0
+2,Tractor Driving,Seeding,24.56,3.5,3.5,0.58,0
+2,"Tractor Driving, Pruning, Seeding",Harvesting,8.48,4.8,3.7,0.45,0
+13,"Harvesting, Pesticide Spraying",Pruning,23.9,4.3,4.9,0.88,1
+15,"Pruning, Harvesting, Irrigation Setup",Harvesting,32.27,3.1,4.0,0.87,1
+3,"Irrigation Setup, Tractor Driving",Harvesting,34.28,3.2,4.9,0.64,0
+10,"Seeding, Irrigation Setup",Irrigation Setup,21.25,4.6,4.3,1.0,1
+10,Tractor Driving,Seeding,29.06,3.2,3.6,0.6,0
+14,"Tractor Driving, Pesticide Spraying, Pruning",Pruning,23.47,3.1,4.5,0.92,1
+6,Irrigation Setup,Seeding,17.1,5.0,4.8,0.55,1
+7,Tractor Driving,Pesticide Spraying,25.93,4.6,3.8,0.56,1
+13,"Tractor Driving, Irrigation Setup, Pruning",Seeding,25.43,4.8,3.8,0.94,1
+12,"Harvesting, Irrigation Setup",Pruning,10.62,4.8,3.7,0.57,0
+8,"Pesticide Spraying, Tractor Driving, Harvesting",Harvesting,16.88,3.4,4.5,0.43,1
+1,"Pesticide Spraying, Seeding",Pesticide Spraying,9.11,3.8,4.7,0.98,1
+1,"Pruning, Pesticide Spraying, Tractor Driving",Seeding,8.38,4.0,4.8,0.8,0
+8,"Pesticide Spraying, Harvesting, Tractor Driving",Irrigation Setup,11.88,3.1,3.6,0.94,0
+12,"Seeding, Harvesting, Pesticide Spraying",Harvesting,12.46,4.7,3.6,0.7,1
+10,"Irrigation Setup, Harvesting",Tractor Driving,29.08,5.0,4.8,0.46,1
+15,"Seeding, Pesticide Spraying, Pruning",Tractor Driving,17.22,4.2,4.5,0.37,0
+12,"Seeding, Pesticide Spraying, Irrigation Setup",Irrigation Setup,11.31,4.2,4.4,0.84,1
+7,"Irrigation Setup, Pruning",Pesticide Spraying,30.84,4.8,4.9,0.91,1
+6,Irrigation Setup,Pesticide Spraying,15.85,3.7,3.9,0.87,1
+15,"Tractor Driving, Pruning",Seeding,31.69,4.0,4.1,1.0,0
+14,"Harvesting, Tractor Driving",Irrigation Setup,2.14,3.5,4.7,0.33,0
+10,Seeding,Pruning,9.12,4.7,4.8,0.44,1
+5,Harvesting,Irrigation Setup,11.04,4.1,3.8,0.65,0
+5,Pruning,Seeding,19.22,3.1,4.6,0.65,0
+8,"Irrigation Setup, Pruning, Seeding",Seeding,22.03,3.6,5.0,0.73,1
+1,Irrigation Setup,Irrigation Setup,34.06,3.3,3.8,0.71,0
+15,Seeding,Harvesting,30.32,4.1,4.9,0.35,0
+4,"Pruning, Harvesting, Pesticide Spraying",Pruning,28.95,4.4,3.5,0.59,0
+3,"Pesticide Spraying, Pruning, Tractor Driving",Irrigation Setup,9.83,4.0,4.6,0.44,0
+13,Harvesting,Pruning,11.53,4.7,3.6,0.89,1
+13,"Tractor Driving, Pruning",Harvesting,34.98,4.3,5.0,0.76,0
+11,Irrigation Setup,Harvesting,17.68,3.9,4.0,0.79,0
+6,"Irrigation Setup, Pesticide Spraying",Tractor Driving,34.06,3.5,4.5,0.58,0
+9,Seeding,Irrigation Setup,1.98,3.0,4.4,0.5,0
+10,"Irrigation Setup, Tractor Driving",Tractor Driving,28.56,3.9,3.8,0.56,1
+9,"Pesticide Spraying, Harvesting",Pesticide Spraying,15.03,3.9,3.4,0.31,1
+3,"Irrigation Setup, Seeding",Tractor Driving,13.1,3.8,4.0,0.86,0
+2,Tractor Driving,Irrigation Setup,21.92,4.7,4.5,0.45,0
+10,"Harvesting, Pesticide Spraying",Seeding,10.52,3.1,4.2,0.55,1
+3,"Pruning, Tractor Driving, Seeding",Irrigation Setup,9.06,3.8,3.5,0.72,1
+8,"Seeding, Irrigation Setup, Tractor Driving",Harvesting,32.82,4.3,3.9,0.47,1
+4,"Tractor Driving, Harvesting, Irrigation Setup",Pesticide Spraying,21.12,4.4,3.9,0.66,0
+6,"Tractor Driving, Seeding, Pesticide Spraying",Tractor Driving,10.64,3.1,3.5,0.32,1
+7,"Harvesting, Seeding, Pesticide Spraying",Irrigation Setup,2.46,4.5,4.6,0.92,1
+15,"Pruning, Harvesting, Irrigation Setup",Irrigation Setup,9.79,3.2,4.3,0.53,1
+7,"Irrigation Setup, Harvesting, Pesticide Spraying",Pruning,11.75,3.6,4.3,0.9,1
+12,"Pesticide Spraying, Harvesting",Irrigation Setup,18.84,4.4,4.8,0.6,0
+2,"Pruning, Irrigation Setup, Pesticide Spraying",Seeding,30.31,3.9,4.5,0.91,0
+12,Irrigation Setup,Tractor Driving,26.63,4.9,3.5,0.72,0
+1,Pesticide Spraying,Pruning,0.41,4.9,4.3,0.87,0
+4,"Pruning, Pesticide Spraying, Harvesting",Pruning,6.23,3.6,3.9,0.76,1
+9,Pesticide Spraying,Harvesting,10.59,3.3,4.1,0.58,0
+11,"Harvesting, Tractor Driving, Pruning",Harvesting,22.84,3.1,4.0,0.8,1
+15,Tractor Driving,Tractor Driving,34.0,3.2,4.9,0.36,1
+13,"Pesticide Spraying, Harvesting",Irrigation Setup,34.9,4.0,4.3,0.57,0
+2,"Harvesting, Irrigation Setup, Pruning",Pruning,12.22,3.9,3.7,0.46,1
+11,Seeding,Irrigation Setup,34.18,4.8,3.6,0.88,0
+7,"Pesticide Spraying, Tractor Driving",Harvesting,31.34,3.0,4.5,0.63,0
+5,"Tractor Driving, Pesticide Spraying",Harvesting,31.38,4.6,3.6,0.84,0
+3,"Seeding, Tractor Driving",Harvesting,22.49,4.0,3.4,0.53,0
+4,"Seeding, Pruning, Harvesting",Irrigation Setup,3.46,3.9,3.7,0.45,0
+13,"Seeding, Harvesting",Harvesting,11.59,4.8,4.1,0.97,1
+14,Harvesting,Pruning,30.45,4.1,4.6,0.4,0
+11,"Irrigation Setup, Harvesting",Tractor Driving,28.09,3.8,3.7,0.94,0
+3,Pruning,Harvesting,12.71,3.6,4.4,0.93,0
+10,"Seeding, Pruning",Harvesting,10.83,4.4,3.5,0.64,0
+15,Irrigation Setup,Harvesting,26.06,3.4,4.0,0.55,0
+9,"Harvesting, Pesticide Spraying, Pruning",Pruning,32.64,4.4,4.6,0.42,1
+1,Seeding,Pruning,16.79,4.9,3.7,0.35,0
+3,Seeding,Irrigation Setup,16.22,5.0,4.0,0.55,0
+9,"Harvesting, Pruning, Seeding",Pruning,20.05,3.8,4.9,0.6,1
+10,"Seeding, Irrigation Setup",Harvesting,25.65,4.7,4.5,0.81,0
+13,"Irrigation Setup, Harvesting",Pruning,14.97,4.3,3.8,0.35,0
+7,"Pesticide Spraying, Seeding, Tractor Driving",Harvesting,31.84,3.4,3.7,0.43,1
+7,Harvesting,Seeding,15.47,4.4,4.3,0.97,0
+9,"Harvesting, Seeding, Tractor Driving",Seeding,33.42,3.5,4.6,0.61,1
+14,Irrigation Setup,Seeding,8.15,4.7,3.9,0.99,1
+2,"Pesticide Spraying, Pruning",Pruning,33.44,3.4,4.8,0.87,0
+12,"Seeding, Pruning, Tractor Driving",Tractor Driving,26.14,3.3,3.6,0.32,1
+1,Harvesting,Harvesting,34.38,3.2,4.3,0.74,0
+1,Pesticide Spraying,Seeding,3.56,4.3,3.9,0.82,1
+9,"Seeding, Pesticide Spraying",Pesticide Spraying,34.05,3.1,3.9,0.44,1
+2,"Seeding, Tractor Driving, Irrigation Setup",Pruning,23.85,3.5,4.2,0.92,0
+2,"Seeding, Pesticide Spraying",Pesticide Spraying,6.04,4.5,4.2,0.99,1
+5,"Harvesting, Seeding",Seeding,21.25,3.3,4.7,0.9,1
+8,"Irrigation Setup, Tractor Driving, Harvesting",Tractor Driving,17.18,3.4,3.7,0.42,1
+10,"Seeding, Harvesting, Pruning",Pesticide Spraying,26.4,3.2,4.5,0.31,0
+9,Tractor Driving,Irrigation Setup,18.19,3.5,4.6,0.52,0
+1,Harvesting,Pesticide Spraying,26.41,3.1,3.9,0.65,0
+14,Irrigation Setup,Pruning,1.96,3.8,4.5,0.46,0
+7,"Irrigation Setup, Pruning, Pesticide Spraying",Seeding,22.71,3.2,4.9,0.46,0
+6,"Pesticide Spraying, Seeding, Irrigation Setup",Pruning,27.07,3.0,4.8,0.49,0
+13,"Tractor Driving, Harvesting",Pruning,26.29,4.6,3.7,0.97,0
+3,Pruning,Tractor Driving,11.32,3.7,4.5,0.74,0
+11,Irrigation Setup,Tractor Driving,25.15,3.7,4.7,0.54,0
+11,"Tractor Driving, Pruning, Irrigation Setup",Tractor Driving,23.61,3.4,4.5,0.48,1
+5,"Irrigation Setup, Pesticide Spraying",Irrigation Setup,3.66,3.7,4.7,0.35,0
+7,"Tractor Driving, Pruning",Tractor Driving,23.13,3.1,3.7,0.51,1
+4,Pesticide Spraying,Harvesting,22.66,4.5,3.6,0.88,0
+11,Pesticide Spraying,Harvesting,22.35,3.3,4.6,0.81,0
+4,"Harvesting, Tractor Driving, Pesticide Spraying",Pruning,2.22,4.9,3.6,0.79,1
+4,Irrigation Setup,Seeding,12.2,3.4,3.6,0.98,0
+15,"Harvesting, Irrigation Setup",Tractor Driving,12.91,3.5,4.2,0.98,0
+14,Pesticide Spraying,Tractor Driving,14.12,4.5,3.5,0.58,0
+1,Pesticide Spraying,Irrigation Setup,10.42,3.3,4.8,0.71,0
+2,Pesticide Spraying,Seeding,34.27,4.4,4.2,0.9,0
+5,Tractor Driving,Tractor Driving,10.04,4.1,4.5,0.39,1
+6,Tractor Driving,Pesticide Spraying,33.25,3.7,3.6,0.65,0
+9,Harvesting,Irrigation Setup,7.11,3.4,4.4,0.89,0
+2,Pruning,Irrigation Setup,21.89,4.2,3.8,0.94,0
+3,Pesticide Spraying,Tractor Driving,29.22,3.8,4.9,0.36,0
+3,"Pruning, Tractor Driving",Pesticide Spraying,13.74,4.2,4.2,0.79,1
+4,"Irrigation Setup, Tractor Driving",Seeding,8.44,4.5,3.8,0.42,0
+3,"Pruning, Harvesting, Seeding",Tractor Driving,12.82,4.2,3.6,0.35,0
+3,Tractor Driving,Tractor Driving,33.47,4.6,4.5,0.68,0
+4,"Pruning, Pesticide Spraying, Seeding",Seeding,21.42,3.8,4.2,0.59,0
+11,"Irrigation Setup, Tractor Driving",Harvesting,6.55,3.9,4.7,0.51,1
+3,"Seeding, Tractor Driving, Pesticide Spraying",Tractor Driving,2.96,3.2,4.2,0.73,1
+2,"Tractor Driving, Harvesting",Irrigation Setup,20.94,3.6,3.4,0.83,0
+3,"Tractor Driving, Seeding",Seeding,32.34,4.6,3.8,0.48,1
+3,"Tractor Driving, Harvesting",Pruning,7.55,4.6,4.1,0.43,0
+12,"Seeding, Harvesting, Tractor Driving",Seeding,30.08,4.0,3.4,0.47,1
+7,"Irrigation Setup, Seeding",Pesticide Spraying,11.4,3.7,4.5,0.34,0
+15,"Seeding, Pruning",Tractor Driving,34.36,3.7,3.8,0.68,0
+9,"Irrigation Setup, Pesticide Spraying",Seeding,30.66,4.7,4.0,0.79,0
+4,"Pruning, Irrigation Setup, Seeding",Pesticide Spraying,23.24,3.8,4.6,0.93,0
+14,"Pruning, Seeding, Harvesting",Tractor Driving,6.06,3.3,4.3,0.76,1
+7,Tractor Driving,Pruning,13.81,3.8,3.7,0.95,1
+10,Pruning,Tractor Driving,32.83,4.5,4.1,0.7,0
+9,"Pruning, Irrigation Setup",Seeding,19.77,3.6,4.0,0.78,0
+15,Pesticide Spraying,Pesticide Spraying,1.79,4.7,4.5,0.76,1
+9,"Harvesting, Tractor Driving, Irrigation Setup",Pesticide Spraying,6.37,4.2,4.7,0.83,0
+5,"Seeding, Pesticide Spraying",Tractor Driving,9.22,4.1,4.3,0.4,0
+15,"Harvesting, Pruning, Pesticide Spraying",Pruning,8.02,4.1,3.6,0.91,1
+2,"Pruning, Irrigation Setup",Pruning,12.69,4.0,4.5,0.97,1
+10,"Pruning, Pesticide Spraying",Pesticide Spraying,30.16,4.0,3.7,0.92,1
+7,"Harvesting, Tractor Driving",Pruning,24.69,3.1,4.9,0.64,0
+2,Pesticide Spraying,Irrigation Setup,29.53,3.9,3.5,0.79,0
+1,Pesticide Spraying,Harvesting,0.39,3.8,4.6,0.86,0
+6,"Seeding, Irrigation Setup",Seeding,22.18,4.1,3.5,0.98,0
+15,"Harvesting, Pesticide Spraying, Tractor Driving",Harvesting,4.55,4.9,4.1,0.52,1
+6,Harvesting,Pesticide Spraying,14.4,3.3,3.4,0.39,0
+2,Seeding,Tractor Driving,4.89,4.2,4.1,0.6,1
+2,"Tractor Driving, Pesticide Spraying",Pesticide Spraying,25.2,4.5,3.5,0.9,0
+5,"Irrigation Setup, Pesticide Spraying",Tractor Driving,22.9,3.4,3.5,0.51,0
+1,"Seeding, Tractor Driving, Pesticide Spraying",Harvesting,9.59,4.8,4.0,0.33,0
+4,"Pesticide Spraying, Irrigation Setup",Pruning,0.76,4.1,4.6,0.45,1
+3,"Seeding, Harvesting",Pruning,11.74,3.8,4.4,0.8,0
+8,"Seeding, Tractor Driving, Pruning",Tractor Driving,27.0,3.2,4.6,0.78,0
+12,Irrigation Setup,Irrigation Setup,1.69,3.7,4.2,0.52,1
+8,Pruning,Tractor Driving,0.68,3.1,5.0,0.35,1
+7,"Seeding, Irrigation Setup, Pruning",Irrigation Setup,12.87,4.5,3.6,0.85,1
+10,"Pesticide Spraying, Harvesting",Pesticide Spraying,31.45,4.0,4.1,0.9,0
+12,Pruning,Irrigation Setup,20.06,4.8,4.9,0.67,0
+5,"Tractor Driving, Pruning",Pruning,4.28,4.9,4.0,0.75,1
+11,"Harvesting, Pesticide Spraying, Tractor Driving",Seeding,25.37,4.7,4.0,0.61,0
+6,Pesticide Spraying,Irrigation Setup,30.35,4.5,4.9,0.96,0
+5,Pruning,Irrigation Setup,11.05,4.8,4.5,0.99,0
+7,"Pesticide Spraying, Tractor Driving",Pruning,4.34,3.4,3.5,0.73,1
+9,"Irrigation Setup, Pruning",Irrigation Setup,12.33,4.7,4.8,0.32,1
+12,"Pesticide Spraying, Irrigation Setup, Harvesting",Seeding,15.34,3.5,4.4,0.42,0
+2,Tractor Driving,Tractor Driving,23.3,4.3,3.8,0.53,0
+10,"Seeding, Irrigation Setup",Seeding,11.72,4.1,3.5,0.45,1
+10,"Pruning, Irrigation Setup, Tractor Driving",Pruning,29.56,4.4,4.9,0.79,0
+4,Seeding,Pruning,13.22,3.6,3.8,0.42,0
+15,Pruning,Harvesting,31.72,4.6,4.3,0.77,0
+15,"Seeding, Pruning",Irrigation Setup,18.88,4.8,4.5,0.82,0
+15,"Harvesting, Tractor Driving",Harvesting,7.47,4.2,3.6,0.49,1
+11,"Seeding, Tractor Driving, Harvesting",Irrigation Setup,27.49,3.6,4.2,0.73,0
+1,"Pruning, Harvesting, Tractor Driving",Tractor Driving,26.51,4.8,4.9,0.84,1
+15,Pruning,Pesticide Spraying,31.93,5.0,3.7,0.33,0
+7,Tractor Driving,Pesticide Spraying,10.5,3.1,3.5,0.6,0
+3,"Seeding, Harvesting, Pruning",Harvesting,2.58,3.8,4.6,0.94,1
+14,"Seeding, Harvesting",Tractor Driving,10.6,4.7,3.4,0.75,1
+11,"Pruning, Irrigation Setup",Tractor Driving,21.46,3.2,4.4,0.43,0
+15,Tractor Driving,Seeding,16.36,4.1,4.5,0.31,0
+9,"Pruning, Harvesting",Pruning,6.23,3.9,3.7,0.84,1
+5,Tractor Driving,Tractor Driving,12.38,3.7,4.4,0.98,0
+1,"Pruning, Irrigation Setup",Tractor Driving,31.59,3.7,4.9,0.32,0
+9,"Seeding, Pesticide Spraying, Tractor Driving",Seeding,14.17,3.1,4.7,0.68,1
+14,"Irrigation Setup, Pruning, Pesticide Spraying",Tractor Driving,25.52,4.8,4.5,0.44,0
+14,Tractor Driving,Pruning,18.79,4.5,4.6,0.77,1
+11,Pruning,Seeding,10.71,3.6,4.4,0.87,0
+14,Seeding,Pesticide Spraying,5.41,4.4,4.8,0.74,1
+10,"Pruning, Irrigation Setup, Seeding",Seeding,33.17,3.7,4.1,0.79,0
+5,Irrigation Setup,Harvesting,16.79,3.4,4.8,0.48,0
+9,"Irrigation Setup, Pruning",Pesticide Spraying,4.87,4.3,3.7,0.6,1
+2,"Irrigation Setup, Pesticide Spraying, Pruning",Seeding,25.44,4.3,3.9,0.51,0
+12,Pruning,Tractor Driving,24.88,3.1,3.6,0.66,0
+10,Seeding,Irrigation Setup,5.25,4.7,4.6,0.77,1
+11,"Pruning, Irrigation Setup",Irrigation Setup,33.16,4.2,4.3,0.46,1
+9,Irrigation Setup,Seeding,24.83,4.3,3.6,0.84,1
+6,Pruning,Irrigation Setup,29.24,3.3,4.8,0.81,0
+2,Tractor Driving,Tractor Driving,16.37,3.3,4.3,0.82,0
+10,"Irrigation Setup, Seeding",Pesticide Spraying,6.2,3.8,4.8,0.55,0
+3,"Harvesting, Tractor Driving, Pruning",Pruning,15.5,4.7,4.4,0.81,1
+4,"Harvesting, Pesticide Spraying, Irrigation Setup",Harvesting,9.8,4.2,4.7,0.39,1
+15,"Pesticide Spraying, Pruning, Seeding",Tractor Driving,33.89,3.6,3.5,0.55,1
+11,"Tractor Driving, Seeding",Harvesting,13.2,3.5,4.6,0.59,0
+5,"Harvesting, Irrigation Setup",Irrigation Setup,5.13,3.4,4.3,0.35,1
+12,"Irrigation Setup, Pruning, Seeding",Pesticide Spraying,32.14,3.9,4.6,0.63,0
+12,"Pruning, Tractor Driving, Irrigation Setup",Harvesting,13.61,3.6,4.0,0.31,0
+1,Pesticide Spraying,Harvesting,17.01,3.1,4.7,0.99,0
+3,"Tractor Driving, Pesticide Spraying, Pruning",Pruning,21.6,3.6,5.0,0.61,0
+7,"Harvesting, Irrigation Setup",Seeding,26.8,4.4,3.9,0.68,0
+8,"Tractor Driving, Pruning, Irrigation Setup",Pruning,15.03,4.7,3.5,0.89,1
+7,"Tractor Driving, Irrigation Setup",Harvesting,20.46,4.0,4.0,0.38,0
+8,"Harvesting, Tractor Driving, Pesticide Spraying",Harvesting,28.85,4.4,3.5,0.78,1
+3,"Irrigation Setup, Pruning, Tractor Driving",Harvesting,26.6,4.1,4.5,0.48,0
+4,"Harvesting, Pesticide Spraying, Tractor Driving",Pruning,24.41,3.2,4.4,0.71,0
+13,"Tractor Driving, Irrigation Setup",Irrigation Setup,16.79,3.4,4.4,0.99,1
+9,Irrigation Setup,Seeding,22.33,4.8,4.1,0.53,0
+11,Pruning,Irrigation Setup,4.36,3.6,4.9,0.74,1
+3,Irrigation Setup,Seeding,31.39,3.8,3.4,0.9,0
+7,"Irrigation Setup, Harvesting, Pruning",Irrigation Setup,1.17,3.8,5.0,0.37,1
+14,"Pruning, Harvesting",Seeding,16.6,4.1,3.6,0.69,1
+9,Harvesting,Pruning,9.99,4.9,4.5,0.48,0
+6,Tractor Driving,Pesticide Spraying,30.06,3.1,3.7,1.0,0
+13,Tractor Driving,Harvesting,8.04,3.8,5.0,0.85,1
+1,Pruning,Harvesting,21.24,3.8,4.3,0.7,0
+3,Pesticide Spraying,Tractor Driving,23.74,3.5,4.3,0.96,0
+13,"Irrigation Setup, Harvesting, Tractor Driving",Harvesting,10.49,3.8,4.7,0.68,1
+13,"Tractor Driving, Irrigation Setup, Harvesting",Pruning,17.29,3.2,4.1,0.79,0
+4,"Harvesting, Pesticide Spraying, Seeding",Seeding,23.77,3.7,4.3,0.89,0
+1,"Tractor Driving, Seeding, Irrigation Setup",Seeding,17.25,4.0,4.4,0.3,0
+7,"Pruning, Harvesting",Tractor Driving,13.54,4.5,4.4,0.56,1
+7,Harvesting,Pesticide Spraying,32.77,3.8,4.5,0.66,0
+2,"Tractor Driving, Harvesting",Pruning,20.09,4.5,3.6,0.89,0
+1,"Pesticide Spraying, Harvesting, Pruning",Tractor Driving,7.24,3.2,3.6,0.85,0
+3,"Tractor Driving, Harvesting",Irrigation Setup,29.84,4.8,4.2,0.72,0
+10,"Irrigation Setup, Seeding",Pesticide Spraying,15.99,3.2,3.5,0.62,0
+9,Harvesting,Tractor Driving,17.97,4.9,4.3,0.97,1
+7,"Pesticide Spraying, Seeding",Pruning,29.52,3.9,4.6,0.67,0
+15,Irrigation Setup,Seeding,28.81,3.2,4.8,0.59,0
+10,"Tractor Driving, Pesticide Spraying, Harvesting",Seeding,3.24,3.1,3.6,0.54,0
+7,"Irrigation Setup, Pruning",Irrigation Setup,3.78,4.5,3.8,0.61,1
+7,"Tractor Driving, Pesticide Spraying, Irrigation Setup",Irrigation Setup,1.58,4.8,3.6,0.96,1
+6,"Pesticide Spraying, Pruning, Harvesting",Pesticide Spraying,28.44,3.2,3.8,0.93,0
+3,Seeding,Seeding,18.0,3.5,3.9,0.9,1
+8,"Pruning, Seeding",Irrigation Setup,16.71,4.8,3.9,0.51,0
+4,"Tractor Driving, Seeding, Harvesting",Tractor Driving,9.52,3.3,4.5,0.48,0
+15,Seeding,Harvesting,29.33,4.9,4.7,0.56,0
+5,"Tractor Driving, Pruning",Tractor Driving,32.84,3.3,3.5,0.89,0
+10,"Harvesting, Irrigation Setup, Tractor Driving",Pesticide Spraying,7.47,4.9,3.4,0.85,1
+14,"Pesticide Spraying, Tractor Driving",Tractor Driving,14.12,4.4,3.9,0.87,1
+8,"Tractor Driving, Harvesting",Tractor Driving,2.03,3.2,3.5,0.83,1
+4,"Seeding, Pruning, Pesticide Spraying",Tractor Driving,15.92,4.2,3.9,0.35,0
+6,"Pesticide Spraying, Harvesting",Seeding,11.39,3.8,4.4,0.74,0
+1,"Irrigation Setup, Pesticide Spraying",Harvesting,4.56,4.6,4.2,0.92,0
+10,Irrigation Setup,Pesticide Spraying,3.78,3.7,4.0,0.31,0
+10,"Tractor Driving, Irrigation Setup",Seeding,13.53,4.0,4.9,0.83,0
+13,Irrigation Setup,Tractor Driving,33.27,5.0,4.0,0.51,0
+5,"Irrigation Setup, Tractor Driving, Pruning",Seeding,31.25,4.8,3.7,0.33,0
+4,"Tractor Driving, Pruning",Irrigation Setup,29.21,4.4,3.4,0.54,0
+1,Harvesting,Pruning,34.73,3.8,4.1,0.42,0
+3,Tractor Driving,Harvesting,18.83,3.4,3.7,0.47,0
+4,"Tractor Driving, Irrigation Setup, Seeding",Harvesting,10.09,4.6,3.6,0.83,1
+14,Seeding,Seeding,22.98,3.6,4.3,0.84,0
+9,Tractor Driving,Seeding,1.86,3.3,3.6,0.43,0
+5,Pruning,Irrigation Setup,4.88,4.0,3.6,0.54,1
+2,"Pesticide Spraying, Tractor Driving",Irrigation Setup,13.56,4.2,3.5,0.48,0
+3,Tractor Driving,Pruning,4.38,4.4,4.1,0.44,0
+7,Seeding,Tractor Driving,4.97,4.0,4.6,0.42,0
+12,"Pesticide Spraying, Seeding",Pruning,17.42,4.1,4.3,0.59,1
+15,"Tractor Driving, Pesticide Spraying, Pruning",Harvesting,19.8,3.5,3.6,0.65,0
+5,"Pruning, Irrigation Setup",Tractor Driving,16.79,3.9,4.5,0.74,0
+8,"Pruning, Irrigation Setup",Seeding,32.54,3.9,4.6,0.71,0
+4,"Irrigation Setup, Pruning, Tractor Driving",Pruning,28.55,3.3,3.4,0.33,1
+1,Pruning,Pruning,18.81,4.7,4.6,0.45,1
+1,Pesticide Spraying,Seeding,30.41,3.7,3.5,0.96,0
+7,"Tractor Driving, Seeding, Irrigation Setup",Pesticide Spraying,4.18,4.1,3.8,0.6,0
+1,"Pruning, Pesticide Spraying",Pruning,24.82,4.8,4.9,0.66,0
+10,"Pruning, Seeding",Seeding,8.61,3.4,5.0,0.51,1
+5,"Harvesting, Pesticide Spraying",Tractor Driving,30.07,4.4,3.9,0.69,0
+12,"Pruning, Tractor Driving, Seeding",Tractor Driving,25.01,3.2,4.6,0.82,1
+14,Harvesting,Seeding,22.56,4.6,3.4,0.99,1
+3,"Irrigation Setup, Pesticide Spraying, Pruning",Pruning,15.9,4.5,3.5,0.77,0
+1,"Pruning, Pesticide Spraying",Pruning,6.45,3.7,4.0,1.0,0
+15,"Pesticide Spraying, Seeding",Harvesting,18.6,3.3,4.5,0.79,0
+7,"Harvesting, Irrigation Setup",Pruning,32.95,3.4,3.7,0.47,0
+8,"Tractor Driving, Irrigation Setup, Pruning",Pesticide Spraying,12.2,4.5,4.3,0.36,0
+11,"Pesticide Spraying, Seeding, Pruning",Irrigation Setup,15.44,4.6,4.7,0.5,1
+7,"Pesticide Spraying, Harvesting, Pruning",Pruning,8.74,4.8,3.7,0.85,1
+2,"Tractor Driving, Irrigation Setup, Pruning",Harvesting,32.21,4.1,3.6,0.71,0
+2,"Irrigation Setup, Harvesting",Irrigation Setup,9.36,3.2,4.4,0.6,1
+9,"Irrigation Setup, Tractor Driving, Pesticide Spraying",Seeding,34.38,3.1,4.8,0.87,0
+15,"Irrigation Setup, Tractor Driving",Pesticide Spraying,32.75,3.7,4.3,0.97,0
+2,Seeding,Seeding,4.46,4.1,4.0,0.85,1
+13,"Tractor Driving, Harvesting, Seeding",Harvesting,29.03,4.4,4.2,0.71,0
+11,"Irrigation Setup, Pruning, Seeding",Irrigation Setup,3.12,3.0,4.4,0.74,0
+3,"Harvesting, Seeding, Tractor Driving",Pruning,16.75,3.9,3.5,0.47,0
+1,Pruning,Pesticide Spraying,15.11,4.3,4.8,0.64,0
+13,"Pesticide Spraying, Seeding, Pruning",Seeding,16.65,3.2,4.8,0.97,0
+1,"Irrigation Setup, Pruning",Irrigation Setup,19.75,3.8,4.5,0.34,1
+7,Harvesting,Irrigation Setup,27.91,3.5,4.1,0.64,0
+7,"Pesticide Spraying, Tractor Driving, Irrigation Setup",Irrigation Setup,4.52,3.1,5.0,0.78,1
+7,Irrigation Setup,Pruning,33.52,5.0,4.6,0.46,0
+14,"Pesticide Spraying, Harvesting, Tractor Driving",Pruning,32.45,4.2,3.7,0.94,0
+12,Harvesting,Harvesting,4.28,3.1,4.3,0.47,1
+6,"Pruning, Seeding, Irrigation Setup",Irrigation Setup,8.31,3.2,5.0,0.51,1
+1,"Irrigation Setup, Pruning",Tractor Driving,11.53,4.7,4.3,0.66,0
+8,Pesticide Spraying,Tractor Driving,24.11,3.9,4.0,0.84,0
+13,"Tractor Driving, Irrigation Setup, Pruning",Tractor Driving,3.54,4.0,3.5,0.39,1
+5,"Harvesting, Pruning, Tractor Driving",Tractor Driving,26.37,3.7,3.7,0.37,1
+8,Harvesting,Irrigation Setup,25.35,5.0,3.6,0.33,0
+2,Tractor Driving,Pesticide Spraying,29.62,3.7,3.5,0.79,0
+12,"Pruning, Seeding",Harvesting,33.88,4.7,3.9,0.44,0
+8,"Tractor Driving, Harvesting, Pesticide Spraying",Harvesting,19.26,3.8,4.4,0.61,1
+2,"Harvesting, Pesticide Spraying",Harvesting,11.43,3.8,4.4,0.41,0
+6,"Harvesting, Seeding",Tractor Driving,1.28,4.4,4.7,0.76,1
+15,"Pruning, Harvesting",Harvesting,18.77,3.2,4.0,0.71,1
+5,Pesticide Spraying,Harvesting,14.59,3.0,3.5,0.78,0
+2,"Seeding, Harvesting, Irrigation Setup",Tractor Driving,1.61,5.0,3.4,0.91,1
+14,"Harvesting, Pruning, Pesticide Spraying",Pruning,2.75,4.1,4.8,0.78,1
+10,"Pesticide Spraying, Seeding",Pruning,18.65,4.9,4.1,0.91,0
+3,"Pesticide Spraying, Irrigation Setup",Pesticide Spraying,4.3,4.9,4.7,0.46,1
+1,Pesticide Spraying,Irrigation Setup,21.96,3.1,4.7,0.42,0
+8,"Pruning, Seeding",Harvesting,24.78,4.4,4.7,0.51,0
+14,"Pesticide Spraying, Harvesting",Harvesting,26.29,4.1,4.1,0.52,1
+14,"Irrigation Setup, Pruning",Irrigation Setup,1.35,4.9,3.7,0.33,1
+12,Harvesting,Seeding,29.83,4.1,3.7,0.74,0
+11,Seeding,Pesticide Spraying,16.03,4.5,3.6,0.58,0
+9,"Tractor Driving, Pesticide Spraying, Pruning",Seeding,8.35,3.2,4.4,0.67,0
+4,"Irrigation Setup, Pruning, Seeding",Irrigation Setup,26.31,4.0,4.7,0.61,1
+6,Harvesting,Irrigation Setup,20.25,3.4,3.7,0.39,0
+1,"Harvesting, Pesticide Spraying",Harvesting,15.16,3.7,5.0,0.9,1
+2,"Pesticide Spraying, Pruning, Tractor Driving",Seeding,2.67,3.8,3.8,0.63,0
+4,"Pruning, Seeding",Harvesting,6.87,4.1,3.4,0.83,0
+7,"Pruning, Irrigation Setup",Irrigation Setup,19.52,3.7,3.7,0.87,1
+1,"Harvesting, Pruning, Pesticide Spraying",Seeding,19.95,4.2,4.3,0.49,0
+5,Irrigation Setup,Tractor Driving,11.57,4.5,4.8,0.54,0
+1,"Seeding, Irrigation Setup, Harvesting",Tractor Driving,26.07,4.3,4.1,0.48,0
+8,"Harvesting, Pesticide Spraying",Irrigation Setup,15.26,4.4,3.9,0.89,0
+10,"Pruning, Tractor Driving, Irrigation Setup",Harvesting,6.75,3.2,4.6,0.49,0
+9,"Irrigation Setup, Seeding",Tractor Driving,8.51,3.7,4.6,0.6,0
+4,Tractor Driving,Tractor Driving,12.41,3.9,4.4,0.98,1
+3,"Irrigation Setup, Harvesting, Seeding",Pruning,8.16,4.2,4.3,0.44,0
+6,"Harvesting, Tractor Driving, Pesticide Spraying",Pruning,9.76,3.5,3.6,0.38,0
+14,"Tractor Driving, Pesticide Spraying",Irrigation Setup,1.54,4.6,4.4,0.37,1
+12,"Irrigation Setup, Harvesting",Irrigation Setup,23.56,3.4,4.2,0.75,1
+1,Seeding,Irrigation Setup,27.32,4.5,4.5,0.6,0
+15,"Pruning, Harvesting, Pesticide Spraying",Tractor Driving,23.67,4.2,3.9,0.31,1
+2,"Seeding, Harvesting, Pesticide Spraying",Pruning,29.4,4.2,4.0,0.96,0
+14,"Irrigation Setup, Pruning, Seeding",Tractor Driving,12.23,4.2,4.8,0.83,1
+6,Pesticide Spraying,Harvesting,3.92,3.2,4.0,0.73,0
+11,"Harvesting, Irrigation Setup",Harvesting,23.94,3.1,4.4,0.64,1
+4,"Irrigation Setup, Seeding",Tractor Driving,29.68,4.0,4.4,0.61,0
+1,"Harvesting, Seeding, Pesticide Spraying",Tractor Driving,24.69,4.2,4.2,0.6,0
+10,"Pruning, Seeding",Irrigation Setup,9.2,3.1,4.9,0.9,0
+5,Pesticide Spraying,Harvesting,5.91,3.6,4.5,0.52,0
+13,"Seeding, Tractor Driving, Pruning",Pruning,23.15,5.0,4.8,0.9,1
+15,"Pesticide Spraying, Tractor Driving",Seeding,12.51,3.5,4.4,0.66,0
+3,"Seeding, Irrigation Setup, Tractor Driving",Harvesting,30.21,4.0,3.6,0.3,0
+14,"Harvesting, Seeding",Pruning,11.69,3.2,3.5,0.44,0
+3,"Tractor Driving, Pesticide Spraying",Tractor Driving,13.46,3.9,4.1,0.48,0
+9,"Irrigation Setup, Pruning",Tractor Driving,21.64,5.0,3.6,0.45,0
+12,"Pesticide Spraying, Tractor Driving, Harvesting",Seeding,21.3,4.2,4.2,0.83,1
+7,"Pesticide Spraying, Seeding",Irrigation Setup,2.14,4.7,4.9,0.36,1
+6,Pesticide Spraying,Irrigation Setup,3.16,4.2,3.4,0.84,0
+1,"Pruning, Tractor Driving, Irrigation Setup",Pesticide Spraying,27.23,4.1,4.7,0.72,0
+14,"Pruning, Harvesting, Pesticide Spraying",Tractor Driving,33.5,3.6,5.0,0.74,0
+3,"Tractor Driving, Irrigation Setup, Harvesting",Tractor Driving,3.76,4.6,4.0,0.33,1
+2,"Irrigation Setup, Pruning",Pesticide Spraying,22.8,4.1,3.7,0.89,0
+15,"Tractor Driving, Harvesting, Pruning",Pesticide Spraying,11.74,3.8,4.6,0.72,0
+7,"Irrigation Setup, Pruning",Pesticide Spraying,22.73,3.4,4.6,0.75,0
+12,"Pruning, Harvesting",Seeding,26.85,4.5,3.9,0.36,1
+11,"Pesticide Spraying, Irrigation Setup, Tractor Driving",Irrigation Setup,14.33,4.2,4.8,0.45,0
+15,"Pruning, Harvesting, Tractor Driving",Pesticide Spraying,17.34,4.2,3.6,0.57,0
+14,"Harvesting, Pesticide Spraying, Pruning",Irrigation Setup,12.25,4.3,4.9,0.49,1
+9,Seeding,Tractor Driving,14.97,4.3,3.4,0.87,0
+14,"Irrigation Setup, Pruning",Pesticide Spraying,11.19,4.4,3.7,0.59,1
+5,Tractor Driving,Tractor Driving,31.77,4.8,4.9,0.92,1
+7,"Tractor Driving, Harvesting, Pesticide Spraying",Irrigation Setup,7.27,4.6,4.7,0.38,0
+5,"Harvesting, Tractor Driving, Pruning",Pruning,2.0,3.2,3.6,0.36,1
+3,"Tractor Driving, Harvesting, Seeding",Pesticide Spraying,3.96,3.4,4.2,0.86,1
+9,"Tractor Driving, Harvesting",Harvesting,12.44,4.7,4.9,0.91,1
+1,"Irrigation Setup, Pesticide Spraying, Pruning",Tractor Driving,5.71,4.6,3.5,0.44,0
+1,"Irrigation Setup, Pruning, Tractor Driving",Harvesting,8.14,4.1,4.9,0.65,0
+6,Tractor Driving,Pruning,27.15,3.3,4.1,0.84,0
+12,"Pesticide Spraying, Seeding",Tractor Driving,11.63,3.2,4.2,0.4,0
+9,"Irrigation Setup, Pruning, Harvesting",Pruning,10.07,4.7,3.5,0.58,1
+1,"Pruning, Pesticide Spraying, Irrigation Setup",Pesticide Spraying,6.04,4.9,4.8,0.91,1
+5,Harvesting,Harvesting,31.56,3.6,4.3,0.65,0
+8,Harvesting,Pruning,15.98,3.0,4.7,0.92,0
+1,"Irrigation Setup, Seeding, Tractor Driving",Harvesting,23.99,4.9,4.5,0.91,0
+13,"Seeding, Irrigation Setup, Pruning",Pesticide Spraying,20.62,4.5,3.4,0.48,0
+1,"Irrigation Setup, Harvesting, Tractor Driving",Pruning,18.62,3.8,3.8,1.0,0
+3,"Irrigation Setup, Pruning",Pesticide Spraying,20.31,4.4,3.6,0.39,0
+12,"Tractor Driving, Harvesting, Pesticide Spraying",Harvesting,7.72,4.9,3.6,0.37,1
+1,"Seeding, Tractor Driving, Pruning",Irrigation Setup,27.4,3.7,5.0,0.6,0
+13,Pruning,Seeding,9.5,4.1,4.1,0.69,1
+14,"Seeding, Pruning, Harvesting",Seeding,22.71,5.0,3.5,0.92,1
+15,"Seeding, Harvesting, Tractor Driving",Irrigation Setup,11.34,3.7,4.0,0.99,1
+5,Tractor Driving,Seeding,29.2,4.2,4.9,0.46,0
+10,"Tractor Driving, Harvesting, Pruning",Pesticide Spraying,20.31,4.7,3.5,0.59,0
+4,Harvesting,Tractor Driving,27.43,3.0,4.7,0.51,0
+14,"Tractor Driving, Irrigation Setup, Harvesting",Seeding,3.28,4.5,4.8,0.98,0
+11,"Harvesting, Irrigation Setup",Harvesting,34.66,4.6,3.9,0.47,1
+3,"Pesticide Spraying, Irrigation Setup, Tractor Driving",Pruning,11.64,4.5,4.1,0.45,0
+15,"Harvesting, Tractor Driving, Pesticide Spraying",Harvesting,11.76,4.4,4.0,0.45,1
+8,"Pesticide Spraying, Seeding, Pruning",Tractor Driving,3.36,4.7,4.8,0.45,1
+3,"Pruning, Pesticide Spraying, Seeding",Seeding,7.64,3.8,3.5,0.46,1
+3,"Seeding, Tractor Driving, Harvesting",Irrigation Setup,18.21,4.4,3.6,0.73,0
+9,Tractor Driving,Harvesting,23.05,4.1,4.6,0.89,0
+7,Tractor Driving,Pesticide Spraying,10.92,4.3,4.5,0.96,1
+11,Tractor Driving,Seeding,33.49,3.4,4.8,0.52,0
+9,"Tractor Driving, Seeding, Pesticide Spraying",Pesticide Spraying,10.61,3.7,5.0,0.85,1
+5,Irrigation Setup,Seeding,15.06,4.2,3.5,0.89,0
+5,"Harvesting, Seeding",Pesticide Spraying,9.76,4.8,4.7,0.99,1
+14,"Pruning, Tractor Driving",Pruning,6.86,3.4,4.4,0.34,1
+13,"Harvesting, Pesticide Spraying",Irrigation Setup,14.05,3.4,4.3,0.89,1
+13,"Irrigation Setup, Tractor Driving",Seeding,3.03,3.9,4.9,0.45,1
+5,Harvesting,Irrigation Setup,28.04,3.6,4.2,0.31,0
+12,"Pesticide Spraying, Tractor Driving, Irrigation Setup",Seeding,4.97,3.6,4.5,0.73,1
+11,"Irrigation Setup, Seeding, Tractor Driving",Pruning,20.47,4.6,3.9,0.83,0
+7,Pesticide Spraying,Pruning,23.83,4.8,4.0,0.85,0
+5,"Harvesting, Seeding",Tractor Driving,31.55,3.3,4.5,0.68,0
+8,Pesticide Spraying,Harvesting,4.52,4.2,4.0,0.32,0
+3,"Harvesting, Seeding, Pruning",Harvesting,3.62,3.3,3.5,0.57,1
+6,"Irrigation Setup, Harvesting",Pesticide Spraying,7.81,3.5,3.7,0.84,0
+11,"Pesticide Spraying, Tractor Driving",Tractor Driving,8.41,4.0,4.0,0.36,1
+2,"Harvesting, Irrigation Setup",Pruning,1.39,4.4,4.1,0.69,0
+8,Pruning,Harvesting,16.53,4.2,4.0,0.39,0
+3,Tractor Driving,Seeding,21.25,4.8,4.8,0.92,0
+8,"Pesticide Spraying, Seeding, Pruning",Harvesting,3.79,4.5,4.5,0.99,1
+1,"Pesticide Spraying, Seeding, Irrigation Setup",Seeding,5.0,3.3,4.4,0.81,1
+4,"Seeding, Harvesting",Harvesting,25.39,3.8,3.6,0.33,0
+5,Pesticide Spraying,Pruning,20.26,4.5,4.2,0.32,1
+4,Pesticide Spraying,Irrigation Setup,3.62,3.3,3.7,0.89,1
+5,"Seeding, Irrigation Setup, Pruning",Pruning,26.2,3.8,4.5,0.83,0
+1,"Tractor Driving, Pesticide Spraying, Harvesting",Irrigation Setup,8.66,4.4,3.5,0.47,0
+10,"Irrigation Setup, Tractor Driving, Seeding",Tractor Driving,13.99,3.4,3.9,0.62,1
+3,"Seeding, Pesticide Spraying",Harvesting,29.62,4.8,4.2,0.47,0
+3,"Irrigation Setup, Pesticide Spraying, Tractor Driving",Irrigation Setup,21.23,4.3,4.4,0.61,1
+13,"Pruning, Irrigation Setup, Tractor Driving",Pruning,30.22,3.3,4.2,0.45,1
+15,"Pruning, Seeding",Pesticide Spraying,20.53,3.1,3.9,0.83,0
+14,"Pruning, Seeding",Irrigation Setup,30.95,3.3,3.8,0.39,0
+15,Pesticide Spraying,Irrigation Setup,7.6,4.0,4.9,0.75,1
+14,Pesticide Spraying,Pruning,7.73,4.4,3.8,0.99,1
+9,"Harvesting, Irrigation Setup",Harvesting,25.36,4.2,3.6,0.89,0
+3,"Tractor Driving, Harvesting, Irrigation Setup",Seeding,25.73,3.2,4.6,0.33,0
+3,Harvesting,Irrigation Setup,30.73,3.4,4.7,0.62,0
+6,"Seeding, Pruning",Harvesting,11.28,4.3,4.1,0.36,0
+11,"Irrigation Setup, Seeding",Irrigation Setup,2.81,4.5,4.5,0.34,1
+9,Pruning,Pruning,6.28,3.0,3.5,0.66,1
+10,"Irrigation Setup, Seeding, Harvesting",Pruning,29.05,4.1,3.9,0.45,0
+7,Seeding,Tractor Driving,6.29,3.5,4.1,0.46,0
+3,"Harvesting, Pruning, Pesticide Spraying",Tractor Driving,3.2,3.0,3.4,0.69,0
+1,"Irrigation Setup, Seeding, Harvesting",Seeding,31.35,3.5,3.5,0.83,1
+1,"Tractor Driving, Seeding",Tractor Driving,4.14,4.6,4.7,0.86,1
+4,Harvesting,Pesticide Spraying,29.34,3.7,4.8,0.45,0
+13,Seeding,Pesticide Spraying,25.64,3.6,4.3,0.6,0
+3,Pruning,Pruning,22.08,4.9,3.9,0.55,1
+11,"Tractor Driving, Pesticide Spraying",Harvesting,21.57,4.6,3.9,0.44,1
+10,"Irrigation Setup, Tractor Driving",Seeding,32.38,4.5,4.2,0.78,0
+4,Pesticide Spraying,Pesticide Spraying,0.3,3.0,4.0,0.78,1
+11,"Pesticide Spraying, Irrigation Setup",Tractor Driving,16.09,3.7,3.9,0.42,0
+5,Irrigation Setup,Irrigation Setup,17.35,3.4,4.6,0.49,1
+4,"Pruning, Tractor Driving, Pesticide Spraying",Irrigation Setup,15.39,4.1,3.5,0.79,1
+8,"Harvesting, Pruning, Seeding",Harvesting,5.8,4.2,4.8,0.38,1
+5,"Harvesting, Seeding",Pruning,10.27,4.2,3.9,0.34,1
+4,"Pesticide Spraying, Irrigation Setup",Harvesting,6.5,5.0,4.0,0.44,0
+7,Pesticide Spraying,Irrigation Setup,7.71,3.6,4.8,1.0,1
+6,Pruning,Pesticide Spraying,1.12,3.8,3.6,0.55,1
+6,Harvesting,Pruning,22.0,3.8,4.3,0.45,0
+11,"Tractor Driving, Harvesting",Seeding,6.97,3.5,4.8,0.7,1
+15,"Tractor Driving, Pruning, Harvesting",Pruning,27.58,4.1,4.9,0.41,1
+12,Tractor Driving,Irrigation Setup,18.23,3.5,4.1,0.91,0
+15,"Tractor Driving, Pruning",Pruning,12.07,4.1,3.9,0.38,1
+2,"Pesticide Spraying, Irrigation Setup",Pruning,11.9,4.9,4.2,0.58,0
+4,Seeding,Pesticide Spraying,14.18,4.5,4.3,0.88,0
+11,Pruning,Irrigation Setup,30.9,3.7,3.5,0.97,0
+1,"Tractor Driving, Irrigation Setup",Pesticide Spraying,31.78,4.2,3.9,0.51,0
+14,"Pruning, Harvesting, Pesticide Spraying",Irrigation Setup,19.49,4.0,3.6,0.36,0
+15,Harvesting,Tractor Driving,26.36,3.3,3.6,0.69,0
+12,"Harvesting, Tractor Driving",Pruning,34.25,3.8,3.6,0.65,0
+15,"Irrigation Setup, Pesticide Spraying",Harvesting,11.87,3.7,3.7,0.9,1
+9,Irrigation Setup,Tractor Driving,30.28,4.2,4.3,0.87,0
+6,"Irrigation Setup, Pesticide Spraying",Harvesting,11.61,4.1,3.9,0.58,0
+10,"Pruning, Seeding",Pruning,17.64,3.8,4.4,0.34,1
+15,"Irrigation Setup, Tractor Driving, Pesticide Spraying",Pruning,22.7,4.4,4.9,0.47,0
+14,"Irrigation Setup, Pruning, Tractor Driving",Harvesting,15.59,4.0,4.4,0.86,1
+7,Harvesting,Tractor Driving,18.82,3.7,4.5,0.8,0
+6,Pesticide Spraying,Seeding,2.55,4.1,4.8,0.79,0
+9,Irrigation Setup,Tractor Driving,26.52,3.5,3.9,0.67,0
+13,Irrigation Setup,Pesticide Spraying,6.87,4.2,3.5,0.38,1
+1,"Seeding, Harvesting",Pruning,14.9,4.4,5.0,0.93,0
+9,"Pesticide Spraying, Irrigation Setup",Pruning,16.0,5.0,3.5,0.43,0
+2,Pruning,Tractor Driving,8.53,3.9,4.6,0.74,0
+1,"Tractor Driving, Seeding, Irrigation Setup",Tractor Driving,4.24,4.7,3.6,0.74,1
+6,"Harvesting, Pesticide Spraying",Irrigation Setup,2.47,3.1,3.7,0.81,1
+4,Irrigation Setup,Pruning,2.56,3.9,4.8,0.35,0
+2,Pruning,Irrigation Setup,0.51,3.9,3.4,0.94,0
+14,Irrigation Setup,Irrigation Setup,4.17,4.8,4.9,0.41,1
+4,"Seeding, Tractor Driving, Irrigation Setup",Seeding,13.02,3.1,5.0,0.31,0
+10,"Irrigation Setup, Tractor Driving, Seeding",Harvesting,7.03,3.5,4.8,0.87,0
+8,Pruning,Harvesting,25.81,3.4,4.8,0.59,1
+9,"Tractor Driving, Irrigation Setup",Pruning,22.46,4.7,4.3,0.59,0
+14,Seeding,Tractor Driving,28.47,4.5,4.3,0.74,0
+11,Harvesting,Pruning,1.69,3.4,3.7,0.48,1
+1,"Seeding, Pesticide Spraying",Irrigation Setup,16.8,3.6,3.9,0.48,0
+5,"Tractor Driving, Irrigation Setup, Pesticide Spraying",Pruning,15.71,4.3,4.7,0.6,0
+14,"Harvesting, Seeding",Pruning,29.43,3.9,4.4,0.42,0
+10,"Harvesting, Pesticide Spraying, Irrigation Setup",Pesticide Spraying,23.16,3.3,4.9,0.7,1
+6,"Pesticide Spraying, Irrigation Setup",Irrigation Setup,1.77,4.2,3.8,0.32,1
+9,"Tractor Driving, Pesticide Spraying",Harvesting,14.8,3.3,3.6,0.8,0
+5,Harvesting,Harvesting,21.17,4.2,4.3,0.94,1
+1,Irrigation Setup,Irrigation Setup,18.68,4.8,4.9,0.37,1
+15,"Tractor Driving, Pesticide Spraying",Pruning,28.65,4.3,4.7,0.96,0
+3,"Seeding, Harvesting",Pruning,30.01,4.8,3.9,0.88,0
+2,Pesticide Spraying,Pruning,33.92,4.4,4.0,0.43,0
+13,"Pesticide Spraying, Irrigation Setup",Harvesting,30.23,4.6,3.6,0.83,0
+8,Irrigation Setup,Harvesting,2.11,3.7,4.1,0.88,0
+1,"Seeding, Tractor Driving, Pesticide Spraying",Pesticide Spraying,25.03,4.3,4.0,0.94,0
+13,"Pesticide Spraying, Seeding, Irrigation Setup",Tractor Driving,1.41,3.1,4.0,0.36,1
+10,"Pesticide Spraying, Tractor Driving, Pruning",Harvesting,18.42,3.7,4.3,0.97,1
+15,Tractor Driving,Irrigation Setup,5.39,4.4,4.9,0.65,1
+4,"Seeding, Harvesting, Irrigation Setup",Seeding,6.25,4.1,4.5,0.44,1
+10,"Tractor Driving, Irrigation Setup, Pruning",Harvesting,20.21,3.1,3.8,0.8,0
+7,Seeding,Seeding,0.45,4.8,3.5,0.97,1
+7,"Pesticide Spraying, Pruning",Tractor Driving,33.43,4.4,4.3,0.66,0
+7,"Irrigation Setup, Tractor Driving, Harvesting",Tractor Driving,23.65,4.8,4.7,0.51,1
+6,Pruning,Seeding,8.68,3.1,3.7,0.39,0
+4,"Pesticide Spraying, Seeding, Irrigation Setup",Pesticide Spraying,24.71,3.6,4.6,0.44,0
+13,"Irrigation Setup, Harvesting",Pruning,18.93,4.8,3.5,0.71,0
+7,Pruning,Pruning,15.37,3.8,4.7,0.45,1
+5,"Seeding, Harvesting, Tractor Driving",Seeding,22.05,4.1,4.9,0.43,1
+9,"Irrigation Setup, Tractor Driving",Pesticide Spraying,4.17,3.4,4.2,0.89,1
+3,Seeding,Harvesting,13.98,5.0,4.1,0.51,0
+15,"Tractor Driving, Pruning, Seeding",Irrigation Setup,20.04,4.1,4.8,1.0,0
+3,"Seeding, Harvesting, Tractor Driving",Pruning,26.07,3.7,4.3,0.37,0
+7,"Pruning, Seeding, Irrigation Setup",Pruning,17.81,4.8,4.4,0.89,1
+13,"Pesticide Spraying, Tractor Driving, Seeding",Harvesting,3.27,3.4,4.8,0.74,1
+2,Seeding,Tractor Driving,16.35,3.6,4.5,0.89,0
+12,"Irrigation Setup, Harvesting, Pruning",Seeding,8.59,3.2,4.8,0.3,0
+1,"Irrigation Setup, Seeding, Pesticide Spraying",Pesticide Spraying,14.59,4.4,3.6,0.49,1
+2,Pesticide Spraying,Irrigation Setup,5.36,4.5,3.7,0.6,0
+1,"Seeding, Harvesting",Tractor Driving,24.37,5.0,4.9,0.46,0
+14,Harvesting,Seeding,12.04,3.8,3.9,0.61,0
+1,Pesticide Spraying,Harvesting,9.76,4.0,3.9,0.99,0
+2,"Tractor Driving, Pesticide Spraying, Irrigation Setup",Pesticide Spraying,7.64,3.5,3.6,0.54,1
+4,Irrigation Setup,Tractor Driving,1.49,3.8,3.7,0.43,1
+6,Seeding,Harvesting,33.57,3.0,4.6,0.97,0
+12,Irrigation Setup,Pesticide Spraying,22.57,4.9,3.6,0.59,0
+11,"Seeding, Pesticide Spraying, Irrigation Setup",Harvesting,19.02,4.4,4.1,0.9,0
+13,"Seeding, Pesticide Spraying, Tractor Driving",Pruning,13.33,3.9,4.7,0.86,0
+13,"Pesticide Spraying, Irrigation Setup, Harvesting",Irrigation Setup,14.34,3.6,3.8,0.67,1
+7,Pesticide Spraying,Tractor Driving,0.35,3.6,3.8,0.98,0
+10,"Pesticide Spraying, Tractor Driving, Irrigation Setup",Harvesting,3.52,4.0,3.7,0.68,0
+15,"Irrigation Setup, Seeding, Harvesting",Irrigation Setup,9.4,4.4,3.7,0.62,1
+5,"Irrigation Setup, Pruning, Pesticide Spraying",Irrigation Setup,10.91,3.9,3.7,0.75,1
+8,"Seeding, Irrigation Setup, Tractor Driving",Pruning,15.34,3.3,4.1,0.81,0
+10,Pesticide Spraying,Pesticide Spraying,12.06,4.1,4.1,0.76,1
+3,Seeding,Irrigation Setup,8.82,4.3,4.7,0.62,0
+3,"Tractor Driving, Pruning",Tractor Driving,17.99,4.7,4.1,0.82,0
+13,"Irrigation Setup, Pruning, Pesticide Spraying",Tractor Driving,32.27,3.6,3.8,0.57,0
+9,"Harvesting, Pruning",Tractor Driving,23.88,4.1,4.1,0.68,0
+4,"Tractor Driving, Irrigation Setup",Tractor Driving,17.71,4.8,3.8,0.91,1
+15,"Pruning, Tractor Driving, Pesticide Spraying",Harvesting,4.86,4.4,3.8,0.85,1
+2,"Tractor Driving, Irrigation Setup",Pruning,9.23,3.8,4.0,0.56,0
+13,"Seeding, Tractor Driving, Harvesting",Tractor Driving,22.93,4.5,3.4,0.74,1
+10,Pruning,Tractor Driving,8.88,3.0,4.4,0.62,0
+1,"Irrigation Setup, Pruning",Harvesting,6.52,4.6,4.9,0.53,0
+10,"Seeding, Tractor Driving, Harvesting",Seeding,3.06,4.0,4.0,0.91,1
+10,Pruning,Pruning,22.05,3.3,3.5,0.53,1
+1,Harvesting,Harvesting,32.85,4.4,4.3,0.84,0
+9,"Harvesting, Tractor Driving, Seeding",Harvesting,0.55,5.0,4.5,0.56,1
+10,"Tractor Driving, Seeding",Harvesting,19.92,4.4,4.6,0.93,0
+12,Harvesting,Seeding,4.52,3.4,3.5,0.4,0
+2,"Pesticide Spraying, Harvesting, Tractor Driving",Tractor Driving,25.5,4.0,4.5,0.63,1
+13,"Seeding, Pruning",Tractor Driving,7.94,4.7,4.5,0.91,0
+13,"Pesticide Spraying, Pruning",Tractor Driving,5.26,3.4,4.5,0.69,1
+15,Harvesting,Seeding,10.4,4.0,4.0,0.97,1
+2,"Pesticide Spraying, Seeding, Harvesting",Harvesting,10.55,4.5,4.0,0.81,1
+9,Harvesting,Seeding,26.5,3.5,4.8,0.57,0
+10,"Harvesting, Seeding",Pruning,28.05,4.3,3.4,0.48,0
+13,Harvesting,Tractor Driving,14.9,4.7,3.4,0.38,0
+8,Tractor Driving,Pruning,20.94,3.1,3.5,0.81,0
+8,"Tractor Driving, Pesticide Spraying",Irrigation Setup,20.46,4.1,4.7,0.46,0
+14,"Tractor Driving, Pruning",Irrigation Setup,16.46,5.0,4.0,0.57,1
+5,"Harvesting, Pruning, Tractor Driving",Harvesting,3.49,4.4,4.1,0.91,1
+3,Harvesting,Pesticide Spraying,21.7,3.2,4.6,0.99,0
+14,"Harvesting, Seeding",Pesticide Spraying,8.66,4.0,4.9,0.61,0
+9,Pesticide Spraying,Harvesting,15.76,4.4,4.0,0.95,1
+5,Seeding,Tractor Driving,32.48,4.4,3.8,0.65,0
+2,Pruning,Seeding,19.53,4.3,4.9,0.78,0
+6,"Seeding, Tractor Driving",Irrigation Setup,17.47,4.9,4.6,0.81,1
+15,"Tractor Driving, Pesticide Spraying",Seeding,4.61,4.9,4.9,0.98,1
+3,"Pesticide Spraying, Harvesting",Pesticide Spraying,34.91,4.9,4.5,0.79,1
+4,"Irrigation Setup, Pesticide Spraying",Pesticide Spraying,10.09,4.1,3.5,0.94,1
+12,"Harvesting, Irrigation Setup, Tractor Driving",Irrigation Setup,33.93,5.0,3.7,0.91,1
+5,Pesticide Spraying,Tractor Driving,29.25,3.6,4.2,0.91,0
+1,"Pruning, Irrigation Setup",Harvesting,23.26,4.8,4.5,0.39,0
+14,Seeding,Pruning,3.82,3.7,4.3,0.87,1
+9,"Pesticide Spraying, Tractor Driving, Harvesting",Pesticide Spraying,2.13,3.3,4.4,0.73,1
+10,Tractor Driving,Pruning,2.52,3.7,4.4,0.69,1
+7,"Pesticide Spraying, Pruning",Pruning,33.4,3.5,3.8,0.96,1
+3,"Irrigation Setup, Pruning",Seeding,21.55,3.6,4.4,0.76,0
+8,"Pesticide Spraying, Tractor Driving, Seeding",Pruning,17.02,4.9,4.5,0.41,1
+2,"Seeding, Pruning",Seeding,27.16,4.9,4.0,0.58,0
+11,"Pruning, Seeding, Tractor Driving",Pruning,1.29,4.8,4.7,0.98,1
+1,Seeding,Irrigation Setup,16.15,3.8,4.3,0.47,0
+3,"Seeding, Irrigation Setup",Irrigation Setup,22.5,4.1,3.6,0.94,1
+1,"Tractor Driving, Harvesting, Irrigation Setup",Pesticide Spraying,5.43,3.8,4.5,0.46,0
+8,Tractor Driving,Harvesting,31.13,3.7,3.6,0.64,0
+4,"Seeding, Pruning",Tractor Driving,34.66,3.7,3.8,0.38,0
+10,Harvesting,Pesticide Spraying,29.63,4.2,4.1,0.59,0
+8,"Tractor Driving, Pesticide Spraying",Pruning,1.98,4.7,4.1,0.69,1
+15,Seeding,Pruning,23.24,4.3,4.8,0.83,0
+10,Tractor Driving,Tractor Driving,8.0,4.3,3.6,0.62,1
+4,Irrigation Setup,Tractor Driving,22.64,4.2,4.6,0.75,0
+14,Irrigation Setup,Irrigation Setup,33.9,3.3,4.8,0.5,0
+8,Pruning,Irrigation Setup,34.03,3.7,4.0,0.44,0
+11,Irrigation Setup,Pruning,7.94,3.4,3.4,0.45,0
+12,"Harvesting, Irrigation Setup",Irrigation Setup,15.7,3.6,4.8,0.9,1
+7,"Harvesting, Pruning, Tractor Driving",Harvesting,31.53,4.9,4.7,0.73,1
+12,Pesticide Spraying,Tractor Driving,31.14,3.9,3.9,0.96,0
+3,Tractor Driving,Harvesting,18.84,3.6,3.9,0.57,1
+15,Seeding,Pruning,17.18,4.7,4.1,0.55,0
+14,Tractor Driving,Pruning,22.21,3.2,4.9,0.5,0
+15,"Tractor Driving, Seeding, Pesticide Spraying",Pruning,26.53,3.1,4.8,0.6,0
+8,"Irrigation Setup, Pesticide Spraying",Pruning,4.12,4.1,3.8,0.98,0
+11,"Irrigation Setup, Harvesting, Pesticide Spraying",Harvesting,5.55,4.6,3.6,0.43,1
+8,Harvesting,Irrigation Setup,7.71,4.8,4.8,0.37,1
+5,Seeding,Tractor Driving,7.99,3.4,4.9,0.97,0
+14,"Tractor Driving, Harvesting, Pruning",Pruning,6.83,3.4,3.9,0.52,1
+3,"Pruning, Seeding, Pesticide Spraying",Seeding,7.46,3.3,4.1,0.39,1
+8,"Pesticide Spraying, Tractor Driving, Pruning",Tractor Driving,30.53,3.5,3.5,0.76,0
+7,"Harvesting, Seeding",Pruning,11.36,5.0,4.5,0.81,1
+2,Irrigation Setup,Tractor Driving,20.33,4.4,4.6,0.52,0
+2,"Seeding, Harvesting",Tractor Driving,11.69,4.6,3.7,0.63,1
+7,"Tractor Driving, Seeding",Seeding,32.84,3.3,4.0,0.5,0
+8,Irrigation Setup,Pruning,20.86,4.5,3.7,0.7,0
+10,"Pesticide Spraying, Pruning",Pruning,9.21,3.5,3.8,0.54,1
+4,Harvesting,Pesticide Spraying,27.74,4.4,5.0,0.31,0
+2,"Pruning, Tractor Driving, Pesticide Spraying",Harvesting,26.97,3.9,4.7,0.85,0
+5,Harvesting,Pesticide Spraying,24.36,3.5,3.8,0.74,0
+15,"Pesticide Spraying, Harvesting, Tractor Driving",Pesticide Spraying,29.87,4.9,4.3,0.94,1
+3,Seeding,Harvesting,29.82,3.0,3.5,0.72,0
+15,Tractor Driving,Seeding,14.04,3.5,3.9,0.39,0
+3,Pesticide Spraying,Tractor Driving,16.42,3.8,4.8,0.52,0
+4,"Tractor Driving, Harvesting, Irrigation Setup",Pesticide Spraying,17.25,4.3,3.6,0.42,0
+13,Seeding,Seeding,33.02,3.4,3.5,0.68,1
+3,Seeding,Pruning,1.51,3.9,4.0,0.4,0
+1,Harvesting,Pesticide Spraying,23.61,3.9,3.6,0.37,0
+8,Pesticide Spraying,Harvesting,25.89,3.3,4.2,0.5,0
+3,"Pesticide Spraying, Pruning",Seeding,25.54,4.7,3.6,0.39,0
+15,Pesticide Spraying,Pruning,5.15,4.2,5.0,0.37,1
+1,"Pesticide Spraying, Tractor Driving, Harvesting",Pesticide Spraying,7.61,3.6,4.2,0.66,1
+5,"Irrigation Setup, Seeding",Harvesting,10.61,3.6,4.8,0.81,0
+5,"Tractor Driving, Harvesting, Pruning",Pruning,0.8,4.8,3.5,0.53,1
+13,"Harvesting, Pesticide Spraying, Tractor Driving",Tractor Driving,22.62,4.8,4.0,0.35,1
+10,"Pruning, Harvesting, Seeding",Irrigation Setup,9.46,3.6,4.1,0.4,0
+15,Tractor Driving,Irrigation Setup,3.89,3.5,4.9,0.77,1
+10,"Tractor Driving, Irrigation Setup, Pesticide Spraying",Pruning,0.92,3.9,3.8,0.78,1
+4,Pesticide Spraying,Pesticide Spraying,19.49,4.4,4.4,0.39,0
+15,"Seeding, Pruning",Harvesting,5.85,3.2,4.2,0.8,0
+10,"Irrigation Setup, Pruning, Tractor Driving",Tractor Driving,13.38,4.8,3.5,0.9,1
+14,"Seeding, Harvesting, Tractor Driving",Seeding,20.5,3.4,3.5,0.38,1
+6,"Pruning, Harvesting, Seeding",Tractor Driving,28.22,4.5,4.9,0.61,0
+11,"Seeding, Harvesting",Pruning,12.22,4.5,4.4,0.59,0
+15,Pruning,Pesticide Spraying,1.55,4.7,4.3,0.55,0
+7,Pesticide Spraying,Tractor Driving,24.47,3.6,4.8,0.54,0
+4,Pesticide Spraying,Seeding,15.2,4.7,3.6,0.5,1
+13,"Pesticide Spraying, Harvesting",Harvesting,22.92,4.5,3.4,0.97,1
+4,Irrigation Setup,Pruning,31.48,5.0,4.6,0.98,0
+13,"Pruning, Pesticide Spraying",Pruning,2.89,4.8,4.6,0.53,1
+8,"Tractor Driving, Harvesting, Pruning",Harvesting,9.79,4.2,4.9,0.32,1
+1,"Pesticide Spraying, Pruning",Pruning,8.03,4.3,4.5,0.78,1
+3,"Irrigation Setup, Tractor Driving, Pruning",Pesticide Spraying,19.22,4.5,4.8,0.85,0
+6,"Seeding, Pesticide Spraying, Irrigation Setup",Harvesting,21.41,3.1,4.6,0.37,0
+5,"Pruning, Seeding, Irrigation Setup",Pesticide Spraying,9.27,3.6,4.9,0.57,1
+15,"Harvesting, Seeding, Irrigation Setup",Irrigation Setup,4.9,4.3,4.3,0.32,1
+15,Irrigation Setup,Seeding,12.84,4.7,4.1,0.94,1
+10,Tractor Driving,Harvesting,10.26,4.8,4.2,0.49,0
+8,"Pruning, Tractor Driving",Seeding,27.73,4.8,4.0,0.72,0
+3,"Harvesting, Tractor Driving",Pruning,34.34,4.9,4.6,0.79,0
+15,"Irrigation Setup, Harvesting",Pesticide Spraying,7.54,4.9,3.4,0.98,1
+14,"Pruning, Seeding",Pruning,20.25,3.4,4.3,0.68,1
+10,Harvesting,Tractor Driving,23.11,3.0,3.5,0.37,0
+9,"Harvesting, Pruning, Seeding",Tractor Driving,2.99,3.4,3.9,0.59,0
+5,"Pesticide Spraying, Harvesting",Pesticide Spraying,14.49,4.0,3.6,0.32,1
+9,"Seeding, Pruning",Tractor Driving,29.21,4.6,3.6,0.95,0
+1,"Irrigation Setup, Pruning, Harvesting",Pesticide Spraying,31.92,3.0,4.4,0.57,0
+1,"Harvesting, Seeding",Tractor Driving,7.23,3.0,4.3,0.63,0
+8,"Tractor Driving, Irrigation Setup",Pesticide Spraying,34.47,4.5,4.9,0.66,0
+8,"Harvesting, Seeding, Pruning",Harvesting,31.41,3.6,3.7,0.61,1
+8,"Pruning, Irrigation Setup",Tractor Driving,9.85,4.7,4.4,0.3,0
+4,Tractor Driving,Harvesting,20.88,3.2,3.9,0.69,0
+8,"Pruning, Pesticide Spraying, Seeding",Irrigation Setup,5.39,4.9,4.6,0.48,0
+13,Harvesting,Tractor Driving,10.07,3.0,4.3,0.97,1
+2,Pesticide Spraying,Pruning,11.29,3.3,4.2,0.67,0
+8,Pesticide Spraying,Irrigation Setup,24.2,4.8,4.5,0.81,0
+10,"Pruning, Seeding",Tractor Driving,27.47,3.6,4.3,0.47,0
+14,"Pesticide Spraying, Tractor Driving, Harvesting",Harvesting,10.8,4.0,4.1,0.37,1
+6,"Pesticide Spraying, Irrigation Setup",Tractor Driving,11.52,3.7,3.5,0.99,1
+11,Pesticide Spraying,Pruning,4.67,3.9,4.2,0.39,0
+7,"Pruning, Seeding",Irrigation Setup,24.26,3.2,4.5,0.5,1
+1,Irrigation Setup,Pruning,10.21,3.5,4.6,0.38,0
+14,"Irrigation Setup, Seeding",Pruning,2.4,4.4,4.3,0.54,1
+10,Seeding,Seeding,8.09,4.0,4.2,0.71,1
+15,Harvesting,Irrigation Setup,5.18,3.3,4.4,0.91,1
+9,"Seeding, Irrigation Setup, Tractor Driving",Pesticide Spraying,27.01,3.6,4.7,0.88,0
+15,"Irrigation Setup, Pesticide Spraying, Harvesting",Tractor Driving,0.83,3.2,3.5,0.8,1
+1,"Tractor Driving, Pruning",Pesticide Spraying,11.84,4.9,3.4,0.54,1
+8,Irrigation Setup,Pruning,27.16,3.1,4.5,0.87,0
+15,"Seeding, Harvesting",Pruning,5.19,4.0,4.7,0.33,0
+4,Irrigation Setup,Pruning,11.24,4.8,4.0,0.69,0
+3,"Seeding, Harvesting, Irrigation Setup",Tractor Driving,8.39,4.9,4.8,0.31,1
+10,"Tractor Driving, Pruning, Irrigation Setup",Seeding,17.28,4.6,3.6,0.35,1
+14,"Tractor Driving, Pesticide Spraying",Tractor Driving,8.41,4.1,3.8,0.4,1
+6,Irrigation Setup,Seeding,28.47,4.6,4.4,0.62,0
+13,Pesticide Spraying,Pesticide Spraying,24.65,3.1,4.9,0.33,0
+3,Pesticide Spraying,Pesticide Spraying,13.79,3.2,3.5,0.41,1
+13,"Harvesting, Pruning, Seeding",Pruning,19.42,3.8,4.7,0.99,1
+7,"Pesticide Spraying, Irrigation Setup",Seeding,19.02,4.0,3.4,0.3,0
+11,"Seeding, Pesticide Spraying",Harvesting,20.28,4.2,3.9,0.54,0
+10,Pruning,Pruning,32.89,3.5,4.2,0.42,0
+15,"Tractor Driving, Seeding",Seeding,33.18,4.8,3.8,0.37,1
+13,Seeding,Pruning,26.44,3.9,5.0,0.37,0
+9,"Pesticide Spraying, Pruning",Irrigation Setup,18.82,4.9,3.9,0.5,0
+10,"Irrigation Setup, Seeding",Harvesting,5.56,3.2,4.1,0.88,1
+4,Harvesting,Harvesting,25.24,3.5,3.7,0.88,1
+1,"Harvesting, Seeding, Pruning",Harvesting,10.86,4.0,4.1,0.42,1
+1,"Irrigation Setup, Seeding",Seeding,24.32,4.0,4.3,0.82,1
+1,Irrigation Setup,Pruning,31.29,4.3,4.5,0.77,0
+8,"Seeding, Harvesting, Pesticide Spraying",Pruning,18.96,3.7,5.0,0.79,0
+7,Tractor Driving,Pruning,0.74,3.4,3.5,0.85,0
+10,"Pruning, Harvesting, Tractor Driving",Pruning,18.82,4.4,4.6,0.33,1
+9,Pesticide Spraying,Pruning,3.22,3.4,4.2,0.76,1
+8,"Irrigation Setup, Pruning",Harvesting,22.39,4.8,4.5,0.87,0
+2,"Tractor Driving, Seeding",Pesticide Spraying,15.5,4.6,4.6,0.39,1
+10,"Irrigation Setup, Pesticide Spraying",Pesticide Spraying,1.58,3.8,4.7,0.97,1
+7,"Irrigation Setup, Tractor Driving",Harvesting,34.55,4.8,4.1,0.56,0
+15,"Harvesting, Irrigation Setup",Harvesting,19.0,4.3,4.6,0.61,1
+3,Pesticide Spraying,Seeding,33.67,4.2,5.0,0.56,0
+14,"Seeding, Pesticide Spraying, Irrigation Setup",Tractor Driving,6.91,5.0,4.7,0.8,1
+10,"Pruning, Tractor Driving, Irrigation Setup",Tractor Driving,5.52,3.8,3.7,0.55,1
+7,"Irrigation Setup, Pruning, Harvesting",Seeding,27.8,3.2,3.5,0.86,0
+2,"Tractor Driving, Pruning",Irrigation Setup,11.71,4.8,4.7,0.97,0
+4,Pruning,Pesticide Spraying,33.07,3.3,3.8,0.83,0
+5,"Tractor Driving, Pruning, Irrigation Setup",Harvesting,27.35,4.7,4.5,0.83,0
+14,"Tractor Driving, Seeding, Harvesting",Irrigation Setup,11.93,3.2,4.7,0.62,0
+6,"Pruning, Pesticide Spraying, Tractor Driving",Pesticide Spraying,32.77,4.2,3.9,0.4,0
+9,Harvesting,Harvesting,32.39,4.8,3.9,0.81,0
+4,Pruning,Harvesting,29.23,3.2,4.4,0.65,0
+8,"Seeding, Tractor Driving, Harvesting",Seeding,21.32,5.0,3.8,0.75,1
+14,"Seeding, Harvesting, Pruning",Harvesting,2.49,4.6,4.2,0.32,1
+9,"Irrigation Setup, Tractor Driving, Pruning",Irrigation Setup,3.03,4.4,4.1,0.81,1
+13,"Pesticide Spraying, Tractor Driving, Seeding",Irrigation Setup,8.1,4.2,4.4,0.81,1
+6,Pesticide Spraying,Tractor Driving,22.23,4.1,3.6,0.5,0
+10,"Tractor Driving, Pruning, Pesticide Spraying",Irrigation Setup,13.51,4.5,4.5,0.33,0
+13,Pesticide Spraying,Harvesting,17.38,3.7,4.1,0.54,0
+9,Irrigation Setup,Harvesting,12.57,4.4,4.1,0.76,1
+2,"Seeding, Harvesting, Irrigation Setup",Pruning,31.06,3.5,4.7,0.62,0
+3,"Harvesting, Irrigation Setup, Tractor Driving",Pesticide Spraying,31.32,4.0,4.3,0.97,0
+5,"Tractor Driving, Harvesting",Harvesting,22.46,3.3,4.8,0.67,1
+5,"Pesticide Spraying, Tractor Driving",Pruning,4.27,4.5,4.6,0.98,0
+7,Pruning,Harvesting,29.88,5.0,4.7,0.9,0
+5,"Harvesting, Pruning",Irrigation Setup,20.6,3.4,4.8,1.0,0
+6,Tractor Driving,Irrigation Setup,18.17,4.4,3.5,0.86,1
+12,"Pruning, Pesticide Spraying",Irrigation Setup,7.69,3.2,4.3,0.31,0
+3,"Tractor Driving, Irrigation Setup",Pesticide Spraying,34.53,4.8,4.5,0.37,0
+5,Tractor Driving,Irrigation Setup,30.49,4.5,3.8,0.35,0
+5,"Irrigation Setup, Seeding, Harvesting",Harvesting,23.8,4.9,4.4,0.83,1
+2,"Pesticide Spraying, Pruning",Seeding,31.61,3.1,4.2,0.32,0
+14,"Seeding, Harvesting, Tractor Driving",Seeding,33.57,3.1,5.0,0.53,0
+6,"Pesticide Spraying, Harvesting, Tractor Driving",Seeding,3.89,3.5,4.0,0.42,0
+3,Seeding,Harvesting,31.87,4.9,3.4,0.81,0
+12,"Seeding, Tractor Driving, Irrigation Setup",Pesticide Spraying,7.54,4.0,4.0,0.58,1
+6,Tractor Driving,Harvesting,24.64,4.4,4.1,0.4,0
+1,"Tractor Driving, Irrigation Setup",Harvesting,22.44,4.2,3.8,0.75,0
+13,"Irrigation Setup, Tractor Driving, Pesticide Spraying",Pesticide Spraying,11.72,4.2,3.7,0.5,1
+3,"Tractor Driving, Harvesting",Pesticide Spraying,18.51,4.2,4.3,0.76,0
+1,"Seeding, Pesticide Spraying, Pruning",Irrigation Setup,33.9,4.3,5.0,0.7,0
+14,"Pruning, Seeding",Pruning,18.81,4.3,3.5,0.81,1
+15,Pesticide Spraying,Tractor Driving,21.17,3.7,3.7,0.54,0
+9,Irrigation Setup,Irrigation Setup,27.06,3.8,3.7,0.96,1
+6,"Pruning, Harvesting",Seeding,12.15,3.9,3.6,0.42,1
+11,"Pesticide Spraying, Tractor Driving, Seeding",Irrigation Setup,7.92,4.0,3.5,0.62,1
+6,"Pruning, Irrigation Setup",Pruning,30.81,3.1,4.1,0.9,1
+9,"Irrigation Setup, Pesticide Spraying, Seeding",Seeding,25.77,5.0,4.7,0.69,1
+8,Seeding,Pruning,7.7,3.2,4.1,0.43,1
+1,"Tractor Driving, Seeding",Pesticide Spraying,9.1,3.2,3.8,0.84,0
+7,"Irrigation Setup, Harvesting",Pruning,22.2,4.0,4.5,0.57,0
+2,Harvesting,Seeding,29.37,3.4,4.0,0.31,0
+13,"Seeding, Pruning",Pesticide Spraying,27.28,4.0,4.8,0.54,0
+12,"Irrigation Setup, Seeding, Pesticide Spraying",Pruning,15.7,3.7,3.5,0.88,1
+5,Harvesting,Tractor Driving,4.46,4.8,4.6,0.43,0
+6,"Pruning, Tractor Driving",Pesticide Spraying,18.1,3.5,4.8,0.52,0
+1,Harvesting,Tractor Driving,18.77,4.5,4.6,0.73,0
+8,"Pesticide Spraying, Irrigation Setup, Tractor Driving",Pesticide Spraying,25.16,4.0,4.4,0.59,1
+15,Harvesting,Pesticide Spraying,4.3,3.7,4.8,0.81,1
+11,"Harvesting, Pesticide Spraying, Tractor Driving",Pruning,24.05,3.4,5.0,0.89,0
+12,"Pesticide Spraying, Tractor Driving, Harvesting",Pruning,9.74,4.0,4.0,0.42,1
+4,"Seeding, Tractor Driving",Seeding,22.81,3.8,4.2,0.91,1
+1,Harvesting,Seeding,3.12,4.8,3.5,0.69,0
+1,"Irrigation Setup, Seeding",Irrigation Setup,30.58,4.0,3.4,0.8,1
+14,Seeding,Irrigation Setup,32.67,3.6,3.5,0.77,0
+7,"Irrigation Setup, Pruning",Pesticide Spraying,29.08,3.4,4.7,0.76,0
+8,"Tractor Driving, Irrigation Setup",Harvesting,9.65,3.6,3.6,0.95,1
+12,"Pruning, Harvesting",Pesticide Spraying,0.72,4.1,4.3,0.94,1
+14,"Harvesting, Irrigation Setup",Pruning,9.15,3.8,4.7,0.98,1
+13,Seeding,Pesticide Spraying,19.4,3.6,4.3,0.39,0
+11,"Pruning, Tractor Driving, Harvesting",Pesticide Spraying,6.89,3.7,4.4,0.37,1
+9,Irrigation Setup,Seeding,32.07,4.7,4.3,0.66,0
+14,Pruning,Pesticide Spraying,19.58,3.2,4.9,0.7,1
+7,Pruning,Harvesting,0.94,3.1,4.8,0.91,1
+1,"Seeding, Harvesting, Pesticide Spraying",Irrigation Setup,12.01,4.3,4.9,0.47,0
+15,Harvesting,Pruning,16.17,4.1,3.6,0.99,1
+14,Pruning,Irrigation Setup,17.36,4.7,3.9,0.41,1
+13,"Pesticide Spraying, Irrigation Setup",Pesticide Spraying,21.46,4.4,3.4,0.7,1
+6,"Harvesting, Seeding",Pesticide Spraying,20.02,3.8,5.0,0.66,0
+15,"Seeding, Harvesting",Pruning,7.22,3.1,4.8,0.91,1
+7,"Irrigation Setup, Pruning",Pruning,23.88,5.0,4.7,0.76,1
+4,"Harvesting, Pesticide Spraying, Irrigation Setup",Harvesting,30.1,4.8,4.9,0.92,1
+3,Harvesting,Harvesting,13.68,4.9,4.8,0.67,1
+9,Harvesting,Pesticide Spraying,16.11,3.7,4.4,0.77,1
+4,"Irrigation Setup, Pruning, Tractor Driving",Tractor Driving,8.12,4.9,4.0,0.94,1
+5,Tractor Driving,Irrigation Setup,28.38,4.9,3.6,0.35,0
+10,"Seeding, Harvesting",Irrigation Setup,21.75,3.3,3.9,0.77,1
+11,Pesticide Spraying,Harvesting,17.69,3.5,4.3,0.61,0
+2,Harvesting,Pesticide Spraying,0.89,4.0,3.9,0.3,0
+6,Pesticide Spraying,Pesticide Spraying,28.88,3.4,4.2,0.64,0
+9,"Seeding, Pruning, Pesticide Spraying",Irrigation Setup,28.19,3.9,4.2,0.87,0
+13,Tractor Driving,Seeding,24.93,4.0,4.9,0.82,0
+3,"Harvesting, Tractor Driving",Pesticide Spraying,8.08,3.7,3.8,0.71,0
+6,Seeding,Pruning,31.25,3.6,3.7,0.72,0
+9,"Pruning, Harvesting, Tractor Driving",Seeding,25.63,4.5,3.7,0.63,0
+1,"Irrigation Setup, Pruning",Pesticide Spraying,7.57,3.8,4.8,0.45,0
+13,"Irrigation Setup, Pruning",Tractor Driving,4.58,4.4,4.6,0.33,1
+7,Pesticide Spraying,Pesticide Spraying,11.27,4.5,3.4,0.67,1
+12,"Harvesting, Pesticide Spraying, Tractor Driving",Irrigation Setup,25.92,4.5,4.4,0.32,0
+14,"Irrigation Setup, Tractor Driving, Harvesting",Harvesting,25.72,4.2,4.0,0.5,1
+15,"Harvesting, Tractor Driving",Harvesting,14.87,4.8,4.1,0.35,1
+15,"Tractor Driving, Pruning, Seeding",Tractor Driving,10.05,4.1,3.5,0.64,1
+14,"Harvesting, Pesticide Spraying",Tractor Driving,2.68,4.1,3.7,0.31,1
+12,"Seeding, Irrigation Setup, Pesticide Spraying",Pesticide Spraying,2.7,3.7,3.7,0.76,1
+2,"Pruning, Tractor Driving, Harvesting",Tractor Driving,16.0,4.0,3.5,0.35,1
+15,Pesticide Spraying,Pruning,10.39,4.8,3.9,0.85,1
+1,"Seeding, Irrigation Setup",Tractor Driving,12.92,4.5,4.2,0.82,0
+5,"Tractor Driving, Harvesting",Pesticide Spraying,2.58,3.5,4.3,0.31,1
+14,"Tractor Driving, Pesticide Spraying",Seeding,4.73,3.9,3.6,0.65,1
+2,"Harvesting, Tractor Driving, Pruning",Harvesting,32.45,4.3,4.9,0.88,0
+12,"Harvesting, Tractor Driving, Irrigation Setup",Pruning,8.67,3.4,4.9,0.97,0
+4,Pesticide Spraying,Harvesting,34.94,3.1,4.1,0.62,0
+4,"Irrigation Setup, Seeding",Pruning,1.63,3.9,4.5,0.6,0
+15,"Pesticide Spraying, Harvesting",Seeding,31.15,4.7,4.4,0.57,0
+8,Pesticide Spraying,Pruning,14.24,4.9,4.4,0.41,0
+3,Tractor Driving,Pruning,11.83,3.8,4.4,1.0,0
+13,"Pruning, Seeding, Pesticide Spraying",Harvesting,25.59,3.7,4.8,0.75,0
+13,"Pesticide Spraying, Irrigation Setup",Harvesting,24.43,4.5,3.8,0.54,0
+11,Irrigation Setup,Pruning,19.25,4.7,3.7,0.52,0
+8,"Pruning, Tractor Driving, Pesticide Spraying",Tractor Driving,29.96,4.9,4.3,0.47,1
+6,"Tractor Driving, Seeding",Pesticide Spraying,34.9,4.1,3.5,0.86,0
+15,"Seeding, Pruning, Irrigation Setup",Harvesting,17.64,4.5,4.3,0.36,1
+14,"Harvesting, Tractor Driving, Irrigation Setup",Tractor Driving,19.28,3.5,4.5,0.97,1
+3,Harvesting,Harvesting,6.25,5.0,4.1,0.91,1
+11,"Pesticide Spraying, Tractor Driving, Harvesting",Seeding,29.11,4.3,4.8,0.79,0
+15,Pesticide Spraying,Tractor Driving,3.21,4.5,3.6,0.92,1
+14,"Irrigation Setup, Pruning, Seeding",Pruning,22.71,3.5,4.9,0.58,1
+11,Tractor Driving,Irrigation Setup,32.18,4.2,4.7,0.57,0
+1,"Pesticide Spraying, Pruning, Tractor Driving",Tractor Driving,30.76,4.9,3.9,0.79,1
+3,Pesticide Spraying,Irrigation Setup,25.18,4.2,3.6,0.61,0
+7,"Irrigation Setup, Seeding",Pesticide Spraying,16.05,4.3,4.3,0.34,0
+8,"Harvesting, Irrigation Setup, Tractor Driving",Seeding,26.11,3.3,4.5,0.47,0
+1,"Seeding, Pruning, Pesticide Spraying",Irrigation Setup,4.12,3.7,4.3,0.44,0
+13,Tractor Driving,Pesticide Spraying,24.45,4.0,4.0,0.56,0
+5,"Harvesting, Tractor Driving, Seeding",Pesticide Spraying,21.62,3.1,4.9,0.67,0
+8,"Tractor Driving, Harvesting",Irrigation Setup,31.58,3.3,4.8,0.7,0
+4,"Pruning, Pesticide Spraying",Harvesting,4.43,3.5,3.6,0.87,1
+2,Pesticide Spraying,Harvesting,20.08,4.2,4.0,0.35,0
+5,Irrigation Setup,Harvesting,20.87,4.0,3.9,0.69,0
+6,"Pesticide Spraying, Pruning, Harvesting",Pruning,16.47,3.1,3.7,0.69,0
+3,Pruning,Harvesting,18.56,3.3,4.2,0.69,0
+6,Harvesting,Seeding,26.12,4.8,3.4,0.45,0
+13,"Pesticide Spraying, Tractor Driving, Seeding",Tractor Driving,30.28,3.2,3.9,0.42,1
+11,Harvesting,Pesticide Spraying,18.12,4.2,3.7,0.49,0
+3,"Pesticide Spraying, Pruning, Seeding",Irrigation Setup,7.49,4.4,4.6,0.65,0
+2,"Seeding, Pesticide Spraying",Irrigation Setup,1.31,4.5,3.6,0.32,1
+10,"Pesticide Spraying, Irrigation Setup",Pruning,32.7,4.6,3.6,0.38,0
+11,Pesticide Spraying,Pesticide Spraying,24.19,3.5,3.5,0.34,1
+5,"Pesticide Spraying, Seeding, Pruning",Harvesting,24.76,4.7,4.9,0.45,0
+15,"Irrigation Setup, Seeding",Irrigation Setup,15.23,3.8,4.1,0.98,1
+14,"Harvesting, Tractor Driving, Pruning",Tractor Driving,18.66,3.9,4.2,0.51,1
+13,"Tractor Driving, Pesticide Spraying, Pruning",Harvesting,13.4,4.7,4.0,0.54,0
+4,Seeding,Irrigation Setup,26.3,3.6,4.9,0.8,0
+5,"Pruning, Pesticide Spraying, Tractor Driving",Irrigation Setup,18.47,3.2,3.6,0.42,0
+12,Tractor Driving,Pruning,9.92,3.4,3.5,0.41,0
+1,"Harvesting, Pesticide Spraying, Pruning",Seeding,19.45,5.0,3.5,0.5,0
+13,Pesticide Spraying,Irrigation Setup,27.54,4.8,4.3,0.55,0
+8,"Pesticide Spraying, Pruning",Seeding,22.4,4.0,4.1,0.43,0
+13,"Pesticide Spraying, Irrigation Setup",Tractor Driving,21.65,5.0,3.7,0.68,1
+11,Seeding,Seeding,18.88,4.7,3.5,0.67,1
+8,"Pesticide Spraying, Seeding, Harvesting",Pruning,10.46,3.4,3.8,0.88,0
+9,"Seeding, Pesticide Spraying",Pesticide Spraying,34.75,4.9,3.4,0.33,1
+6,Harvesting,Pruning,0.78,4.1,4.1,0.67,1
+4,"Tractor Driving, Pruning, Irrigation Setup",Seeding,16.39,3.2,4.1,0.56,0
+15,"Seeding, Irrigation Setup",Irrigation Setup,34.6,4.8,4.1,0.85,0
+15,Pesticide Spraying,Pruning,5.71,3.4,4.7,0.48,0
+15,"Harvesting, Pesticide Spraying",Harvesting,5.57,3.7,4.3,0.52,1
+14,"Harvesting, Tractor Driving",Pesticide Spraying,32.35,4.6,3.7,0.86,0
+15,"Harvesting, Irrigation Setup, Pruning",Pesticide Spraying,17.61,4.3,4.7,0.96,1
+9,Pruning,Pesticide Spraying,6.64,4.2,3.8,0.36,1
+3,"Harvesting, Irrigation Setup, Pesticide Spraying",Tractor Driving,33.41,4.8,3.8,0.85,0
+2,"Pesticide Spraying, Seeding",Irrigation Setup,22.87,3.7,4.9,0.96,0
+11,"Tractor Driving, Harvesting, Pesticide Spraying",Tractor Driving,13.97,4.1,3.5,0.82,1
+7,"Tractor Driving, Pruning, Harvesting",Pesticide Spraying,34.11,3.7,4.4,0.57,0
+10,Harvesting,Pruning,11.61,4.6,4.8,0.45,0
+15,"Tractor Driving, Pruning",Pruning,29.16,3.6,4.4,0.99,0
+4,"Harvesting, Pesticide Spraying",Pesticide Spraying,2.94,4.2,4.9,0.9,1
+13,"Pesticide Spraying, Tractor Driving, Pruning",Irrigation Setup,19.13,3.4,4.3,0.5,0
+4,"Seeding, Tractor Driving",Irrigation Setup,1.05,3.5,4.6,0.71,0
+4,Pesticide Spraying,Tractor Driving,13.13,3.4,4.8,0.99,1
+6,"Seeding, Tractor Driving",Pesticide Spraying,6.15,5.0,4.2,0.34,0
+1,"Harvesting, Pesticide Spraying",Seeding,31.98,3.9,3.9,0.84,0
+8,"Pruning, Seeding, Tractor Driving",Pruning,16.6,3.2,4.5,0.58,1
+11,"Harvesting, Tractor Driving",Seeding,5.22,5.0,3.4,0.42,0
+3,"Irrigation Setup, Pesticide Spraying",Seeding,21.89,3.0,4.2,0.75,0
+14,"Irrigation Setup, Pesticide Spraying, Pruning",Pesticide Spraying,26.85,4.2,4.9,0.58,1
+12,"Pruning, Irrigation Setup",Pruning,16.89,4.3,4.3,0.99,1
+1,"Harvesting, Seeding",Harvesting,30.2,3.9,3.4,0.58,1
+2,"Harvesting, Tractor Driving",Seeding,27.73,3.6,4.7,0.75,0
+3,"Tractor Driving, Seeding",Seeding,25.3,4.7,3.7,0.92,1
+9,"Tractor Driving, Seeding",Seeding,25.05,4.2,4.8,0.88,1
+6,"Pesticide Spraying, Harvesting, Pruning",Tractor Driving,16.49,4.8,3.6,0.88,0
+10,"Irrigation Setup, Harvesting",Pruning,19.49,3.6,3.8,0.58,0
+3,"Pruning, Harvesting, Seeding",Harvesting,24.05,4.2,3.6,0.89,1
+7,"Irrigation Setup, Harvesting",Pesticide Spraying,8.36,3.9,4.8,0.42,0
+6,"Harvesting, Pesticide Spraying, Pruning",Irrigation Setup,26.25,4.1,4.8,0.52,0
+3,"Harvesting, Irrigation Setup",Irrigation Setup,12.36,3.1,4.0,0.39,1
+6,"Irrigation Setup, Seeding, Harvesting",Irrigation Setup,24.12,3.4,4.5,0.95,1
+12,Seeding,Tractor Driving,2.96,4.3,4.9,0.62,1
+6,"Irrigation Setup, Pruning, Tractor Driving",Tractor Driving,20.96,4.4,4.1,0.34,0
+12,"Irrigation Setup, Tractor Driving, Pesticide Spraying",Irrigation Setup,33.51,4.8,4.2,0.79,1
+6,"Irrigation Setup, Harvesting",Pruning,21.02,3.9,3.9,0.63,0
+10,"Irrigation Setup, Tractor Driving, Harvesting",Harvesting,0.69,3.4,5.0,0.64,1
+1,Tractor Driving,Seeding,7.04,4.0,4.8,0.32,0
+4,Seeding,Harvesting,24.69,4.5,4.0,0.94,0
+13,Tractor Driving,Harvesting,22.46,4.8,4.4,0.82,0
+4,"Harvesting, Seeding",Pruning,19.85,3.2,4.4,0.67,0
+3,"Harvesting, Irrigation Setup",Pesticide Spraying,25.84,4.1,4.9,0.43,0
+9,"Pruning, Tractor Driving",Tractor Driving,13.74,3.2,3.7,0.31,1
+12,"Pesticide Spraying, Seeding, Pruning",Irrigation Setup,2.98,3.7,4.5,0.65,1
+9,"Harvesting, Pruning, Tractor Driving",Irrigation Setup,26.38,4.2,4.1,0.44,0
+13,Tractor Driving,Tractor Driving,2.31,4.7,4.9,0.78,1
+14,"Irrigation Setup, Tractor Driving, Seeding",Seeding,31.05,3.7,4.4,0.46,1
+11,"Irrigation Setup, Seeding, Tractor Driving",Pruning,6.76,3.6,4.6,0.93,0
+11,"Pesticide Spraying, Irrigation Setup",Irrigation Setup,24.26,4.1,3.9,0.87,1
+11,Seeding,Pruning,0.53,5.0,4.0,0.89,1
+4,"Irrigation Setup, Pesticide Spraying",Pruning,8.25,3.8,3.8,0.99,0
+7,"Irrigation Setup, Harvesting",Pruning,23.06,4.8,3.5,0.48,0
+4,"Pruning, Tractor Driving",Harvesting,19.27,4.8,5.0,0.5,0
+14,"Pruning, Harvesting",Seeding,1.98,4.5,4.6,0.77,1
+15,"Harvesting, Seeding",Pesticide Spraying,1.08,4.6,4.2,0.51,1
+1,Irrigation Setup,Irrigation Setup,15.13,4.5,4.2,0.51,1
+7,"Seeding, Pruning, Harvesting",Pesticide Spraying,31.8,4.1,3.8,0.86,0
+6,Pruning,Irrigation Setup,20.82,3.2,3.7,0.97,0
+6,"Pesticide Spraying, Harvesting",Tractor Driving,30.62,4.1,4.8,0.44,0
+1,"Seeding, Irrigation Setup",Tractor Driving,3.77,4.0,3.5,0.65,1
+9,"Irrigation Setup, Seeding",Pruning,14.12,3.4,4.3,0.38,0
+5,"Harvesting, Tractor Driving, Seeding",Pesticide Spraying,16.11,3.2,3.4,0.73,1
+14,"Irrigation Setup, Seeding, Pesticide Spraying",Pruning,24.88,4.3,3.6,0.5,1
+1,"Tractor Driving, Pesticide Spraying, Seeding",Pruning,20.07,4.3,4.1,0.86,0
+13,Irrigation Setup,Pruning,1.84,4.1,4.5,0.39,1
+11,"Pruning, Seeding",Irrigation Setup,19.48,4.1,4.6,0.49,0
+6,Seeding,Irrigation Setup,34.32,4.1,4.1,0.62,0
+9,"Irrigation Setup, Seeding, Pesticide Spraying",Tractor Driving,15.15,4.7,4.7,0.81,0
+4,"Pesticide Spraying, Seeding, Irrigation Setup",Seeding,25.22,3.7,4.4,0.65,1
+4,"Pruning, Harvesting, Seeding",Harvesting,16.43,5.0,4.5,0.59,1
+4,"Tractor Driving, Irrigation Setup, Harvesting",Irrigation Setup,22.28,3.3,4.0,0.93,1
+4,Pruning,Irrigation Setup,31.44,3.6,3.8,0.96,0
+2,"Pesticide Spraying, Tractor Driving",Irrigation Setup,22.51,3.5,4.0,0.33,0
+7,Harvesting,Tractor Driving,8.63,4.5,3.8,0.58,0
+13,"Pruning, Irrigation Setup, Harvesting",Harvesting,12.82,4.0,3.9,0.72,1
+9,"Pesticide Spraying, Harvesting, Seeding",Irrigation Setup,24.41,4.6,4.3,0.32,0
+11,Pruning,Pesticide Spraying,32.77,3.8,4.0,0.76,0
+5,"Irrigation Setup, Harvesting, Tractor Driving",Pesticide Spraying,28.51,3.6,4.3,0.94,0
+3,Irrigation Setup,Pruning,20.79,3.3,5.0,0.62,0
+3,"Tractor Driving, Seeding",Seeding,4.39,3.5,4.8,0.42,1
+12,Tractor Driving,Pesticide Spraying,22.98,3.6,4.3,0.72,1
+6,"Pruning, Pesticide Spraying",Tractor Driving,21.88,4.0,3.9,0.38,0
+15,Irrigation Setup,Tractor Driving,16.22,4.9,3.6,0.96,1
+11,"Seeding, Tractor Driving",Harvesting,19.37,3.2,4.9,0.37,0
+8,"Harvesting, Irrigation Setup, Tractor Driving",Harvesting,18.13,3.1,4.4,0.42,0
+11,Harvesting,Pesticide Spraying,14.24,3.1,4.6,0.35,0
+9,"Seeding, Irrigation Setup",Harvesting,9.7,4.5,4.3,0.33,1
+10,"Tractor Driving, Seeding",Pruning,27.52,4.8,4.0,0.65,0
+6,Tractor Driving,Seeding,1.65,4.5,4.9,0.54,1
+14,"Seeding, Pesticide Spraying",Pesticide Spraying,32.15,4.3,4.2,0.85,1
+4,"Seeding, Tractor Driving, Harvesting",Pruning,15.07,3.4,3.5,0.59,0
+8,"Irrigation Setup, Pruning",Harvesting,13.63,4.8,4.7,0.77,1
+3,"Harvesting, Tractor Driving, Pesticide Spraying",Harvesting,31.12,4.4,4.0,0.92,0
+4,Pruning,Tractor Driving,5.03,3.4,4.4,0.73,0
+4,Seeding,Seeding,3.2,4.5,3.5,0.8,1
+7,"Harvesting, Tractor Driving",Pesticide Spraying,22.77,4.8,4.4,0.32,0
+2,"Pruning, Pesticide Spraying",Harvesting,4.21,4.3,4.6,0.58,0
+9,Pesticide Spraying,Harvesting,8.99,3.7,3.9,0.97,0
+15,"Seeding, Tractor Driving, Pesticide Spraying",Pruning,10.19,4.9,4.5,0.45,1
+2,"Harvesting, Seeding, Irrigation Setup",Seeding,30.85,3.3,3.6,0.65,0
+6,"Pesticide Spraying, Harvesting",Harvesting,6.48,4.4,3.4,0.79,1
+9,"Pruning, Pesticide Spraying",Tractor Driving,11.1,4.2,4.6,0.54,0
+12,"Harvesting, Tractor Driving",Tractor Driving,13.24,4.4,4.5,0.95,1
+3,"Irrigation Setup, Pesticide Spraying, Harvesting",Tractor Driving,7.42,3.7,4.4,0.9,1
+12,"Harvesting, Seeding",Seeding,9.78,3.6,4.3,0.48,1
+13,"Harvesting, Pesticide Spraying, Irrigation Setup",Pruning,30.24,4.0,3.8,0.78,0
+15,"Irrigation Setup, Seeding, Harvesting",Seeding,31.59,4.0,4.9,0.92,1
+5,"Tractor Driving, Pesticide Spraying",Irrigation Setup,16.35,4.2,3.9,0.51,1
+11,Harvesting,Harvesting,27.14,3.3,4.1,0.42,0
+7,"Seeding, Tractor Driving",Irrigation Setup,9.05,3.8,3.6,0.38,0
+13,"Pruning, Irrigation Setup",Pesticide Spraying,1.13,4.0,3.5,0.99,1
+1,Harvesting,Harvesting,19.86,3.2,4.7,0.95,0
+6,Tractor Driving,Seeding,31.78,4.7,4.1,0.41,0
+12,"Pruning, Harvesting, Irrigation Setup",Harvesting,31.79,3.3,3.4,0.35,1
+1,"Pruning, Tractor Driving",Pruning,27.97,3.8,3.9,0.5,0
+13,"Pruning, Seeding, Tractor Driving",Harvesting,24.16,3.7,4.2,0.95,1
+14,"Harvesting, Seeding",Pesticide Spraying,20.87,4.0,4.6,0.82,0
+15,"Tractor Driving, Pesticide Spraying",Pruning,31.21,3.1,3.5,0.53,0
+4,Tractor Driving,Tractor Driving,22.02,4.0,3.6,0.34,0
+7,Seeding,Harvesting,7.39,3.5,4.9,0.83,0
+9,Pruning,Irrigation Setup,20.58,3.7,3.4,0.61,1
+4,"Seeding, Harvesting, Irrigation Setup",Irrigation Setup,27.32,4.8,4.9,0.47,1
+15,Harvesting,Harvesting,10.57,3.6,5.0,0.33,0
+13,Tractor Driving,Pruning,1.66,3.7,4.8,0.32,1
+1,Pesticide Spraying,Harvesting,34.08,3.8,4.3,0.79,0
+3,"Pesticide Spraying, Seeding",Irrigation Setup,9.8,4.2,3.6,0.48,0
+2,Pesticide Spraying,Tractor Driving,1.15,4.9,4.9,0.34,1
+12,"Pruning, Irrigation Setup, Harvesting",Irrigation Setup,11.91,3.6,3.6,0.87,1
+2,Harvesting,Pesticide Spraying,3.1,5.0,4.9,0.8,1
+2,"Tractor Driving, Pruning, Pesticide Spraying",Tractor Driving,9.51,4.3,4.0,0.68,1
+11,"Irrigation Setup, Pesticide Spraying",Pesticide Spraying,21.12,3.5,4.3,0.57,1
+12,"Pesticide Spraying, Tractor Driving, Irrigation Setup",Pesticide Spraying,24.62,4.7,4.1,0.88,1
+1,"Seeding, Irrigation Setup, Harvesting",Harvesting,23.11,4.7,4.8,0.75,1
+15,"Pruning, Seeding",Pruning,10.9,3.4,4.5,0.67,1
+9,"Harvesting, Tractor Driving",Tractor Driving,13.95,4.9,4.3,0.96,1
+3,"Tractor Driving, Pesticide Spraying, Irrigation Setup",Harvesting,20.02,4.8,4.6,0.98,0
+4,"Irrigation Setup, Tractor Driving",Harvesting,16.69,3.1,5.0,0.46,0
+15,Irrigation Setup,Pruning,27.91,3.6,4.8,0.73,0
+7,"Pruning, Harvesting, Seeding",Pruning,34.65,3.4,4.3,0.99,0
+13,Pesticide Spraying,Pesticide Spraying,1.6,4.6,3.6,0.58,1
+6,"Pruning, Pesticide Spraying, Harvesting",Harvesting,28.37,4.0,4.5,0.82,1
+5,"Seeding, Pruning",Pruning,8.88,4.9,3.5,0.6,1
+1,Pruning,Pruning,28.84,4.9,4.0,0.52,1
+3,"Harvesting, Tractor Driving",Tractor Driving,31.37,3.1,4.8,0.55,0
+11,"Tractor Driving, Pruning",Seeding,24.43,3.5,4.6,1.0,0
+9,Irrigation Setup,Pesticide Spraying,21.98,4.5,4.7,0.83,0
+9,Seeding,Pesticide Spraying,34.57,3.7,4.7,0.56,0
+10,Seeding,Pesticide Spraying,10.07,3.1,4.5,0.35,1
+7,"Seeding, Tractor Driving",Harvesting,21.51,3.6,3.7,0.36,0
+11,"Irrigation Setup, Seeding",Pruning,30.69,3.4,3.8,0.35,0
+10,"Irrigation Setup, Harvesting",Harvesting,12.89,3.3,3.6,0.92,0
+15,"Pruning, Pesticide Spraying, Irrigation Setup",Pruning,29.34,4.1,4.8,0.75,0
+10,"Irrigation Setup, Seeding, Pesticide Spraying",Tractor Driving,28.68,4.7,4.3,0.53,0
+9,"Pruning, Tractor Driving",Tractor Driving,17.43,3.8,4.2,0.9,1
+15,Pesticide Spraying,Irrigation Setup,4.34,4.1,3.7,0.76,1
+14,"Harvesting, Tractor Driving",Seeding,28.01,3.1,3.7,0.58,0
+4,"Pesticide Spraying, Seeding",Pruning,23.05,3.9,4.2,0.57,0
+1,Seeding,Pesticide Spraying,10.61,3.5,4.7,0.78,0
+4,"Pesticide Spraying, Irrigation Setup",Irrigation Setup,17.88,4.1,4.8,0.57,0
+2,"Harvesting, Irrigation Setup, Pesticide Spraying",Seeding,5.82,4.3,3.9,0.98,0
+11,"Pesticide Spraying, Irrigation Setup, Tractor Driving",Pruning,16.85,3.9,4.4,0.96,1
+13,"Harvesting, Pruning",Harvesting,14.58,3.7,4.1,0.31,1
+10,"Harvesting, Pesticide Spraying",Pruning,27.55,4.4,4.0,0.92,0
+3,"Seeding, Tractor Driving, Pruning",Harvesting,6.76,4.9,4.5,0.41,0
+5,"Harvesting, Pesticide Spraying, Seeding",Harvesting,2.63,3.5,3.7,0.68,1
+12,"Tractor Driving, Pesticide Spraying",Pesticide Spraying,13.77,3.8,4.7,0.63,0
+10,"Pruning, Tractor Driving",Tractor Driving,28.11,4.1,3.9,0.49,1
+13,"Tractor Driving, Irrigation Setup, Harvesting",Tractor Driving,34.91,3.6,4.3,0.62,1
+9,Irrigation Setup,Harvesting,6.58,3.9,3.5,0.85,0
+4,Irrigation Setup,Seeding,24.03,3.6,4.9,0.77,0
+11,"Seeding, Pesticide Spraying",Harvesting,1.49,3.5,5.0,0.77,0
+1,"Irrigation Setup, Tractor Driving, Harvesting",Irrigation Setup,24.94,3.1,4.4,0.84,0
+7,"Pesticide Spraying, Harvesting",Irrigation Setup,9.62,3.2,4.3,0.42,0
+10,"Seeding, Harvesting",Seeding,10.34,4.4,3.9,0.98,1
+8,Pesticide Spraying,Harvesting,31.22,3.2,3.5,0.72,0
+6,Seeding,Pruning,34.33,4.6,4.8,0.55,0
+8,Seeding,Harvesting,1.89,4.9,3.6,0.93,1
+2,Tractor Driving,Pesticide Spraying,27.68,4.9,4.4,0.53,0
+9,"Pesticide Spraying, Pruning, Harvesting",Irrigation Setup,19.56,3.2,4.9,0.62,0
+10,"Pesticide Spraying, Tractor Driving",Harvesting,30.04,3.1,4.5,0.85,0
+6,"Seeding, Pesticide Spraying",Pesticide Spraying,13.84,4.3,4.5,0.33,1
+6,"Irrigation Setup, Pesticide Spraying",Pruning,14.26,4.5,4.0,0.79,1
+5,"Seeding, Harvesting",Tractor Driving,3.33,3.0,4.6,0.61,0
+4,"Harvesting, Pesticide Spraying",Tractor Driving,23.15,4.2,4.1,0.56,0
+3,"Harvesting, Irrigation Setup, Tractor Driving",Pesticide Spraying,23.97,3.7,4.0,0.81,0
+13,"Irrigation Setup, Seeding, Pesticide Spraying",Tractor Driving,9.73,4.5,3.5,0.67,0
+14,"Seeding, Harvesting",Irrigation Setup,22.33,3.6,4.7,0.87,0
+2,"Tractor Driving, Pruning, Harvesting",Harvesting,22.26,4.6,5.0,0.86,1
+6,Seeding,Seeding,11.42,3.4,4.7,0.89,1
+1,"Irrigation Setup, Seeding, Pruning",Seeding,3.68,3.5,4.5,0.77,1
+14,"Harvesting, Seeding, Irrigation Setup",Seeding,22.2,3.8,3.9,0.74,1
+6,"Irrigation Setup, Seeding",Seeding,4.22,4.4,4.1,0.86,1
+14,"Pesticide Spraying, Irrigation Setup",Tractor Driving,11.16,4.0,4.4,0.53,1
+9,"Pesticide Spraying, Tractor Driving, Irrigation Setup",Tractor Driving,8.71,4.2,4.8,0.94,1
+9,"Tractor Driving, Pruning",Pesticide Spraying,34.4,3.7,4.7,0.61,0
+5,"Harvesting, Tractor Driving, Pruning",Irrigation Setup,32.83,3.4,4.4,0.82,0
+9,"Pesticide Spraying, Harvesting",Pesticide Spraying,21.16,3.6,4.8,0.84,1
+8,"Seeding, Harvesting, Pesticide Spraying",Irrigation Setup,0.35,4.5,4.6,0.82,1
+1,"Seeding, Tractor Driving",Pruning,16.48,4.5,3.7,0.31,0
+1,"Tractor Driving, Seeding",Tractor Driving,26.52,3.0,4.9,0.66,0
+4,"Tractor Driving, Pruning, Irrigation Setup",Seeding,14.42,3.5,3.6,0.86,0
+14,"Pesticide Spraying, Irrigation Setup",Pesticide Spraying,30.06,3.7,3.4,0.57,1
+2,Harvesting,Pruning,13.96,3.4,3.4,0.53,0
+1,"Seeding, Tractor Driving",Seeding,14.88,3.2,3.7,0.41,1
+5,"Irrigation Setup, Tractor Driving",Tractor Driving,8.55,3.9,3.6,0.62,1
+8,"Harvesting, Tractor Driving",Harvesting,30.6,3.4,3.5,0.77,1
+11,"Pesticide Spraying, Seeding",Irrigation Setup,20.76,3.3,4.8,0.63,0
+12,"Irrigation Setup, Harvesting",Tractor Driving,17.04,3.9,5.0,0.33,0
+6,Pruning,Harvesting,24.62,3.0,3.9,0.51,0
+3,"Tractor Driving, Harvesting, Irrigation Setup",Seeding,8.58,3.4,4.2,0.93,0
+13,"Pruning, Irrigation Setup, Pesticide Spraying",Tractor Driving,10.49,4.2,4.0,0.65,0
+7,"Irrigation Setup, Seeding",Tractor Driving,21.51,4.5,4.0,0.77,0
+1,"Pesticide Spraying, Harvesting, Irrigation Setup",Pesticide Spraying,14.54,3.2,4.8,0.47,1
+13,"Seeding, Irrigation Setup, Harvesting",Irrigation Setup,15.7,4.2,3.9,0.8,1
+12,Harvesting,Irrigation Setup,20.81,4.1,4.9,0.81,0
+15,"Pruning, Irrigation Setup",Irrigation Setup,13.93,3.8,3.8,0.41,1
+8,"Irrigation Setup, Pruning",Pesticide Spraying,4.75,3.1,4.1,0.41,0
+11,"Irrigation Setup, Tractor Driving",Irrigation Setup,29.68,3.3,3.4,0.85,1
+10,Irrigation Setup,Seeding,32.24,4.3,3.8,0.39,0
+5,"Harvesting, Tractor Driving, Irrigation Setup",Seeding,29.37,3.3,4.5,0.46,0
+5,"Pesticide Spraying, Pruning, Seeding",Pesticide Spraying,20.47,4.0,4.7,0.82,1
+7,"Tractor Driving, Seeding",Irrigation Setup,10.19,3.8,4.7,0.43,1
+6,"Pesticide Spraying, Harvesting, Tractor Driving",Pesticide Spraying,31.24,4.0,4.9,0.55,0
+4,"Pesticide Spraying, Harvesting",Seeding,15.28,3.8,4.4,0.98,0
+12,"Seeding, Irrigation Setup, Pruning",Pesticide Spraying,7.67,3.1,4.4,0.97,1
+9,"Pruning, Pesticide Spraying",Tractor Driving,3.67,3.9,3.9,0.39,1
+7,Harvesting,Irrigation Setup,13.04,3.9,4.7,0.62,1
+4,"Tractor Driving, Pruning, Pesticide Spraying",Seeding,13.1,4.2,4.0,0.45,1
+1,"Pesticide Spraying, Harvesting, Irrigation Setup",Pesticide Spraying,20.28,3.4,4.2,0.62,0
+15,Harvesting,Pesticide Spraying,16.98,4.8,4.6,0.38,1
+5,"Pruning, Irrigation Setup",Tractor Driving,11.42,3.5,4.1,0.97,0
+6,Pesticide Spraying,Pesticide Spraying,32.97,4.8,4.8,0.37,0
+3,"Harvesting, Tractor Driving, Pesticide Spraying",Tractor Driving,5.89,3.8,4.5,0.74,1
+3,Tractor Driving,Seeding,13.96,3.8,4.1,0.47,0
+12,"Tractor Driving, Harvesting, Seeding",Seeding,22.91,4.0,5.0,0.34,1
+9,"Tractor Driving, Harvesting, Pruning",Harvesting,18.47,3.2,3.6,0.79,0
+15,"Tractor Driving, Pesticide Spraying",Seeding,11.96,4.3,4.3,0.87,1
+3,"Irrigation Setup, Pruning",Seeding,30.42,3.2,3.4,0.62,0
+2,Pruning,Pesticide Spraying,18.48,4.2,5.0,0.51,0
+6,Irrigation Setup,Irrigation Setup,33.38,3.3,3.8,0.41,0
+5,Pruning,Pruning,29.81,3.1,4.2,0.79,0
+10,"Pesticide Spraying, Harvesting",Tractor Driving,8.04,4.2,3.6,0.63,1
+7,"Irrigation Setup, Harvesting",Pesticide Spraying,1.8,3.7,4.0,0.86,0
+9,Irrigation Setup,Tractor Driving,18.41,4.2,4.0,0.99,0
+5,"Harvesting, Pesticide Spraying, Tractor Driving",Seeding,27.16,3.8,4.6,0.78,0
+10,"Pesticide Spraying, Pruning",Irrigation Setup,19.44,4.2,5.0,0.44,0
+6,"Seeding, Harvesting, Pesticide Spraying",Harvesting,16.55,3.8,4.3,0.48,1
+13,"Harvesting, Seeding",Pesticide Spraying,20.14,4.4,4.5,0.48,0
+7,Seeding,Irrigation Setup,14.98,4.8,4.2,0.7,0
+1,"Harvesting, Irrigation Setup, Tractor Driving",Tractor Driving,30.25,3.6,4.1,0.46,0
+10,"Pruning, Tractor Driving, Seeding",Pesticide Spraying,3.63,3.8,4.2,0.88,1
+7,"Tractor Driving, Pruning",Tractor Driving,30.15,4.4,4.8,0.42,1
+9,"Pruning, Pesticide Spraying, Tractor Driving",Tractor Driving,17.59,5.0,4.9,0.55,1
+1,"Harvesting, Seeding, Tractor Driving",Harvesting,1.36,3.0,4.0,0.96,1
+10,"Harvesting, Pruning",Seeding,6.21,4.4,4.1,0.66,1
+3,"Tractor Driving, Irrigation Setup, Harvesting",Pruning,5.35,4.7,4.4,0.46,1
+11,"Pesticide Spraying, Seeding, Pruning",Irrigation Setup,13.99,4.6,4.1,0.78,0
+2,"Tractor Driving, Pesticide Spraying, Pruning",Seeding,34.97,4.5,4.4,0.6,0
+2,"Tractor Driving, Pesticide Spraying, Irrigation Setup",Pesticide Spraying,26.42,3.3,4.7,0.69,0
+7,"Pruning, Irrigation Setup, Seeding",Seeding,31.01,3.5,3.8,0.51,0
+15,"Seeding, Pruning",Pesticide Spraying,13.12,4.3,4.3,0.39,1
+3,Tractor Driving,Harvesting,27.46,4.3,4.5,0.64,0
+1,"Pruning, Irrigation Setup",Pesticide Spraying,10.37,3.4,4.2,0.66,0
+3,Irrigation Setup,Pruning,2.95,4.8,5.0,0.72,1
+13,Tractor Driving,Pruning,25.63,4.6,4.4,0.53,0
+3,"Irrigation Setup, Harvesting",Pesticide Spraying,9.41,3.5,3.9,0.61,0
+2,"Pruning, Tractor Driving, Irrigation Setup",Pruning,8.37,4.3,4.9,0.43,1
+14,"Pruning, Tractor Driving, Harvesting",Pesticide Spraying,1.96,4.6,4.3,0.7,1
+13,"Seeding, Tractor Driving",Pruning,11.41,3.9,3.8,0.43,0
+10,Seeding,Pesticide Spraying,29.21,4.1,4.2,0.93,0
+15,"Irrigation Setup, Pesticide Spraying",Pruning,2.92,4.7,4.1,0.3,0
+11,"Pruning, Irrigation Setup",Pruning,6.65,4.6,4.4,0.44,1
+15,"Harvesting, Pesticide Spraying",Pruning,5.64,3.5,5.0,0.41,0
+15,"Tractor Driving, Pesticide Spraying, Harvesting",Pesticide Spraying,2.46,4.8,3.7,0.67,1
+2,"Pruning, Tractor Driving",Seeding,18.6,3.5,4.6,0.7,0
+4,Seeding,Tractor Driving,24.95,3.2,5.0,0.99,0
+3,"Harvesting, Seeding, Pesticide Spraying",Tractor Driving,31.82,3.8,3.9,0.57,0
+7,"Seeding, Harvesting, Irrigation Setup",Pruning,6.5,3.7,3.9,0.72,1
+6,Irrigation Setup,Pesticide Spraying,30.77,4.9,4.3,0.33,0
+10,"Seeding, Harvesting",Irrigation Setup,3.59,4.2,3.8,0.5,1
+2,Seeding,Tractor Driving,31.6,4.1,4.5,0.88,0
+12,"Seeding, Tractor Driving",Tractor Driving,18.93,4.7,3.9,0.42,1
+6,"Pruning, Tractor Driving, Pesticide Spraying",Tractor Driving,23.96,4.4,4.8,0.56,1
+1,"Pesticide Spraying, Pruning",Tractor Driving,14.41,4.1,4.2,0.8,0
+5,"Irrigation Setup, Tractor Driving, Harvesting",Harvesting,27.67,4.4,4.9,0.6,1
+12,Seeding,Harvesting,1.39,3.2,4.3,0.71,1
+14,"Pruning, Irrigation Setup, Harvesting",Tractor Driving,27.14,4.7,3.7,0.72,1
+15,"Pesticide Spraying, Harvesting",Tractor Driving,1.59,4.7,4.9,0.9,1
+12,"Irrigation Setup, Tractor Driving, Harvesting",Pesticide Spraying,13.36,3.2,4.6,0.4,0
+1,"Harvesting, Pruning, Seeding",Tractor Driving,13.35,4.8,3.4,0.79,0
+2,"Pesticide Spraying, Harvesting, Seeding",Harvesting,14.92,4.8,3.6,0.8,1
+6,"Irrigation Setup, Pruning, Harvesting",Harvesting,15.78,3.6,3.8,0.6,1
+1,"Seeding, Irrigation Setup, Tractor Driving",Harvesting,17.99,4.4,3.5,0.69,1
+7,"Seeding, Pruning, Tractor Driving",Seeding,31.57,3.0,4.8,0.66,0
+9,"Pesticide Spraying, Pruning",Seeding,15.31,3.5,3.8,0.65,0
+4,"Harvesting, Pesticide Spraying, Seeding",Pruning,20.21,4.5,3.8,0.5,0
+10,Harvesting,Pesticide Spraying,9.11,3.5,4.4,0.67,1
+6,"Seeding, Pruning, Irrigation Setup",Pesticide Spraying,12.36,4.2,4.3,0.72,0
+5,"Harvesting, Tractor Driving",Pruning,30.23,3.6,3.7,0.61,0
+9,"Pesticide Spraying, Pruning, Irrigation Setup",Irrigation Setup,9.43,3.9,4.8,0.36,1
+13,"Seeding, Tractor Driving, Pruning",Harvesting,33.36,4.3,4.9,0.44,1
+11,"Irrigation Setup, Pruning",Pesticide Spraying,2.77,4.8,4.6,0.44,1
+11,"Irrigation Setup, Harvesting, Pruning",Tractor Driving,5.95,4.5,4.6,0.6,0
+11,"Harvesting, Pruning, Tractor Driving",Pruning,34.27,3.5,3.7,0.54,1
+9,"Pruning, Seeding",Harvesting,5.98,3.1,3.7,0.62,1
+11,"Pesticide Spraying, Irrigation Setup, Tractor Driving",Irrigation Setup,15.83,4.2,3.6,0.98,1
+7,Harvesting,Seeding,16.93,3.4,3.6,0.91,0
+9,Tractor Driving,Pruning,33.71,4.3,4.7,0.91,0
+12,"Tractor Driving, Harvesting, Irrigation Setup",Pruning,34.24,3.9,3.7,0.44,0
+11,"Pruning, Seeding, Tractor Driving",Harvesting,17.56,4.4,4.3,0.61,1
+2,"Pesticide Spraying, Pruning",Pesticide Spraying,24.08,4.1,3.8,0.82,1
+5,"Pesticide Spraying, Tractor Driving, Harvesting",Pesticide Spraying,2.41,3.2,4.2,0.67,1
+9,"Seeding, Irrigation Setup, Pruning",Harvesting,8.78,4.8,3.6,0.76,0
+12,"Irrigation Setup, Tractor Driving",Seeding,33.41,4.7,3.9,0.31,0
+7,"Seeding, Pruning",Pesticide Spraying,7.56,4.2,3.8,0.91,1
+7,"Tractor Driving, Pesticide Spraying, Pruning",Irrigation Setup,3.52,3.8,3.9,0.68,0
+4,"Seeding, Irrigation Setup",Irrigation Setup,7.68,4.1,4.3,0.71,1
+7,"Harvesting, Irrigation Setup, Pruning",Irrigation Setup,31.32,4.7,4.1,0.57,0
+4,Pruning,Tractor Driving,28.6,3.9,3.6,0.98,0
+14,Tractor Driving,Seeding,33.92,3.6,3.5,0.8,0
+6,"Harvesting, Tractor Driving, Seeding",Pruning,23.1,4.5,3.7,0.53,0
+2,Harvesting,Pruning,29.93,4.6,4.5,0.53,0
+12,"Tractor Driving, Seeding",Pruning,10.8,4.7,4.7,0.32,1
+11,Irrigation Setup,Seeding,5.19,5.0,4.3,0.66,1
+11,"Pruning, Harvesting",Pesticide Spraying,26.67,3.4,4.5,0.43,0
+14,Pruning,Pesticide Spraying,18.56,3.3,4.3,0.36,0
+9,"Irrigation Setup, Pesticide Spraying, Seeding",Seeding,17.34,3.9,4.3,0.32,0
+7,"Seeding, Tractor Driving",Tractor Driving,2.99,3.4,4.5,0.93,1
+11,"Seeding, Tractor Driving",Seeding,0.67,4.2,4.9,0.47,1
+13,"Pesticide Spraying, Seeding, Irrigation Setup",Pruning,12.58,4.1,4.4,0.53,0
+4,"Tractor Driving, Pesticide Spraying",Irrigation Setup,12.54,4.6,4.3,0.51,0
+14,"Tractor Driving, Irrigation Setup, Pruning",Harvesting,22.61,3.2,4.8,0.7,0
+9,"Pruning, Tractor Driving",Tractor Driving,0.9,4.1,4.7,0.33,1
+3,"Harvesting, Irrigation Setup",Pesticide Spraying,33.69,3.6,4.8,0.95,0
+13,"Tractor Driving, Irrigation Setup, Harvesting",Seeding,17.65,4.3,3.6,0.33,1
+12,"Pesticide Spraying, Harvesting",Harvesting,12.53,3.2,4.6,0.81,1
+2,"Pruning, Seeding, Tractor Driving",Harvesting,29.06,4.5,4.4,0.6,0
+9,"Irrigation Setup, Seeding",Tractor Driving,25.31,3.5,3.7,0.49,1
+3,"Irrigation Setup, Harvesting",Tractor Driving,7.98,4.1,3.7,0.86,0
+2,"Pesticide Spraying, Pruning",Seeding,24.77,3.6,3.9,0.69,0
+5,"Pesticide Spraying, Irrigation Setup, Pruning",Pesticide Spraying,8.04,4.2,3.8,0.99,1
+6,"Seeding, Tractor Driving, Harvesting",Seeding,2.06,3.6,3.5,0.88,1
+6,Harvesting,Irrigation Setup,21.0,4.3,4.8,0.77,0
+1,Pesticide Spraying,Tractor Driving,1.34,3.1,4.9,0.7,0
+3,"Seeding, Harvesting",Tractor Driving,21.51,4.6,3.9,0.88,0
+15,"Seeding, Pruning, Pesticide Spraying",Seeding,6.57,3.1,4.1,0.33,1
+14,"Seeding, Pesticide Spraying, Pruning",Tractor Driving,31.47,4.9,4.5,0.98,0
+7,Harvesting,Tractor Driving,19.24,3.9,4.9,0.57,0
+13,Harvesting,Seeding,28.39,4.3,4.5,0.56,0
+3,Tractor Driving,Tractor Driving,22.58,3.9,3.9,0.46,1
+8,"Harvesting, Pesticide Spraying",Harvesting,7.12,3.5,3.9,0.63,1
+1,Tractor Driving,Seeding,12.53,3.9,3.6,0.58,0
+10,"Pruning, Irrigation Setup",Pesticide Spraying,1.2,4.8,4.8,0.45,1
+13,"Seeding, Harvesting",Tractor Driving,13.54,3.2,4.2,0.66,0
+4,"Pruning, Irrigation Setup, Seeding",Irrigation Setup,15.91,3.2,4.0,0.4,1
+7,"Pesticide Spraying, Irrigation Setup",Seeding,24.4,3.8,3.6,0.9,0
+12,"Seeding, Harvesting",Seeding,9.42,3.5,3.7,0.89,1
+5,Tractor Driving,Irrigation Setup,5.03,4.1,4.7,0.67,1
+8,"Irrigation Setup, Tractor Driving",Pruning,21.53,4.5,4.6,0.84,0
+7,"Pruning, Irrigation Setup, Pesticide Spraying",Irrigation Setup,4.4,4.5,4.3,0.67,1
+14,Seeding,Pruning,11.14,3.5,4.2,0.72,1
+5,"Pesticide Spraying, Tractor Driving, Harvesting",Pesticide Spraying,17.36,4.8,3.8,0.62,1
+7,"Irrigation Setup, Pesticide Spraying",Irrigation Setup,17.89,4.5,3.7,0.45,1
+11,"Tractor Driving, Seeding",Seeding,26.37,4.5,4.0,0.83,1
+7,Pruning,Pesticide Spraying,28.19,4.3,3.5,0.54,0
+8,Irrigation Setup,Harvesting,30.02,4.0,4.0,0.47,0
+11,Pruning,Pesticide Spraying,6.62,4.9,4.5,0.82,1
+9,"Tractor Driving, Harvesting, Pesticide Spraying",Pesticide Spraying,13.89,4.6,3.9,0.65,1
+11,Pesticide Spraying,Pesticide Spraying,17.51,5.0,3.9,0.73,1
+2,"Harvesting, Seeding, Pesticide Spraying",Harvesting,30.95,4.1,4.4,0.91,0
+1,"Pesticide Spraying, Pruning, Seeding",Harvesting,4.75,3.7,4.2,0.6,0
+12,"Irrigation Setup, Pesticide Spraying, Seeding",Irrigation Setup,29.08,3.1,3.7,0.86,1
+1,Seeding,Harvesting,14.01,4.4,4.9,0.76,0
+1,"Pruning, Seeding, Irrigation Setup",Pruning,25.47,4.0,4.4,0.93,1
+10,Pruning,Irrigation Setup,0.81,4.2,3.6,0.84,0
+7,"Seeding, Harvesting, Irrigation Setup",Pesticide Spraying,19.38,3.5,4.7,0.49,0
+4,Seeding,Irrigation Setup,12.39,4.4,3.7,0.48,0
+5,Irrigation Setup,Irrigation Setup,9.44,3.4,3.4,0.81,1
+5,Tractor Driving,Harvesting,7.74,4.4,4.4,0.56,0
+3,"Harvesting, Irrigation Setup",Pruning,22.3,3.2,4.6,0.8,0
+3,"Irrigation Setup, Harvesting, Pesticide Spraying",Harvesting,9.6,3.8,3.8,0.46,1
+1,"Pesticide Spraying, Tractor Driving, Harvesting",Pesticide Spraying,1.79,4.5,4.2,0.52,1
+3,"Pesticide Spraying, Tractor Driving, Irrigation Setup",Seeding,33.84,4.5,5.0,0.76,0
+12,Irrigation Setup,Pruning,13.1,4.6,3.6,0.88,0
+1,"Irrigation Setup, Harvesting",Harvesting,12.76,4.0,4.9,0.47,1
+6,Seeding,Tractor Driving,2.14,4.2,3.6,0.83,1
+12,"Pesticide Spraying, Harvesting, Tractor Driving",Pruning,16.82,4.6,3.8,0.83,0
+5,Pesticide Spraying,Seeding,17.48,3.3,4.2,0.4,0
+8,Irrigation Setup,Seeding,5.89,5.0,4.5,0.83,1
+3,"Tractor Driving, Harvesting",Pesticide Spraying,27.18,4.3,3.9,0.64,0
+10,"Seeding, Pesticide Spraying",Harvesting,21.62,4.1,4.0,0.57,0
+12,"Pruning, Seeding",Irrigation Setup,32.22,4.1,4.0,0.67,0
+4,Seeding,Pruning,5.07,3.1,4.8,0.81,0
+6,Harvesting,Harvesting,5.42,3.1,5.0,0.5,0
+10,Irrigation Setup,Harvesting,9.98,4.7,5.0,0.48,0
+3,Pesticide Spraying,Seeding,26.23,4.9,4.2,0.77,0
+12,"Harvesting, Tractor Driving, Irrigation Setup",Tractor Driving,5.4,3.5,3.6,0.4,1
+6,"Pesticide Spraying, Pruning, Harvesting",Irrigation Setup,14.85,3.1,3.4,0.67,0
+10,Pesticide Spraying,Irrigation Setup,11.35,4.1,4.9,0.57,1
+14,"Tractor Driving, Irrigation Setup, Pesticide Spraying",Harvesting,22.59,4.0,4.0,0.4,1
+11,"Irrigation Setup, Pesticide Spraying",Tractor Driving,21.45,3.8,3.4,0.99,0
+13,"Tractor Driving, Seeding",Pesticide Spraying,3.87,3.6,4.8,0.67,1
+12,"Tractor Driving, Irrigation Setup",Pesticide Spraying,12.79,4.8,4.5,0.4,0
+1,Tractor Driving,Pesticide Spraying,30.62,4.0,3.9,1.0,0
+6,"Irrigation Setup, Pruning",Pesticide Spraying,28.38,3.2,4.0,0.36,0
+12,Pruning,Pesticide Spraying,2.19,3.5,4.2,0.64,1
+11,"Pesticide Spraying, Irrigation Setup, Pruning",Irrigation Setup,18.32,4.6,4.8,0.89,1
+9,"Tractor Driving, Harvesting, Pruning",Tractor Driving,21.45,4.4,4.2,0.79,1
+9,"Seeding, Tractor Driving, Pruning",Pesticide Spraying,3.85,4.8,4.4,0.48,1
+5,"Irrigation Setup, Pesticide Spraying, Tractor Driving",Pesticide Spraying,32.96,4.5,4.3,0.95,1
+12,"Seeding, Irrigation Setup, Pesticide Spraying",Harvesting,24.58,3.1,3.9,0.79,0
+15,"Tractor Driving, Pesticide Spraying, Irrigation Setup",Pruning,25.36,4.8,4.8,0.66,0
+11,"Harvesting, Irrigation Setup",Seeding,8.46,4.3,4.4,0.58,1
+15,"Irrigation Setup, Tractor Driving, Pruning",Tractor Driving,29.8,4.9,4.0,0.66,1
+6,"Seeding, Pesticide Spraying",Pesticide Spraying,34.77,3.9,4.5,0.85,0
+1,"Pruning, Seeding, Harvesting",Pesticide Spraying,11.94,3.7,4.5,0.67,0
+13,"Harvesting, Pesticide Spraying, Irrigation Setup",Tractor Driving,32.27,3.5,4.0,0.41,0
+3,"Pruning, Pesticide Spraying",Pesticide Spraying,18.62,4.4,4.8,0.96,1
+4,"Harvesting, Tractor Driving, Pesticide Spraying",Pesticide Spraying,21.19,4.3,4.8,0.85,0
+3,Pruning,Seeding,31.44,3.1,4.4,0.39,0
+2,Harvesting,Pruning,1.26,3.1,3.5,0.81,0
+3,"Pruning, Seeding, Irrigation Setup",Irrigation Setup,29.56,4.7,4.6,0.73,0
+7,"Pruning, Tractor Driving",Pesticide Spraying,19.7,3.7,4.4,0.49,0
+13,"Pesticide Spraying, Seeding, Irrigation Setup",Pruning,17.57,4.2,4.7,0.32,0
+5,"Pruning, Pesticide Spraying, Harvesting",Tractor Driving,29.39,4.6,3.9,0.76,0
+2,"Harvesting, Pruning, Seeding",Pesticide Spraying,27.54,3.5,4.6,0.62,0
+11,"Pruning, Seeding, Harvesting",Tractor Driving,15.72,3.1,4.0,0.83,0
+1,"Tractor Driving, Pesticide Spraying, Irrigation Setup",Seeding,21.42,4.7,3.8,0.45,0
