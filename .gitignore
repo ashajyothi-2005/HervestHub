@@ -7,3 +7,4 @@ env/
 .ruff_cache/
 *.log
 harvesthub.db
+.env
