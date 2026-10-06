@@ -8,3 +8,5 @@ env/
 *.log
 harvesthub.db
 .env
+__pycache__/
+*.pyc
